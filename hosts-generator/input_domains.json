@@ -348,5 +348,13 @@
         "domains": [
             "profile.broadcom.com"
         ]
+    },
+    {
+        "section": "Patreon",
+        "domains": [
+            "patreon.com",
+            "www.patreon.com",
+            "patreonusercontent.com"
+        ]
     }
 ]

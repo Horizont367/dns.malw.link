@@ -52,7 +52,7 @@ for action in "$@"; do
                 fi
             }
             export -f check_and_filter
-            grep -vE '^\s*#|^\s*$' lists/garbage.txt | tr -d '\r' | xargs -P 20 -I {} bash -c 'check_and_filter "{}"' | sort -u > "$temp_file"
+            grep -vE '^\s*#|^\s*$' lists/garbage.txt | tr -d '\r' | xargs -P 5 -I {} bash -c 'check_and_filter "{}"' | sort -u > "$temp_file"
             mv "$temp_file" lists/garbage.txt
             echo "Нерабочие домены и дубликаты удалены из garbage.txt"
             sort -u lists/garbage.txt -o lists/garbage.txt
