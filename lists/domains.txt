@@ -49,3 +49,8 @@ www.tiktok.com
 xgpuweb.gssv-play-prod.xboxlive.com
 xgpuwebf2p.gssv-play-prod.xboxlive.com
 xsts.auth.xboxlive.com
+code-with-me.global.jetbrains.com
+linuxgsm.com
+technicalramblings.com
+console.groq.com
+api.groq.com

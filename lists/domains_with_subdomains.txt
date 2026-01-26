@@ -54,3 +54,7 @@ wikidot.com
 windsurf.com
 x.ai
 patreonusercontent.com
+netacad.com
+dellcdn.com
+datacamp.com
+discord.me
