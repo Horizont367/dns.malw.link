@@ -9,7 +9,6 @@
             "platform.openai.com",
             "cdn.oaistatic.com",
             "files.oaiusercontent.com",
-            "cdn.auth0.com",
             "tcr9i.chat.openai.com",
             "webrtc.chatgpt.com",
             "android.chat.openai.com",
@@ -48,7 +47,6 @@
             "open.spotify.com",
             "accounts.scdn.co",
             "gew1-dealer.spotify.com",
-            "open-exp.spotifycdn.com",
             "www-growth.scdn.co"
         ]
     },
@@ -142,7 +140,8 @@
             "auth.deepl.com",
             "oneshot-free.www.deepl.com",
             "checkout.www.deepl.com",
-            "gtm.deepl.com"
+            "gtm.deepl.com",
+            "voice-proxy.www.deepl.com"
         ]
     },
     {
@@ -333,7 +332,9 @@
     },
     {
         "section": "Imgur",
-        "domains": "api.imgur.com"
+        "domains": [
+            "api.imgur.com"
+        ]
     },
     {
         "section": "Dyson",
