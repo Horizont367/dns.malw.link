@@ -79,7 +79,7 @@ read supercell_choice
 
 add_game_to_nginx() {
     sed -i '$d' ./sni-proxy/nginx.conf
-    echo -e "    server {\n        listen $1;\n        proxy_pass $2:$1;\n        proxy_timeout 5h;\n    }\n}" >> ./sni-proxy/nginx.conf
+    echo -e "    server {\n        listen $1;\n        listen $1 udp;\n        proxy_pass $2:$1;\n        proxy_timeout 5h;\n    }\n}" >> ./sni-proxy/nginx.conf
 }
 
 change_game_in_hosts() {

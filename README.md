@@ -8,7 +8,7 @@ DNS и SNI Proxy обходят блокировки IP-адресов от са
 Требуется хоть какое-то базовое знание Linux и командной строки.
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ImMALWARE/dns.malw.link
+   git clone --depth 1 https://github.com/ImMALWARE/dns.malw.link
    ```
 
 2. Убедитесь, что у вас установлены пакеты `curl`, `dig`, `docker`, `docker-compose`, `nano`, `socat`.

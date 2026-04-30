@@ -160,13 +160,29 @@
         ]
     },
     {
-        "section": "Fitbit",
+        "section": "Google",
         "domains": [
             "api.fitbit.com",
             "fitbit-pa.googleapis.com",
             "fitbitvestibuleshim-pa.googleapis.com",
-            "fitbit.google.com"
-        ]
+            "fitbit.google.com",
+            "gemini.google.com",
+            "aistudio.google.com",
+            "generativelanguage.googleapis.com",
+            "aitestkitchen.withgoogle.com",
+            "aisandbox-pa.googleapis.com",
+            "webchannel-alkalimakersuite-pa.clients6.google.com",
+            "alkalimakersuite-pa.clients6.google.com",
+            "assistant-s3-pa.googleapis.com",
+            "proactivebackend-pa.googleapis.com",
+            "robinfrontend-pa.googleapis.com",
+            "o.pki.goog",
+            "labs.google",
+            "notebooklm.google.com",
+            "jules.google.com",
+            "stitch.withgoogle.com"
+        ],
+        "force_ip": "62.133.62.97"
     },
     {
         "section": "Claude",

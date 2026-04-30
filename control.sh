@@ -44,15 +44,15 @@ for action in "$@"; do
             temp_file=$(mktemp)
 
             check_and_filter() {
-                if curl -s -o /dev/null -m 5 "https://$1" || curl -s -o /dev/null -m 3 "http://$1"; then
+                if curl -s -o /dev/null -m 15 "https://$1" || curl -s -o /dev/null -m 3 "http://$1"; then
                     echo "$1"
                     echo -e "\e[32m[ALIVE]\e[0m $1" >&2
                 else
                     echo -e "\e[31m[DELETE]\e[0m $1" >&2
                 fi
             }
-            export -f check_and_filter
-            grep -vE '^\s*#|^\s*$' lists/garbage.txt | tr -d '\r' | xargs -P 5 -I {} bash -c 'check_and_filter "{}"' | sort -u > "$temp_file"
+            export -f check_and_filter1
+            grep -vE '^\s*#|^\s*$' lists/garbage.txt | tr -d '\r' | xargs -P 20 -I {} bash -c 'check_and_filter "{}"' | sort -u > "$temp_file"
             mv "$temp_file" lists/garbage.txt
             echo "Нерабочие домены и дубликаты удалены из garbage.txt"
             sort -u lists/garbage.txt -o lists/garbage.txt
