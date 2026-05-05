@@ -17,7 +17,9 @@
             "sora.chatgpt.com",
             "sora.com",
             "videos.openai.com",
-            "ios.chat.openai.com"
+            "ios.chat.openai.com",
+            "cdn.platform.openai.com",
+            "developers.openai.com"
         ]
     },
     {
@@ -189,7 +191,9 @@
         "domains": [
             "claude.ai",
             "console.anthropic.com",
-            "api.anthropic.com"
+            "api.anthropic.com",
+            "platform.claude.com",
+            "a.claude.ai"
         ]
     },
     {
