@@ -28,8 +28,9 @@
 |sora.com^$dnsrewrite=77.239.114.0
 |videos.openai.com^$dnsrewrite=77.239.114.0
 |ios.chat.openai.com^$dnsrewrite=77.239.114.0
+|cdn.platform.openai.com^$dnsrewrite=77.239.114.0
+|developers.openai.com^$dnsrewrite=77.239.114.0
 |copilot.microsoft.com^$dnsrewrite=77.239.114.0
-|sydney.bing.com^$dnsrewrite=62.133.62.97
 |edgeservices.bing.com^$dnsrewrite=77.239.114.0
 |rewards.bing.com^$dnsrewrite=77.239.114.0
 |xsts.auth.xboxlive.com^$dnsrewrite=77.239.114.0
@@ -134,6 +135,8 @@
 |claude.ai^$dnsrewrite=77.239.114.0
 |console.anthropic.com^$dnsrewrite=77.239.114.0
 |api.anthropic.com^$dnsrewrite=77.239.114.0
+|platform.claude.com^$dnsrewrite=77.239.114.0
+|a.claude.ai^$dnsrewrite=77.239.114.0
 |trae-api-sg.mchost.guru^$dnsrewrite=77.239.114.0
 |api.trae.ai^$dnsrewrite=77.239.114.0
 |api-sg-central.trae.ai^$dnsrewrite=77.239.114.0
@@ -166,7 +169,7 @@
 |www.intel.com^$dnsrewrite=77.239.114.0
 |www.dell.com^$dnsrewrite=77.239.114.0
 |www.tiktok.com^$dnsrewrite=77.239.114.0
-|web.archive.org^$dnsrewrite=77.239.114.0
+|web.archive.org^$dnsrewrite=103.27.157.38
 |developer.nvidia.com^$dnsrewrite=77.239.114.0
 |builds.parsec.app^$dnsrewrite=77.239.114.0
 |tria.ge^$dnsrewrite=77.239.114.0
@@ -237,7 +240,7 @@
 |api-v2.soundcloud.com^$dnsrewrite=77.239.114.0
 |api.groq.com^$dnsrewrite=77.239.114.0
 |c.strava.com^$dnsrewrite=77.239.114.0
-|cdn-1.strava.com^$dnsrewrite=103.27.157.38
+|cdn-1.strava.com^$dnsrewrite=77.239.114.0
 |console.groq.com^$dnsrewrite=77.239.114.0
 |dds.dell.com^$dnsrewrite=77.239.114.0
 |eu.posthog.com^$dnsrewrite=77.239.114.0
@@ -252,7 +255,6 @@
 |us.posthog.com^$dnsrewrite=77.239.114.0
 |www.strava.com^$dnsrewrite=77.239.114.0
 |0.0.0.0.hpyrdr.com^$dnsrewrite=0.0.0.0
-|000free.us^$dnsrewrite=0.0.0.0
 |000.gaysexe.free.fr^$dnsrewrite=0.0.0.0
 |000tristanprod.free.fr^$dnsrewrite=0.0.0.0
 |0099xxy78.weebly.com^$dnsrewrite=0.0.0.0
@@ -265,7 +267,6 @@
 |03e.info^$dnsrewrite=0.0.0.0
 |03p.info^$dnsrewrite=0.0.0.0
 |0548dr.pages.dev^$dnsrewrite=0.0.0.0
-|05agu.doctortrf.com^$dnsrewrite=0.0.0.0
 |07634.com^$dnsrewrite=0.0.0.0
 |0909n9090.weebly.com^$dnsrewrite=0.0.0.0
 |09zyy.com^$dnsrewrite=0.0.0.0
@@ -324,8 +325,6 @@
 |123branlemoi.free.fr^$dnsrewrite=0.0.0.0
 |123cha.com^$dnsrewrite=0.0.0.0
 |123count.com^$dnsrewrite=0.0.0.0
-|123counter.mycomputer.com^$dnsrewrite=0.0.0.0
-|123counter.superstats.com^$dnsrewrite=0.0.0.0
 |123greetings.com^$dnsrewrite=0.0.0.0
 |123kia.free.fr^$dnsrewrite=0.0.0.0
 |123latina.free.fr^$dnsrewrite=0.0.0.0
@@ -375,10 +374,8 @@
 |189889.weebly.com^$dnsrewrite=0.0.0.0
 |18freeporn.com^$dnsrewrite=0.0.0.0
 |18plusstore.com^$dnsrewrite=0.0.0.0
-|18xtube.com^$dnsrewrite=0.0.0.0
 |190107.engine.mobileapptracking.com^$dnsrewrite=0.0.0.0
 |190829.engine.mobileapptracking.com^$dnsrewrite=0.0.0.0
-|19097.hittail.com^$dnsrewrite=0.0.0.0
 |192.168.112.2o7.net^$dnsrewrite=0.0.0.0
 |192.168.122.2o7.net^$dnsrewrite=0.0.0.0
 |194192.engine.mobileapptracking.com^$dnsrewrite=0.0.0.0
@@ -411,7 +408,6 @@
 |2001positions.com^$dnsrewrite=0.0.0.0
 |2016monclerselltokyo.net^$dnsrewrite=0.0.0.0
 |201mb.com^$dnsrewrite=0.0.0.0
-|2020mustang.com^$dnsrewrite=0.0.0.0
 |2025blackfriday.com^$dnsrewrite=0.0.0.0
 |2025liquidation.shop^$dnsrewrite=0.0.0.0
 |20298.engine.mobileapptracking.com^$dnsrewrite=0.0.0.0
@@ -440,7 +436,6 @@
 |24725.hittail.com^$dnsrewrite=0.0.0.0
 |24-7clinic.com^$dnsrewrite=0.0.0.0
 |24-7cryptocurrenciez.com^$dnsrewrite=0.0.0.0
-|247support.adtech.fr^$dnsrewrite=0.0.0.0
 |247support.adtech.us^$dnsrewrite=0.0.0.0
 |24809.hittail.com^$dnsrewrite=0.0.0.0
 |24counter.com^$dnsrewrite=0.0.0.0
@@ -470,11 +465,9 @@
 |29ccd.v.fwmrm.net^$dnsrewrite=0.0.0.0
 |2ab7f.v.fwmrm.net^$dnsrewrite=0.0.0.0
 |2af6.net-subskrypcje.digital^$dnsrewrite=0.0.0.0
-|2baners.ero-advertising.com^$dnsrewrite=0.0.0.0
 |2.chmato.me^$dnsrewrite=0.0.0.0
 |2ciy2-9kbup.ads.tremorhub.com^$dnsrewrite=0.0.0.0
 |2df7e.v.fwmrm.net^$dnsrewrite=0.0.0.0
-|2ds.ero-advertising.com^$dnsrewrite=0.0.0.0
 |2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com^$dnsrewrite=0.0.0.0
 |2girls1cup.nl^$dnsrewrite=0.0.0.0
 |2girls1cup.ws^$dnsrewrite=0.0.0.0
@@ -635,7 +628,6 @@
 |4pp13.com^$dnsrewrite=0.0.0.0
 |4pussies.com^$dnsrewrite=0.0.0.0
 |4qinvite.4q.iperceptions.com^$dnsrewrite=0.0.0.0
-|4s13t.doctortrf.com^$dnsrewrite=0.0.0.0
 |4shoes.com.pl^$dnsrewrite=0.0.0.0
 |4ur.click^$dnsrewrite=0.0.0.0
 |4ureyesonly.com^$dnsrewrite=0.0.0.0
@@ -718,7 +710,6 @@
 |7ecf.net-subskrypcje.digital^$dnsrewrite=0.0.0.0
 |7f077.v.fwmrm.net^$dnsrewrite=0.0.0.0
 |7f44.przedplata.info^$dnsrewrite=0.0.0.0
-|7fb.ru^$dnsrewrite=0.0.0.0
 |7gfs.com^$dnsrewrite=0.0.0.0
 |7minuteworkout.com^$dnsrewrite=0.0.0.0
 |7vulkanvegas37.com^$dnsrewrite=0.0.0.0
@@ -1012,7 +1003,6 @@
 |abadass.com^$dnsrewrite=0.0.0.0
 |ab.adrecreate.com^$dnsrewrite=0.0.0.0
 |aba.gumgum.com^$dnsrewrite=0.0.0.0
-|ab.airpush.com^$dnsrewrite=0.0.0.0
 |abbottlabs.112.2o7.net^$dnsrewrite=0.0.0.0
 |abbottnutrition.com.102.112.2o7.net^$dnsrewrite=0.0.0.0
 |abbyssh.freestats.com^$dnsrewrite=0.0.0.0
@@ -1106,7 +1096,6 @@
 |acemetrics.aaa.com^$dnsrewrite=0.0.0.0
 |acemlnb.com^$dnsrewrite=0.0.0.0
 |acenar.com^$dnsrewrite=0.0.0.0
-|a-c-engine.com^$dnsrewrite=0.0.0.0
 |a.centrum.cz^$dnsrewrite=0.0.0.0
 |ac-feedback.com^$dnsrewrite=0.0.0.0
 |acglgoa.com^$dnsrewrite=0.0.0.0
@@ -1218,7 +1207,6 @@
 |ad4game.com^$dnsrewrite=0.0.0.0
 |ad4.i2i.jp^$dnsrewrite=0.0.0.0
 |ad4.layerads.ero-advertising.com^$dnsrewrite=0.0.0.0
-|ad4.lbn.ru^$dnsrewrite=0.0.0.0
 |ad4mat.com^$dnsrewrite=0.0.0.0
 |ad4mat.de^$dnsrewrite=0.0.0.0
 |ad4mat.net^$dnsrewrite=0.0.0.0
@@ -1227,7 +1215,6 @@
 |ad5.fpa.ero-advertising.com^$dnsrewrite=0.0.0.0
 |ad.71i.de^$dnsrewrite=0.0.0.0
 |ad7.api.ero-advertising.com^$dnsrewrite=0.0.0.0
-|ad7.banners.ero-advertising.com^$dnsrewrite=0.0.0.0
 |ad7.thumbs.ero-advertising.com^$dnsrewrite=0.0.0.0
 |ad.886644.com^$dnsrewrite=0.0.0.0
 |ad8.adfarm1.adition.com^$dnsrewrite=0.0.0.0
@@ -1451,7 +1438,6 @@
 |adform.net^$dnsrewrite=0.0.0.0
 |ad.fout.jp^$dnsrewrite=0.0.0.0
 |adfox.yandex.ru^$dnsrewrite=0.0.0.0
-|adfpaces.ero-advertising.com^$dnsrewrite=0.0.0.0
 |adf.shinobi.jp^$dnsrewrite=0.0.0.0
 |adfstat.yandex.ru^$dnsrewrite=0.0.0.0
 |adfurikun.jp^$dnsrewrite=0.0.0.0
@@ -1465,7 +1451,6 @@
 |ad.goo.ne.jp^$dnsrewrite=0.0.0.0
 |adgraphics.theonion.com^$dnsrewrite=0.0.0.0
 |ad.groupon.be^$dnsrewrite=0.0.0.0
-|ad.groupon.net^$dnsrewrite=0.0.0.0
 |ad.gt^$dnsrewrite=0.0.0.0
 |adgtracker.com^$dnsrewrite=0.0.0.0
 |ad.gunosy.com^$dnsrewrite=0.0.0.0
@@ -1485,7 +1470,6 @@
 |ad.hyena.cz^$dnsrewrite=0.0.0.0
 |adi.admicro.vn^$dnsrewrite=0.0.0.0
 |adictosalzoom.com^$dnsrewrite=0.0.0.0
-|adimage.blm.net^$dnsrewrite=0.0.0.0
 |adimage.guardian.co.uk^$dnsrewrite=0.0.0.0
 |adimages.carsoup.com^$dnsrewrite=0.0.0.0
 |adimages.earthweb.com^$dnsrewrite=0.0.0.0
@@ -1612,7 +1596,6 @@
 |ad.monetate.net^$dnsrewrite=0.0.0.0
 |admonitor.com^$dnsrewrite=0.0.0.0
 |ad-monitor.kargo.com^$dnsrewrite=0.0.0.0
-|admost.com^$dnsrewrite=0.0.0.0
 |ad-move.jp^$dnsrewrite=0.0.0.0
 |adm.phunusuckhoe.vn^$dnsrewrite=0.0.0.0
 |adm.phunuvagiadinh.vn^$dnsrewrite=0.0.0.0
@@ -1678,7 +1661,6 @@
 |adop.asia^$dnsrewrite=0.0.0.0
 |adop.cc^$dnsrewrite=0.0.0.0
 |ado.pro-market.net^$dnsrewrite=0.0.0.0
-|adorebeauty.org^$dnsrewrite=0.0.0.0
 |adoreme.zone^$dnsrewrite=0.0.0.0
 |ad.org.vn^$dnsrewrite=0.0.0.0
 |adorigin.com^$dnsrewrite=0.0.0.0
@@ -1708,7 +1690,6 @@
 |adpushup.com^$dnsrewrite=0.0.0.0
 |adp.vnecdn.net^$dnsrewrite=0.0.0.0
 |adpxl.co^$dnsrewrite=0.0.0.0
-|adpxljs.adpxl.co^$dnsrewrite=0.0.0.0
 |ad.qq.com^$dnsrewrite=0.0.0.0
 |adrastus.info^$dnsrewrite=0.0.0.0
 |adrates.theglobeandmail.com^$dnsrewrite=0.0.0.0
@@ -1739,7 +1720,6 @@
 |ads1a.depositfiles.com^$dnsrewrite=0.0.0.0
 |ads1.admedia.ro^$dnsrewrite=0.0.0.0
 |ads1-adnow.com^$dnsrewrite=0.0.0.0
-|ads1.ero-advertising.com^$dnsrewrite=0.0.0.0
 |ads1.opensubtitles.org^$dnsrewrite=0.0.0.0
 |ads1.realcities.com^$dnsrewrite=0.0.0.0
 |ads1.revenue.net^$dnsrewrite=0.0.0.0
@@ -1790,7 +1770,6 @@
 |ads3.gamecity.net^$dnsrewrite=0.0.0.0
 |ads3.haber3.com^$dnsrewrite=0.0.0.0
 |ads3.realcities.com^$dnsrewrite=0.0.0.0
-|ads.3sfmedia.com^$dnsrewrite=0.0.0.0
 |ads3.virtual-nights.com^$dnsrewrite=0.0.0.0
 |ads4.gamecity.net^$dnsrewrite=0.0.0.0
 |ads4homes.com^$dnsrewrite=0.0.0.0
@@ -1953,7 +1932,6 @@
 |ads.colombiaonline.com^$dnsrewrite=0.0.0.0
 |ads-colruytgroup.adhese.com^$dnsrewrite=0.0.0.0
 |ads.comeon.com^$dnsrewrite=0.0.0.0
-|ads.consumeraffairs.com^$dnsrewrite=0.0.0.0
 |ads.contextweb.com^$dnsrewrite=0.0.0.0
 |adsco.re^$dnsrewrite=0.0.0.0
 |ad-score.com^$dnsrewrite=0.0.0.0
@@ -2025,7 +2003,6 @@
 |adserv006.adtech.fr^$dnsrewrite=0.0.0.0
 |adserv006.adtech.us^$dnsrewrite=0.0.0.0
 |adserv007.adtech.fr^$dnsrewrite=0.0.0.0
-|adserv007.adtech.us^$dnsrewrite=0.0.0.0
 |adserv008.adtech.fr^$dnsrewrite=0.0.0.0
 |adserv008.adtech.us^$dnsrewrite=0.0.0.0
 |adserv2.bravenet.com^$dnsrewrite=0.0.0.0
@@ -2083,7 +2060,6 @@
 |adserver.exoticads.com^$dnsrewrite=0.0.0.0
 |adserver.filefront.com^$dnsrewrite=0.0.0.0
 |adserver.gameparty.net^$dnsrewrite=0.0.0.0
-|adserver.generationiron.com^$dnsrewrite=0.0.0.0
 |adserver.hg-computer.de^$dnsrewrite=0.0.0.0
 |adserver.home.pl^$dnsrewrite=0.0.0.0
 |adserver.humanux.com^$dnsrewrite=0.0.0.0
@@ -2147,7 +2123,6 @@
 |adserver-vpc-alb-3-578630024.us-west-2.elb.amazonaws.com^$dnsrewrite=0.0.0.0
 |adserver.waggonerguide.com^$dnsrewrite=0.0.0.0
 |adserver.webads.nl^$dnsrewrite=0.0.0.0
-|adserver.x3.hu^$dnsrewrite=0.0.0.0
 |adserver.zeads.com^$dnsrewrite=0.0.0.0
 |adserve.work^$dnsrewrite=0.0.0.0
 |adservice.google.be^$dnsrewrite=0.0.0.0
@@ -2167,7 +2142,6 @@
 |adserving.fyi-marketing.com^$dnsrewrite=0.0.0.0
 |adserving.speedshiftmedia.com^$dnsrewrite=0.0.0.0
 |adservingvpc-1239633584.eu-west-1.elb.amazonaws.com^$dnsrewrite=0.0.0.0
-|adserv.net^$dnsrewrite=0.0.0.0
 |adservone.com^$dnsrewrite=0.0.0.0
 |adserv.quality-channel.de^$dnsrewrite=0.0.0.0
 |ads.eu.criteo.com^$dnsrewrite=0.0.0.0
@@ -2203,7 +2177,6 @@
 |adsfs.oppomobile.com^$dnsrewrite=0.0.0.0
 |ads.fuckingmachines.com^$dnsrewrite=0.0.0.0
 |ads.fuelo.net^$dnsrewrite=0.0.0.0
-|ads.fulldls.com^$dnsrewrite=0.0.0.0
 |ads-game-187f4.firebaseapp.com^$dnsrewrite=0.0.0.0
 |ads.gamecity.net^$dnsrewrite=0.0.0.0
 |ads.gameservers.com^$dnsrewrite=0.0.0.0
@@ -2225,14 +2198,12 @@
 |ads.greenbaypressgazette.com^$dnsrewrite=0.0.0.0
 |ads.greenvilleonline.com^$dnsrewrite=0.0.0.0
 |ads.grindinggears.com^$dnsrewrite=0.0.0.0
-|ads.gsm-exchange.com^$dnsrewrite=0.0.0.0
 |ads.gsmexchange.com^$dnsrewrite=0.0.0.0
 |ads.guardianunlimited.co.uk^$dnsrewrite=0.0.0.0
 |ads.gumgum.com^$dnsrewrite=0.0.0.0
 |ads.haberler.com^$dnsrewrite=0.0.0.0
 |adsharenetwork.com^$dnsrewrite=0.0.0.0
 |ads.haskovo.net^$dnsrewrite=0.0.0.0
-|ads.healthline.com^$dnsrewrite=0.0.0.0
 |ads.heartlight.org^$dnsrewrite=0.0.0.0
 |ads.heyzap.com^$dnsrewrite=0.0.0.0
 |ads.highdefdigest.com^$dnsrewrite=0.0.0.0
@@ -2240,7 +2211,6 @@
 |ads.homedy.net^$dnsrewrite=0.0.0.0
 |ads.home.vn^$dnsrewrite=0.0.0.0
 |ads.horsehero.com^$dnsrewrite=0.0.0.0
-|ads.host.camz.com^$dnsrewrite=0.0.0.0
 |adshow.it168.com^$dnsrewrite=0.0.0.0
 |adshrink.it^$dnsrewrite=0.0.0.0
 |ads.hsoub.com^$dnsrewrite=0.0.0.0
@@ -2345,7 +2315,6 @@
 |ads.nghenhinvietnam.vn^$dnsrewrite=0.0.0.0
 |ads.nguoiduatin.vn^$dnsrewrite=0.0.0.0
 |ads.nicovideo.jp^$dnsrewrite=0.0.0.0
-|adsninjacdn.b-cdn.net^$dnsrewrite=0.0.0.0
 |adsniper.ru^$dnsrewrite=0.0.0.0
 |ads.nordichardware.se^$dnsrewrite=0.0.0.0
 |ads.novanet.vn^$dnsrewrite=0.0.0.0
@@ -2460,7 +2429,6 @@
 |ads.salemall.vn^$dnsrewrite=0.0.0.0
 |ads.samba.tv^$dnsrewrite=0.0.0.0
 |ads.samsungads.com^$dnsrewrite=0.0.0.0
-|ads.schmoozecom.net^$dnsrewrite=0.0.0.0
 |ads.scorecardresearch.com^$dnsrewrite=0.0.0.0
 |ads.scott-sports.com^$dnsrewrite=0.0.0.0
 |ads-sdk.upltv.com^$dnsrewrite=0.0.0.0
@@ -2631,7 +2599,6 @@
 |adsystem.simplemachines.org^$dnsrewrite=0.0.0.0
 |adsys.townnews.com^$dnsrewrite=0.0.0.0
 |ads.zalo.me^$dnsrewrite=0.0.0.0
-|ads.zedo.com^$dnsrewrite=0.0.0.0
 |adtactics.com^$dnsrewrite=0.0.0.0
 |adtag.ad.smaato.net^$dnsrewrite=0.0.0.0
 |ad-tag.inner-active.mobi^$dnsrewrite=0.0.0.0
@@ -2726,7 +2693,6 @@
 |adventurousamount.com^$dnsrewrite=0.0.0.0
 |adver.24h.com.vn^$dnsrewrite=0.0.0.0
 |adver.com.br^$dnsrewrite=0.0.0.0
-|adversal.com^$dnsrewrite=0.0.0.0
 |advert-admin.vnay.vn^$dnsrewrite=0.0.0.0
 |advert.dyna.ultraweb.hu^$dnsrewrite=0.0.0.0
 |adverterenbijnh.nl^$dnsrewrite=0.0.0.0
@@ -2809,7 +2775,6 @@
 |adv.thuvienphapluat.vn^$dnsrewrite=0.0.0.0
 |advtrack.yicha.jp^$dnsrewrite=0.0.0.0
 |advt.webindia123.com^$dnsrewrite=0.0.0.0
-|advustech.com^$dnsrewrite=0.0.0.0
 |adv.virgilio.it^$dnsrewrite=0.0.0.0
 |adv.webvariant.com^$dnsrewrite=0.0.0.0
 |adv.wp.pl^$dnsrewrite=0.0.0.0
@@ -3029,7 +2994,6 @@
 |a.idio.co^$dnsrewrite=0.0.0.0
 |aid.send.microad.jp^$dnsrewrite=0.0.0.0
 |aifinance-pilot-app.com^$dnsrewrite=0.0.0.0
-|aigle-insightstreamsoft.com^$dnsrewrite=0.0.0.0
 |aiglifemicrositeprod.112.2o7.net^$dnsrewrite=0.0.0.0
 |aigrowthmatrix.app^$dnsrewrite=0.0.0.0
 |ai-growth-matrix-app.com^$dnsrewrite=0.0.0.0
@@ -3043,7 +3007,6 @@
 |a.independent.co.uk^$dnsrewrite=0.0.0.0
 |ainex-edge-platform.com^$dnsrewrite=0.0.0.0
 |ainigarity-1000.com^$dnsrewrite=0.0.0.0
-|aipom-ai.com^$dnsrewrite=0.0.0.0
 |aipowered-solutions.com^$dnsrewrite=0.0.0.0
 |a.iprima.cz^$dnsrewrite=0.0.0.0
 |aipro-iplex.com^$dnsrewrite=0.0.0.0
@@ -3061,7 +3024,6 @@
 |aishe-offers.com^$dnsrewrite=0.0.0.0
 |ai-support1-a1id.vercel.app^$dnsrewrite=0.0.0.0
 |ai-support-pfn9.vercel.app^$dnsrewrite=0.0.0.0
-|aitalentgpt-platform.com^$dnsrewrite=0.0.0.0
 |aitalentgpt-software.com^$dnsrewrite=0.0.0.0
 |ai-tradingesn.com^$dnsrewrite=0.0.0.0
 |ai.voiceads.cn^$dnsrewrite=0.0.0.0
@@ -3118,7 +3080,6 @@
 |alaymphara.com^$dnsrewrite=0.0.0.0
 |albamargroup.com^$dnsrewrite=0.0.0.0
 |albanytimesunion.122.2o7.net^$dnsrewrite=0.0.0.0
-|albaphotos.free.fr^$dnsrewrite=0.0.0.0
 |alchemist.go2cloud.org^$dnsrewrite=0.0.0.0
 |alconv.com^$dnsrewrite=0.0.0.0
 |aldaniti.net^$dnsrewrite=0.0.0.0
@@ -3183,7 +3144,6 @@
 |aliciatrans.free.fr^$dnsrewrite=0.0.0.0
 |a.ligatus.de^$dnsrewrite=0.0.0.0
 |alikeaddition.com^$dnsrewrite=0.0.0.0
-|alini.de^$dnsrewrite=0.0.0.0
 |alipromo.com^$dnsrewrite=0.0.0.0
 |alisatilsner.com^$dnsrewrite=0.0.0.0
 |alise.pl^$dnsrewrite=0.0.0.0
@@ -3251,7 +3211,6 @@
 |alphaapi.autoads.asia^$dnsrewrite=0.0.0.0
 |alphacapitorax-engine.com^$dnsrewrite=0.0.0.0
 |alpha-leatevesoftware.com^$dnsrewrite=0.0.0.0
-|alpharion-matrixgpt-tech.com^$dnsrewrite=0.0.0.0
 |alphastreamelorianis.icu^$dnsrewrite=0.0.0.0
 |alphatrize-software.com^$dnsrewrite=0.0.0.0
 |alphonso.tv^$dnsrewrite=0.0.0.0
@@ -3394,7 +3353,6 @@
 |anal-acrobats.com^$dnsrewrite=0.0.0.0
 |analdude.com^$dnsrewrite=0.0.0.0
 |analizysystemowe4.biz^$dnsrewrite=0.0.0.0
-|analog.cell.phone.service.sms13.de^$dnsrewrite=0.0.0.0
 |analog.sms13.de^$dnsrewrite=0.0.0.0
 |analysemajorana-platform.com^$dnsrewrite=0.0.0.0
 |analysis.polarisoffice.com^$dnsrewrite=0.0.0.0
@@ -3441,7 +3399,6 @@
 |analytics.cartoonnetwork.jp^$dnsrewrite=0.0.0.0
 |analytics.cdf.cl^$dnsrewrite=0.0.0.0
 |analytics-cds.mobiedu.vn^$dnsrewrite=0.0.0.0
-|analytics.chilevision.cl^$dnsrewrite=0.0.0.0
 |analytics-chi-nfl.yinzcam.com^$dnsrewrite=0.0.0.0
 |analytics.cibc.com^$dnsrewrite=0.0.0.0
 |analytics.cibcrewards.com^$dnsrewrite=0.0.0.0
@@ -3512,7 +3469,6 @@
 |analytics.mail-corp.com^$dnsrewrite=0.0.0.0
 |analytics.mailmunch.co^$dnsrewrite=0.0.0.0
 |analytics.map.qq.com^$dnsrewrite=0.0.0.0
-|analytics.metro-cc.ru^$dnsrewrite=0.0.0.0
 |analytics.metro.com.kz^$dnsrewrite=0.0.0.0
 |analytics.mobiedu.vn^$dnsrewrite=0.0.0.0
 |analytics.mobile-cdn.walmart.com.akadns.net^$dnsrewrite=0.0.0.0
@@ -3808,7 +3764,6 @@
 |aolwpnswhatsnew.122.2o7.net^$dnsrewrite=0.0.0.0
 |aolyedda.122.2o7.net^$dnsrewrite=0.0.0.0
 |aoncomprod.122.2o7.net^$dnsrewrite=0.0.0.0
-|aonecoin-soft.com^$dnsrewrite=0.0.0.0
 |a.one.impact-ad.jp^$dnsrewrite=0.0.0.0
 |a.optinmonster.com^$dnsrewrite=0.0.0.0
 |a.optmnstr.com^$dnsrewrite=0.0.0.0
@@ -3876,7 +3831,6 @@
 |api.attentivemobile.com^$dnsrewrite=0.0.0.0
 |api.autoads.asia^$dnsrewrite=0.0.0.0
 |api.axiatraders.com^$dnsrewrite=0.0.0.0
-|apibeta.zeti.com^$dnsrewrite=0.0.0.0
 |api.bitmango.com^$dnsrewrite=0.0.0.0
 |api.bluecore.com^$dnsrewrite=0.0.0.0
 |api.boclinkads.com^$dnsrewrite=0.0.0.0
@@ -4021,7 +3975,6 @@
 |api.subiz.com.vn^$dnsrewrite=0.0.0.0
 |api.subiz.net^$dnsrewrite=0.0.0.0
 |api.subiz.xyz^$dnsrewrite=0.0.0.0
-|api.survicate.com^$dnsrewrite=0.0.0.0
 |api.swrve.com^$dnsrewrite=0.0.0.0
 |api.taboola.com^$dnsrewrite=0.0.0.0
 |api.taplytics.com^$dnsrewrite=0.0.0.0
@@ -4077,7 +4030,6 @@
 |apn-winners-us-east-1-rtb.adroll.com^$dnsrewrite=0.0.0.0
 |apn-winners-us-west-2-rtb.adroll.com^$dnsrewrite=0.0.0.0
 |ap.octopuspop.com^$dnsrewrite=0.0.0.0
-|apo.ero-advertising.com^$dnsrewrite=0.0.0.0
 |apolloprogram.io^$dnsrewrite=0.0.0.0
 |a.popin.cc^$dnsrewrite=0.0.0.0
 |aporg.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -4309,14 +4261,12 @@
 |arbitrsylcorsystem.com^$dnsrewrite=0.0.0.0
 |arbivexor.net^$dnsrewrite=0.0.0.0
 |arbivise-app.com^$dnsrewrite=0.0.0.0
-|arbivise-solution.com^$dnsrewrite=0.0.0.0
 |arbo.hit.gemius.pl^$dnsrewrite=0.0.0.0
 |arc1.msn.com^$dnsrewrite=0.0.0.0
 |arcadefree.com^$dnsrewrite=0.0.0.0
 |arcadia1998.web.fc2.com^$dnsrewrite=0.0.0.0
 |arcane-trade.app^$dnsrewrite=0.0.0.0
 |arcanetrade-app.com^$dnsrewrite=0.0.0.0
-|archerybestprice.com^$dnsrewrite=0.0.0.0
 |archiboldyst.info^$dnsrewrite=0.0.0.0
 |archi-facile.fr^$dnsrewrite=0.0.0.0
 |archimedion.cyou^$dnsrewrite=0.0.0.0
@@ -4342,8 +4292,6 @@
 |arg.atomex.net^$dnsrewrite=0.0.0.0
 |argentaflowfr.com^$dnsrewrite=0.0.0.0
 |argentisgridgpt-app.com^$dnsrewrite=0.0.0.0
-|argentisgridgptnews.com^$dnsrewrite=0.0.0.0
-|argentisgridgptonline.com^$dnsrewrite=0.0.0.0
 |argentisgridgptsoft.com^$dnsrewrite=0.0.0.0
 |argentis-gridgpt-system.com^$dnsrewrite=0.0.0.0
 |ar-gmtdmp.mookie1.com^$dnsrewrite=0.0.0.0
@@ -4351,7 +4299,6 @@
 |arhitectpitesti.ro^$dnsrewrite=0.0.0.0
 |ariane.abtasty.com^$dnsrewrite=0.0.0.0
 |ariba.112.2o7.net^$dnsrewrite=0.0.0.0
-|ariix.com^$dnsrewrite=0.0.0.0
 |a-ring.msedge.net^$dnsrewrite=0.0.0.0
 |aritzal.com^$dnsrewrite=0.0.0.0
 |arizona-golf-vacations.com^$dnsrewrite=0.0.0.0
@@ -4369,7 +4316,6 @@
 |arrow-finance.pl^$dnsrewrite=0.0.0.0
 |arsmedico.com^$dnsrewrite=0.0.0.0
 |arsolatex-app-system.com^$dnsrewrite=0.0.0.0
-|artacom.com.br^$dnsrewrite=0.0.0.0
 |artcomix.com^$dnsrewrite=0.0.0.0
 |artemsanatakademisi.com^$dnsrewrite=0.0.0.0
 |artifluxon-solution.com^$dnsrewrite=0.0.0.0
@@ -4513,8 +4459,6 @@
 |assys01.fc2.com^$dnsrewrite=0.0.0.0
 |a.stat.xiaomi.com^$dnsrewrite=0.0.0.0
 |as-tlx.3lift.com^$dnsrewrite=0.0.0.0
-|astrafableprofits-platform.com^$dnsrewrite=0.0.0.0
-|astraflectprofits-system.com^$dnsrewrite=0.0.0.0
 |astroclaronia.icu^$dnsrewrite=0.0.0.0
 |astrocodec.com^$dnsrewrite=0.0.0.0
 |astrofinanza-solution.com^$dnsrewrite=0.0.0.0
@@ -4560,7 +4504,6 @@
 |atl.xmlsearch.miva.com^$dnsrewrite=0.0.0.0
 |atmovs.com^$dnsrewrite=0.0.0.0
 |a-tocard-pl.treasure-shop.org^$dnsrewrite=0.0.0.0
-|ato.mx^$dnsrewrite=0.0.0.0
 |atrack-a.anthill.vn^$dnsrewrite=0.0.0.0
 |atr.adsmovil.com^$dnsrewrite=0.0.0.0
 |a.tribalfusion.com^$dnsrewrite=0.0.0.0
@@ -4781,7 +4724,6 @@
 |b1sync.zemanta.com^$dnsrewrite=0.0.0.0
 |b1t-chidc2.zemanta.com^$dnsrewrite=0.0.0.0
 |b1t-nydc1.zemanta.com^$dnsrewrite=0.0.0.0
-|b2c-msm.marketo.com^$dnsrewrite=0.0.0.0
 |b2-data.ads.heytapmobi.com^$dnsrewrite=0.0.0.0
 |b2work.pl^$dnsrewrite=0.0.0.0
 |b3d.com^$dnsrewrite=0.0.0.0
@@ -4863,7 +4805,6 @@
 |bann14s.ero-advertising.com^$dnsrewrite=0.0.0.0
 |bann1rs.ero-advertising.com^$dnsrewrite=0.0.0.0
 |banne2s.ero-advertising.com^$dnsrewrite=0.0.0.0
-|banne3s.ero-advertising.com^$dnsrewrite=0.0.0.0
 |banne4s.ero-advertising.com^$dnsrewrite=0.0.0.0
 |banner10.zetasystem.dk^$dnsrewrite=0.0.0.0
 |banner.5giay.vn^$dnsrewrite=0.0.0.0
@@ -4908,7 +4849,6 @@
 |banners.babylon-x.com^$dnsrewrite=0.0.0.0
 |banners.betcris.com^$dnsrewrite=0.0.0.0
 |banners.bol.se^$dnsrewrite=0.0.0.0
-|banners.celebritybling.com^$dnsrewrite=0.0.0.0
 |banners.clips4sale.com^$dnsrewrite=0.0.0.0
 |banners.copyscape.com^$dnsrewrite=0.0.0.0
 |banners.czi.cz^$dnsrewrite=0.0.0.0
@@ -5076,7 +5016,6 @@
 |beauty.finaltips.com^$dnsrewrite=0.0.0.0
 |bebi.com^$dnsrewrite=0.0.0.0
 |bebo.crwdcntrl.net^$dnsrewrite=0.0.0.0
-|beboncoin.fr^$dnsrewrite=0.0.0.0
 |because42.com^$dnsrewrite=0.0.0.0
 |beeglivesex.com^$dnsrewrite=0.0.0.0
 |beemray.com^$dnsrewrite=0.0.0.0
@@ -5121,11 +5060,9 @@
 |benzona-prime-app.com^$dnsrewrite=0.0.0.0
 |beoqcvy.com^$dnsrewrite=0.0.0.0
 |bepolite.eu^$dnsrewrite=0.0.0.0
-|beranexorapp.com^$dnsrewrite=0.0.0.0
 |beravantaxengine.com^$dnsrewrite=0.0.0.0
 |beravastax-soft.com^$dnsrewrite=0.0.0.0
 |beravendex-engine.com^$dnsrewrite=0.0.0.0
-|beravendexengine.com^$dnsrewrite=0.0.0.0
 |beraventex-tech.com^$dnsrewrite=0.0.0.0
 |bergentoqq.com^$dnsrewrite=0.0.0.0
 |bergkraftfluxor-platform.com^$dnsrewrite=0.0.0.0
@@ -5179,7 +5116,6 @@
 |bglbnpparibaswebbankingdekstopprod.112.2o7.net^$dnsrewrite=0.0.0.0
 |bg.search.etargetnet.com^$dnsrewrite=0.0.0.0
 |bg.static.etargetnet.com^$dnsrewrite=0.0.0.0
-|bgtop100.com^$dnsrewrite=0.0.0.0
 |bgxai.info^$dnsrewrite=0.0.0.0
 |bh.contextweb.com^$dnsrewrite=0.0.0.0
 |bhcumsc.com^$dnsrewrite=0.0.0.0
@@ -5191,7 +5127,6 @@
 |bhgremodel.112.2o7.net^$dnsrewrite=0.0.0.0
 |bhgscrap.112.2o7.net^$dnsrewrite=0.0.0.0
 |bhpz.adj.st^$dnsrewrite=0.0.0.0
-|bhyuu.com^$dnsrewrite=0.0.0.0
 |bialywidelec.pl^$dnsrewrite=0.0.0.0
 |bid.adview.cn^$dnsrewrite=0.0.0.0
 |bid.adview.com^$dnsrewrite=0.0.0.0
@@ -5309,8 +5244,6 @@
 |bitcoin360aiengine.com^$dnsrewrite=0.0.0.0
 |bitcoin360-ai.org^$dnsrewrite=0.0.0.0
 |bitcoin360ai-sweden.com^$dnsrewrite=0.0.0.0
-|bitcoin360.bot^$dnsrewrite=0.0.0.0
-|bitcoin360.net^$dnsrewrite=0.0.0.0
 |bitcoin360.online^$dnsrewrite=0.0.0.0
 |bitcoin6-abumex.com^$dnsrewrite=0.0.0.0
 |bitcoin-700-eprex.com^$dnsrewrite=0.0.0.0
@@ -5320,7 +5253,6 @@
 |bitcoinaloratech.com^$dnsrewrite=0.0.0.0
 |bitcoinapex.app^$dnsrewrite=0.0.0.0
 |bitcoin-apex-canada.com^$dnsrewrite=0.0.0.0
-|bitcoin-apex.org^$dnsrewrite=0.0.0.0
 |bitcoinavageai.app^$dnsrewrite=0.0.0.0
 |bitcoinavage-ai.com^$dnsrewrite=0.0.0.0
 |bitcoinavage.org^$dnsrewrite=0.0.0.0
@@ -5347,7 +5279,6 @@
 |bitcoincodeapp.io^$dnsrewrite=0.0.0.0
 |bitcoincode-solution.com^$dnsrewrite=0.0.0.0
 |bitcoincompass.io^$dnsrewrite=0.0.0.0
-|bitcoinconnectnet.whitesolutionllc.com^$dnsrewrite=0.0.0.0
 |bitcoindecoder.org^$dnsrewrite=0.0.0.0
 |bitcoin-diamox31tech.com^$dnsrewrite=0.0.0.0
 |bitcoindigital.app^$dnsrewrite=0.0.0.0
@@ -5414,18 +5345,15 @@
 |bitcoinrevolution.org^$dnsrewrite=0.0.0.0
 |bitcoin-revolution-software.com^$dnsrewrite=0.0.0.0
 |bitcoinrevolution.tech^$dnsrewrite=0.0.0.0
-|bitcoinriseinfo.whitesolutionllc.com^$dnsrewrite=0.0.0.0
 |bitcoinrobot-soft.com^$dnsrewrite=0.0.0.0
 |bitcoin-rush.org^$dnsrewrite=0.0.0.0
 |bitcoinrush.today^$dnsrewrite=0.0.0.0
-|bitcoinscircuit.com^$dnsrewrite=0.0.0.0
 |bitcoinset.pl^$dnsrewrite=0.0.0.0
 |bitcoinsmarter.net^$dnsrewrite=0.0.0.0
 |bitcoinsprint-app.com^$dnsrewrite=0.0.0.0
 |bitcoin-sprint.info^$dnsrewrite=0.0.0.0
 |bitcoinsprint.info^$dnsrewrite=0.0.0.0
 |bitcoins-profit.com^$dnsrewrite=0.0.0.0
-|bitcoin-storm.app^$dnsrewrite=0.0.0.0
 |bitcoin-storm.com^$dnsrewrite=0.0.0.0
 |bitcoinsunrise.com^$dnsrewrite=0.0.0.0
 |bitcoinsupersplit.com^$dnsrewrite=0.0.0.0
@@ -5441,7 +5369,6 @@
 |bitcointhunderbolt.app^$dnsrewrite=0.0.0.0
 |bitcoin-thunderbolt.com^$dnsrewrite=0.0.0.0
 |bitcointhunderbolt.org^$dnsrewrite=0.0.0.0
-|bitcointrader2.com^$dnsrewrite=0.0.0.0
 |bitcoin-treasure.io^$dnsrewrite=0.0.0.0
 |bitcoin-treasure.org^$dnsrewrite=0.0.0.0
 |bitcoin-union.org^$dnsrewrite=0.0.0.0
@@ -5467,8 +5394,6 @@
 |bitforge-ai-site.com^$dnsrewrite=0.0.0.0
 |bit-gpt-ai-engine.com^$dnsrewrite=0.0.0.0
 |bitgpt-ai-engine.com^$dnsrewrite=0.0.0.0
-|bitgptapp.live^$dnsrewrite=0.0.0.0
-|bit-gpt-app.org^$dnsrewrite=0.0.0.0
 |bitgpt.org^$dnsrewrite=0.0.0.0
 |bit-gptsynergyx2.com^$dnsrewrite=0.0.0.0
 |bitgratitude.org^$dnsrewrite=0.0.0.0
@@ -5530,7 +5455,6 @@
 |bitreopro-100app.com^$dnsrewrite=0.0.0.0
 |bitreopro.com^$dnsrewrite=0.0.0.0
 |bitreopro-pro.com^$dnsrewrite=0.0.0.0
-|bitron-kvantesystem.com^$dnsrewrite=0.0.0.0
 |bitsoft360app.com^$dnsrewrite=0.0.0.0
 |bitsoft360apppro.com^$dnsrewrite=0.0.0.0
 |bitsoft-360.de^$dnsrewrite=0.0.0.0
@@ -5539,7 +5463,6 @@
 |bittersweetparis.com^$dnsrewrite=0.0.0.0
 |bittradeai-system.com^$dnsrewrite=0.0.0.0
 |bit-trader.app^$dnsrewrite=0.0.0.0
-|bit-trader.io^$dnsrewrite=0.0.0.0
 |bittrader.org^$dnsrewrite=0.0.0.0
 |bit-trading.org^$dnsrewrite=0.0.0.0
 |bitunvox-engine.com^$dnsrewrite=0.0.0.0
@@ -5666,7 +5589,6 @@
 |bneadoptionstaging.112.2o7.net^$dnsrewrite=0.0.0.0
 |bnebnedfdcprod.112.2o7.net^$dnsrewrite=0.0.0.0
 |bnebnefdcdev.112.2o7.net^$dnsrewrite=0.0.0.0
-|bnfc.online^$dnsrewrite=0.0.0.0
 |bnk30livejs.112.2o7.net^$dnsrewrite=0.0.0.0
 |bnkholic.112.2o7.net^$dnsrewrite=0.0.0.0
 |bnkicomv2.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -5685,7 +5607,6 @@
 |bobcard.co.in^$dnsrewrite=0.0.0.0
 |bobcat.122.2o7.net^$dnsrewrite=0.0.0.0
 |bob.dmpxs.com^$dnsrewrite=0.0.0.0
-|bodelen.com^$dnsrewrite=0.0.0.0
 |bodia-edgepro.com^$dnsrewrite=0.0.0.0
 |bodrumjenerator.com^$dnsrewrite=0.0.0.0
 |bodyguard.com.pl^$dnsrewrite=0.0.0.0
@@ -5814,14 +5735,12 @@
 |breakingnews.forumforet.com^$dnsrewrite=0.0.0.0
 |breaktime.com.tw^$dnsrewrite=0.0.0.0
 |brealtime.com^$dnsrewrite=0.0.0.0
-|b.recwwcc5.info^$dnsrewrite=0.0.0.0
 |breganopa3.top^$dnsrewrite=0.0.0.0
 |breitbart.fr^$dnsrewrite=0.0.0.0
 |brekus.org^$dnsrewrite=0.0.0.0
 |brethrenbrewing.com^$dnsrewrite=0.0.0.0
 |brevardmusic.com^$dnsrewrite=0.0.0.0
 |brevio.pl^$dnsrewrite=0.0.0.0
-|brexittraders.com^$dnsrewrite=0.0.0.0
 |br.fling.com^$dnsrewrite=0.0.0.0
 |brianaustinwhitney.com^$dnsrewrite=0.0.0.0
 |brianbkim.com^$dnsrewrite=0.0.0.0
@@ -5882,7 +5801,6 @@
 |brort.stsdk.vivo.com.cn^$dnsrewrite=0.0.0.0
 |brotherselectricco.com^$dnsrewrite=0.0.0.0
 |browallia.info^$dnsrewrite=0.0.0.0
-|browsergames2018.com^$dnsrewrite=0.0.0.0
 |browsergames2019.com^$dnsrewrite=0.0.0.0
 |browser-http-intake.logs.datadoghq.com^$dnsrewrite=0.0.0.0
 |browser-http-intake.logs.datadoghq.eu^$dnsrewrite=0.0.0.0
@@ -6180,7 +6098,6 @@
 |c6.edgesuite.net^$dnsrewrite=0.0.0.0
 |c6.statcounter.com^$dnsrewrite=0.0.0.0
 |c6.zedo.com^$dnsrewrite=0.0.0.0
-|c7.adforgeinc.com^$dnsrewrite=0.0.0.0
 |c7.amazingcounters.com^$dnsrewrite=0.0.0.0
 |c7.statcounter.com^$dnsrewrite=0.0.0.0
 |c7.zedo.com^$dnsrewrite=0.0.0.0
@@ -6597,7 +6514,6 @@
 |cdn.boomtrain.com^$dnsrewrite=0.0.0.0
 |cdn.branch.io^$dnsrewrite=0.0.0.0
 |cdn.brandmetrics.com^$dnsrewrite=0.0.0.0
-|cdn.braun634.com^$dnsrewrite=0.0.0.0
 |cdn.braze.eu^$dnsrewrite=0.0.0.0
 |cdn.brcdn.com^$dnsrewrite=0.0.0.0
 |cdn.brid.tv^$dnsrewrite=0.0.0.0
@@ -6734,7 +6650,6 @@
 |cdn.mouseflow.com^$dnsrewrite=0.0.0.0
 |cdn.mplxtms.com^$dnsrewrite=0.0.0.0
 |cdn.mxpnl.com^$dnsrewrite=0.0.0.0
-|cdn.mypcbackup.com^$dnsrewrite=0.0.0.0
 |cdn.nanda.vn^$dnsrewrite=0.0.0.0
 |cdn.native.ai^$dnsrewrite=0.0.0.0
 |cdn.nativery.com^$dnsrewrite=0.0.0.0
@@ -6800,7 +6715,6 @@
 |cdn.speedcurve.com^$dnsrewrite=0.0.0.0
 |cdn.speedshiftmedia.com^$dnsrewrite=0.0.0.0
 |cdn.split.io^$dnsrewrite=0.0.0.0
-|cdn.spotxcdn.com.edgekey.net^$dnsrewrite=0.0.0.0
 |cdn.spoutable.com^$dnsrewrite=0.0.0.0
 |cdn.springserve.com^$dnsrewrite=0.0.0.0
 |cdnssl.clicktale.net^$dnsrewrite=0.0.0.0
@@ -6808,7 +6722,6 @@
 |cdnstatic.daleriki.com^$dnsrewrite=0.0.0.0
 |cdn.stat-rock.com^$dnsrewrite=0.0.0.0
 |cdn.stickyadstv.com^$dnsrewrite=0.0.0.0
-|cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net^$dnsrewrite=0.0.0.0
 |cdnstoremedia.com^$dnsrewrite=0.0.0.0
 |cdn-stv.adgrx.com^$dnsrewrite=0.0.0.0
 |cdn.surfcountor.com^$dnsrewrite=0.0.0.0
@@ -6840,7 +6753,6 @@
 |cdn.uprivaladserver.net^$dnsrewrite=0.0.0.0
 |cdn.usabilitytracker.com^$dnsrewrite=0.0.0.0
 |cdn.usebutton.com^$dnsrewrite=0.0.0.0
-|cdn.usefathom.com^$dnsrewrite=0.0.0.0
 |cdn-usent.kampyle.com^$dnsrewrite=0.0.0.0
 |cdn.userreport.com^$dnsrewrite=0.0.0.0
 |cdn.viewdeos.com^$dnsrewrite=0.0.0.0
@@ -6874,20 +6786,14 @@
 |celestia.es^$dnsrewrite=0.0.0.0
 |celestia.fr^$dnsrewrite=0.0.0.0
 |celestiavegas.com^$dnsrewrite=0.0.0.0
-|celestixorbit-ai.com^$dnsrewrite=0.0.0.0
-|celestixorbitai.com^$dnsrewrite=0.0.0.0
-|celestixorbitai.net^$dnsrewrite=0.0.0.0
-|celestixorbitai.org^$dnsrewrite=0.0.0.0
 |ce.lijit.com^$dnsrewrite=0.0.0.0
 |celine-japan.com^$dnsrewrite=0.0.0.0
 |cellfun.mobi^$dnsrewrite=0.0.0.0
 |cellphoneincentives.com^$dnsrewrite=0.0.0.0
-|cellturex-platform.com^$dnsrewrite=0.0.0.0
 |cellturex-solution.com^$dnsrewrite=0.0.0.0
 |celtra.com^$dnsrewrite=0.0.0.0
 |celturex-platform.com^$dnsrewrite=0.0.0.0
 |celturexplatform.com^$dnsrewrite=0.0.0.0
-|cemalzx.info^$dnsrewrite=0.0.0.0
 |cemesmeraldas.com^$dnsrewrite=0.0.0.0
 |cengagecsinfosec.112.2o7.net^$dnsrewrite=0.0.0.0
 |centereven.my^$dnsrewrite=0.0.0.0
@@ -7073,7 +6979,6 @@
 |c.il.msn.com^$dnsrewrite=0.0.0.0
 |ciltbakimiveguzellik.com^$dnsrewrite=0.0.0.0
 |cimatradecore-tech.com^$dnsrewrite=0.0.0.0
-|cimatradecoretech.com^$dnsrewrite=0.0.0.0
 |c.imedia.cz^$dnsrewrite=0.0.0.0
 |cinchonicinvik.info^$dnsrewrite=0.0.0.0
 |cindyintim.de^$dnsrewrite=0.0.0.0
@@ -7210,7 +7115,6 @@
 |click.comm.rcibank.co.uk^$dnsrewrite=0.0.0.0
 |click.crm.ba.com^$dnsrewrite=0.0.0.0
 |click.dealshark.com^$dnsrewrite=0.0.0.0
-|click.discord.com^$dnsrewrite=0.0.0.0
 |click.dtiserv2.com^$dnsrewrite=0.0.0.0
 |click.duga.jp^$dnsrewrite=0.0.0.0
 |clickedyclick.com^$dnsrewrite=0.0.0.0
@@ -7296,7 +7200,6 @@
 |clickwallads.s3.amazonaws.com^$dnsrewrite=0.0.0.0
 |click.watchjmp.com^$dnsrewrite=0.0.0.0
 |clickz.com^$dnsrewrite=0.0.0.0
-|clientcdn.pushengage.com^$dnsrewrite=0.0.0.0
 |clientennota-webnl.ddns.info^$dnsrewrite=0.0.0.0
 |clientinfo.phimmoizz.net^$dnsrewrite=0.0.0.0
 |clientmetrics-pa.googleapis.com^$dnsrewrite=0.0.0.0
@@ -7472,7 +7375,6 @@
 |code.murdoog.com^$dnsrewrite=0.0.0.0
 |code.native-ad.net^$dnsrewrite=0.0.0.0
 |coderexception.com^$dnsrewrite=0.0.0.0
-|code.superstats.com^$dnsrewrite=0.0.0.0
 |co.dewrain.life^$dnsrewrite=0.0.0.0
 |codicebusiness.shinystat.com^$dnsrewrite=0.0.0.0
 |codicefl.shinystat.com^$dnsrewrite=0.0.0.0
@@ -7505,7 +7407,6 @@
 |coinsterix-platform.com^$dnsrewrite=0.0.0.0
 |coin-trade-1000.com^$dnsrewrite=0.0.0.0
 |cointrade-1000.org^$dnsrewrite=0.0.0.0
-|cointrade-1000-soft.com^$dnsrewrite=0.0.0.0
 |cointrade1000-soft.com^$dnsrewrite=0.0.0.0
 |cointraffic.io^$dnsrewrite=0.0.0.0
 |coinzilla.io^$dnsrewrite=0.0.0.0
@@ -7568,7 +7469,6 @@
 |comcastresidentialservices.tt.omtrdc.net^$dnsrewrite=0.0.0.0
 |comcast.tt.omtrdc.net^$dnsrewrite=0.0.0.0
 |comcluster.cxense.com^$dnsrewrite=0.0.0.0
-|comercio-invexon-engine.com^$dnsrewrite=0.0.0.0
 |comercio-invexonplatform.com^$dnsrewrite=0.0.0.0
 |comfortablecheese.com^$dnsrewrite=0.0.0.0
 |comfz.com^$dnsrewrite=0.0.0.0
@@ -7915,7 +7815,6 @@
 |counter.letssingit.com^$dnsrewrite=0.0.0.0
 |counter.mirohost.net^$dnsrewrite=0.0.0.0
 |counter.mtree.com^$dnsrewrite=0.0.0.0
-|counter.mycomputer.com^$dnsrewrite=0.0.0.0
 |counter.nope.dk^$dnsrewrite=0.0.0.0
 |counter.ntdvn.com^$dnsrewrite=0.0.0.0
 |counter.personyze.com^$dnsrewrite=0.0.0.0
@@ -7923,9 +7822,7 @@
 |counters.auctiva.com^$dnsrewrite=0.0.0.0
 |counters.freewebs.com^$dnsrewrite=0.0.0.0
 |counter.snackly.co^$dnsrewrite=0.0.0.0
-|counter.superstats.com^$dnsrewrite=0.0.0.0
 |counters.vendio.com^$dnsrewrite=0.0.0.0
-|counter.xeanon.com^$dnsrewrite=0.0.0.0
 |counter.xxxcool.com^$dnsrewrite=0.0.0.0
 |counter.yesky.com^$dnsrewrite=0.0.0.0
 |count.freett.com^$dnsrewrite=0.0.0.0
@@ -8017,7 +7914,6 @@
 |creative.adshuffle.com^$dnsrewrite=0.0.0.0
 |creative.alxbgo.com^$dnsrewrite=0.0.0.0
 |creative-assets.quantcount.com^$dnsrewrite=0.0.0.0
-|creativecarrer.com^$dnsrewrite=0.0.0.0
 |creative.cc-dt.com^$dnsrewrite=0.0.0.0
 |creativecdn.com^$dnsrewrite=0.0.0.0
 |creativedsolutions.pl^$dnsrewrite=0.0.0.0
@@ -8037,8 +7933,6 @@
 |creatives.smaato.com^$dnsrewrite=0.0.0.0
 |creatives.smadex.com^$dnsrewrite=0.0.0.0
 |creativeteam.it^$dnsrewrite=0.0.0.0
-|creativitynodeix-app.com^$dnsrewrite=0.0.0.0
-|creativitynodeix-solution.com^$dnsrewrite=0.0.0.0
 |creativitynodeix-system.com^$dnsrewrite=0.0.0.0
 |creatorssir.shop^$dnsrewrite=0.0.0.0
 |crecedizo-solidez-engine.com^$dnsrewrite=0.0.0.0
@@ -8107,7 +8001,6 @@
 |cryptobankcapex-2.com^$dnsrewrite=0.0.0.0
 |crypto-boom.io^$dnsrewrite=0.0.0.0
 |crypto-boom.org^$dnsrewrite=0.0.0.0
-|cryptocandor-software.com^$dnsrewrite=0.0.0.0
 |cryptocandortech.com^$dnsrewrite=0.0.0.0
 |crypto-capitalapp.com^$dnsrewrite=0.0.0.0
 |cryptocapitaleapp.com^$dnsrewrite=0.0.0.0
@@ -8138,7 +8031,6 @@
 |cryptoniteaisystem.com^$dnsrewrite=0.0.0.0
 |cryptopadix-egine.com^$dnsrewrite=0.0.0.0
 |cryptoprofit.pl^$dnsrewrite=0.0.0.0
-|cryptotrader.software^$dnsrewrite=0.0.0.0
 |cryptoup-platform.com^$dnsrewrite=0.0.0.0
 |cryptoup-software.com^$dnsrewrite=0.0.0.0
 |cryptovantix-platform.com^$dnsrewrite=0.0.0.0
@@ -8288,7 +8180,6 @@
 |cyclemodi.my^$dnsrewrite=0.0.0.0
 |cydoor.com^$dnsrewrite=0.0.0.0
 |cylenceprotect.com^$dnsrewrite=0.0.0.0
-|cyphixedge-software.com^$dnsrewrite=0.0.0.0
 |cyphixedge-solution.com^$dnsrewrite=0.0.0.0
 |cyphix-edge-tech.com^$dnsrewrite=0.0.0.0
 |cyppolice.com^$dnsrewrite=0.0.0.0
@@ -8310,7 +8201,6 @@
 |d.14yaa.com^$dnsrewrite=0.0.0.0
 |d14.zedo.com^$dnsrewrite=0.0.0.0
 |d169bbxks24g2u.cloudfront.net^$dnsrewrite=0.0.0.0
-|d1.adsplay.net^$dnsrewrite=0.0.0.0
 |d1f0tbk1v3e25u.cloudfront.net^$dnsrewrite=0.0.0.0
 |d1fc8wv8zag5ca.cloudfront.net^$dnsrewrite=0.0.0.0
 |d1jikhx1ssl81z.cloudfront.net^$dnsrewrite=0.0.0.0
@@ -8322,7 +8212,6 @@
 |d1.zedo.com^$dnsrewrite=0.0.0.0
 |d24n15hnbwhuhn.cloudfront.net^$dnsrewrite=0.0.0.0
 |d26b395fwzu5fz.cloudfront.net^$dnsrewrite=0.0.0.0
-|d2.adsplay.net^$dnsrewrite=0.0.0.0
 |d2.ads.rmbl.ws^$dnsrewrite=0.0.0.0
 |d2c8v52ll5s99u.cloudfront.net^$dnsrewrite=0.0.0.0
 |d2cgumzzqhgmdu.cloudfront.net^$dnsrewrite=0.0.0.0
@@ -8334,17 +8223,13 @@
 |d2uap9jskdzp2.cloudfront.net^$dnsrewrite=0.0.0.0
 |d2zah9y47r7bi2.cloudfront.net^$dnsrewrite=0.0.0.0
 |d32ajg1ye8vnl9.cloudfront.net^$dnsrewrite=0.0.0.0
-|d3.adsplay.net^$dnsrewrite=0.0.0.0
 |d3lvir7538n0oi.cloudfront.net^$dnsrewrite=0.0.0.0
 |d3.sina.com.cn^$dnsrewrite=0.0.0.0
 |d3v3bqdndm4erx.cloudfront.net^$dnsrewrite=0.0.0.0
 |d3.zedo.com^$dnsrewrite=0.0.0.0
-|d4.adsplay.net^$dnsrewrite=0.0.0.0
 |d4.zedo.com^$dnsrewrite=0.0.0.0
-|d5.adsplay.net^$dnsrewrite=0.0.0.0
 |d5p.de17a.com^$dnsrewrite=0.0.0.0
 |d5.zedo.com^$dnsrewrite=0.0.0.0
-|d6.adsplay.net^$dnsrewrite=0.0.0.0
 |d6.c5.b0.a2.top.mail.ru^$dnsrewrite=0.0.0.0
 |d6y5.ads.pof.com^$dnsrewrite=0.0.0.0
 |d81mfvml8p5ml.cloudfront.net^$dnsrewrite=0.0.0.0
@@ -8365,7 +8250,6 @@
 |dacobi.pl^$dnsrewrite=0.0.0.0
 |d.adroll.com^$dnsrewrite=0.0.0.0
 |dadsats.com^$dnsrewrite=0.0.0.0
-|d.adsplay.net^$dnsrewrite=0.0.0.0
 |d.adup-tech.com^$dnsrewrite=0.0.0.0
 |d.adxcore.com^$dnsrewrite=0.0.0.0
 |daea.ero-advertising.com^$dnsrewrite=0.0.0.0
@@ -8449,7 +8333,6 @@
 |datacrestoria.rest^$dnsrewrite=0.0.0.0
 |data.emb-api.com^$dnsrewrite=0.0.0.0
 |data.ero-advertising.com^$dnsrewrite=0.0.0.0
-|data.eroadvertising.com^$dnsrewrite=0.0.0.0
 |data-f.ads.oppomobile.com^$dnsrewrite=0.0.0.0
 |dataf.ads.oppomobile.com^$dnsrewrite=0.0.0.0
 |data-failover.eroadvertising.com^$dnsrewrite=0.0.0.0
@@ -8518,7 +8401,6 @@
 |d-collector.jennifersoft.com^$dnsrewrite=0.0.0.0
 |dcomp.shop^$dnsrewrite=0.0.0.0
 |dcstest.wtlive.com^$dnsrewrite=0.0.0.0
-|dcs.wtlive.com^$dnsrewrite=0.0.0.0
 |dcwblida.dz^$dnsrewrite=0.0.0.0
 |dc.yieldify.com^$dnsrewrite=0.0.0.0
 |dd.nytimes.com^$dnsrewrite=0.0.0.0
@@ -8553,7 +8435,6 @@
 |defaultdsp.admicro.vn^$dnsrewrite=0.0.0.0
 |defaultdsp.contineljs.com^$dnsrewrite=0.0.0.0
 |default.exp-tas.com^$dnsrewrite=0.0.0.0
-|defpush.com^$dnsrewrite=0.0.0.0
 |defrost.pl^$dnsrewrite=0.0.0.0
 |degbematr.shop^$dnsrewrite=0.0.0.0
 |degirmeneko.com^$dnsrewrite=0.0.0.0
@@ -8561,8 +8442,6 @@
 |de.grmtech.net^$dnsrewrite=0.0.0.0
 |de.inmobi.com^$dnsrewrite=0.0.0.0
 |dejaq.info^$dnsrewrite=0.0.0.0
-|delarixtrader-app.com^$dnsrewrite=0.0.0.0
-|delarixtraderplatform.com^$dnsrewrite=0.0.0.0
 |delb2.myspace.com^$dnsrewrite=0.0.0.0
 |delb.mspaceads.com^$dnsrewrite=0.0.0.0
 |delb.myspace.com^$dnsrewrite=0.0.0.0
@@ -8898,7 +8777,6 @@
 |domashnjezhittia.info^$dnsrewrite=0.0.0.0
 |dominancedao.com^$dnsrewrite=0.0.0.0
 |dominionenterprises.112.2o7.net^$dnsrewrite=0.0.0.0
-|dominionx-engine.com^$dnsrewrite=0.0.0.0
 |dominionx-system.com^$dnsrewrite=0.0.0.0
 |dominossnskn.info^$dnsrewrite=0.0.0.0
 |domofonik.pl^$dnsrewrite=0.0.0.0
@@ -9029,7 +8907,6 @@
 |dt.adsafeprotected.com^$dnsrewrite=0.0.0.0
 |dtag.112.2o7.net^$dnsrewrite=0.0.0.0
 |d.tailtarget.com^$dnsrewrite=0.0.0.0
-|dtcc.fr^$dnsrewrite=0.0.0.0
 |d-track.send.microad.jp^$dnsrewrite=0.0.0.0
 |dts-5-split-vohnu.dts.innovid.com.akadns.net^$dnsrewrite=0.0.0.0
 |dtscout.com^$dnsrewrite=0.0.0.0
@@ -9046,7 +8923,6 @@
 |dunepadel.com^$dnsrewrite=0.0.0.0
 |dunespell.click^$dnsrewrite=0.0.0.0
 |duo-aegispro.com^$dnsrewrite=0.0.0.0
-|duoaegisprosystem.com^$dnsrewrite=0.0.0.0
 |duologinsupersdk.ewan.cn^$dnsrewrite=0.0.0.0
 |d.us.criteo.com^$dnsrewrite=0.0.0.0
 |dusttv.com^$dnsrewrite=0.0.0.0
@@ -9059,7 +8935,6 @@
 |dwnlad.ws^$dnsrewrite=0.0.0.0
 |dwwll.de^$dnsrewrite=0.0.0.0
 |dx.steelhousemedia.com^$dnsrewrite=0.0.0.0
-|dycebei.com^$dnsrewrite=0.0.0.0
 |dynalyst.jp^$dnsrewrite=0.0.0.0
 |dynamic.criteo.com^$dnsrewrite=0.0.0.0
 |dynamic-dns.net^$dnsrewrite=0.0.0.0
@@ -9315,7 +9190,6 @@
 |emea-v3.tracking.justpremium.com^$dnsrewrite=0.0.0.0
 |emeraldcranberry.shop^$dnsrewrite=0.0.0.0
 |emeraldtiger.com^$dnsrewrite=0.0.0.0
-|emerateamkids.com^$dnsrewrite=0.0.0.0
 |emerse.com^$dnsrewrite=0.0.0.0
 |emetriq.de^$dnsrewrite=0.0.0.0
 |emily.tncrun.net^$dnsrewrite=0.0.0.0
@@ -9343,7 +9217,6 @@
 |energyomild.shop^$dnsrewrite=0.0.0.0
 |energyproair-engine.com^$dnsrewrite=0.0.0.0
 |energysolarpch.com^$dnsrewrite=0.0.0.0
-|energyway.live^$dnsrewrite=0.0.0.0
 |engage.commander1.com^$dnsrewrite=0.0.0.0
 |engage.marketo.com^$dnsrewrite=0.0.0.0
 |engagement-collector.mobify.net^$dnsrewrite=0.0.0.0
@@ -9462,7 +9335,6 @@
 |errors.imrworldwide.com^$dnsrewrite=0.0.0.0
 |errors.perfectgonzo.com^$dnsrewrite=0.0.0.0
 |ers.ero-advertising.com^$dnsrewrite=0.0.0.0
-|ersinaydin.net^$dnsrewrite=0.0.0.0
 |erstegroupholding.112.2o7.net^$dnsrewrite=0.0.0.0
 |ertopcu.com^$dnsrewrite=0.0.0.0
 |ertragreichxyremplatform.com^$dnsrewrite=0.0.0.0
@@ -9669,7 +9541,6 @@
 |evm2.stackadapt.com^$dnsrewrite=0.0.0.0
 |evogarage.com^$dnsrewrite=0.0.0.0
 |evoke-edgesystem.com^$dnsrewrite=0.0.0.0
-|evokeedge-tech.com^$dnsrewrite=0.0.0.0
 |evolucion-fluxium-solution.com^$dnsrewrite=0.0.0.0
 |evolucion-fluxiumsolution.com^$dnsrewrite=0.0.0.0
 |evolucionfluxium-solution.com^$dnsrewrite=0.0.0.0
@@ -9701,7 +9572,6 @@
 |exapi-eu.rubiconproject.com^$dnsrewrite=0.0.0.0
 |exapi-us-west.rubiconproject.com^$dnsrewrite=0.0.0.0
 |exasked.com^$dnsrewrite=0.0.0.0
-|exbrixinvest-tech.com^$dnsrewrite=0.0.0.0
 |excentral.com^$dnsrewrite=0.0.0.0
 |exchangead.com^$dnsrewrite=0.0.0.0
 |exchange.adtrue.com^$dnsrewrite=0.0.0.0
@@ -9821,7 +9691,6 @@
 |faceoff.112.2o7.net^$dnsrewrite=0.0.0.0
 |facewatch.borec.cz^$dnsrewrite=0.0.0.0
 |fachadasalaire.com^$dnsrewrite=0.0.0.0
-|facilitategovernor.com^$dnsrewrite=0.0.0.0
 |factiva.122.2o7.net^$dnsrewrite=0.0.0.0
 |fadedsnow.com^$dnsrewrite=0.0.0.0
 |fadskis.com^$dnsrewrite=0.0.0.0
@@ -9933,7 +9802,6 @@
 |fbhrobud.pl^$dnsrewrite=0.0.0.0
 |fbkmnr.112.2o7.net^$dnsrewrite=0.0.0.0
 |fblinker.com^$dnsrewrite=0.0.0.0
-|f.blogads.com^$dnsrewrite=0.0.0.0
 |fbpodgladacz.wordpress.com^$dnsrewrite=0.0.0.0
 |fbsecurity.co^$dnsrewrite=0.0.0.0
 |fcaapacjeepstylejapan.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -9944,9 +9812,6 @@
 |fc.itmedia.co.jp^$dnsrewrite=0.0.0.0
 |fckme.chat^$dnsrewrite=0.0.0.0
 |fc.webmasterpro.de^$dnsrewrite=0.0.0.0
-|fd1.eye.to^$dnsrewrite=0.0.0.0
-|fd2.eye.to^$dnsrewrite=0.0.0.0
-|fd4.eye.to^$dnsrewrite=0.0.0.0
 |fdbdo.com^$dnsrewrite=0.0.0.0
 |fdfe4ed62699.cdn4.forter.com^$dnsrewrite=0.0.0.0
 |fdic.122.2o7.net^$dnsrewrite=0.0.0.0
@@ -9999,7 +9864,6 @@
 |fexonixtrader-app.com^$dnsrewrite=0.0.0.0
 |fexonixtradersystem.com^$dnsrewrite=0.0.0.0
 |fexoriumprosoftware.com^$dnsrewrite=0.0.0.0
-|fexovion-platform.com^$dnsrewrite=0.0.0.0
 |fexovionpro.digital^$dnsrewrite=0.0.0.0
 |fexylonpro.digital^$dnsrewrite=0.0.0.0
 |ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net^$dnsrewrite=0.0.0.0
@@ -10050,13 +9914,11 @@
 |filman-cc.org^$dnsrewrite=0.0.0.0
 |filman-hd.cc^$dnsrewrite=0.0.0.0
 |filman-pl.cc^$dnsrewrite=0.0.0.0
-|film.azontree.com^$dnsrewrite=0.0.0.0
 |film-base.pl^$dnsrewrite=0.0.0.0
 |filmbest.video.blog^$dnsrewrite=0.0.0.0
 |filmdopobraniacbd92.ek1.pl^$dnsrewrite=0.0.0.0
 |filmeo.tv^$dnsrewrite=0.0.0.0
 |filmersi.pl^$dnsrewrite=0.0.0.0
-|filmfanatic.com^$dnsrewrite=0.0.0.0
 |film-flix.pl^$dnsrewrite=0.0.0.0
 |filmhd.ek1.pl^$dnsrewrite=0.0.0.0
 |filmhir.net^$dnsrewrite=0.0.0.0
@@ -10074,7 +9936,6 @@
 |filmydownload.wordpress.com^$dnsrewrite=0.0.0.0
 |filmygo.pl^$dnsrewrite=0.0.0.0
 |filmyiseriale24.pl^$dnsrewrite=0.0.0.0
-|filmyseriale.pl^$dnsrewrite=0.0.0.0
 |filmy-tv.pl^$dnsrewrite=0.0.0.0
 |filmyzadarmo.com.pl^$dnsrewrite=0.0.0.0
 |filmyzlektorem.pl^$dnsrewrite=0.0.0.0
@@ -10192,7 +10053,6 @@
 |flagcounter.com^$dnsrewrite=0.0.0.0
 |flairadscpc.com^$dnsrewrite=0.0.0.0
 |flakyfeast.com^$dnsrewrite=0.0.0.0
-|flamtrexgen-platform.com^$dnsrewrite=0.0.0.0
 |flashadtools.com^$dnsrewrite=0.0.0.0
 |flashbanners.static.ard.sexplaycam.com^$dnsrewrite=0.0.0.0
 |flashbanners.static.ard.xxxblackbook.com^$dnsrewrite=0.0.0.0
@@ -10204,7 +10064,6 @@
 |flatdee.ero-advertising.com^$dnsrewrite=0.0.0.0
 |flatfae.ero-advertising.com^$dnsrewrite=0.0.0.0
 |flatfea.ero-advertising.com^$dnsrewrite=0.0.0.0
-|flatfee.ero-advertising.com^$dnsrewrite=0.0.0.0
 |flavocribr.com^$dnsrewrite=0.0.0.0
 |fleboxin.fair-2sale.com^$dnsrewrite=0.0.0.0
 |flectorioinmediato-soft.com^$dnsrewrite=0.0.0.0
@@ -10288,7 +10147,6 @@
 |fondmatexapp.com^$dnsrewrite=0.0.0.0
 |fondmatex-app-solution.com^$dnsrewrite=0.0.0.0
 |fondoavancetico-engine.com^$dnsrewrite=0.0.0.0
-|fondzynarsystem.com^$dnsrewrite=0.0.0.0
 |fontostudni.club^$dnsrewrite=0.0.0.0
 |foodandcot.com^$dnsrewrite=0.0.0.0
 |foodcapital.com^$dnsrewrite=0.0.0.0
@@ -10547,7 +10405,6 @@
 |fxstyle.net^$dnsrewrite=0.0.0.0
 |fyc.heyzap.com^$dnsrewrite=0.0.0.0
 |fynloborrow-app.com^$dnsrewrite=0.0.0.0
-|fynloborrowapp.com^$dnsrewrite=0.0.0.0
 |fynzariosolution.com^$dnsrewrite=0.0.0.0
 |fyronex-driftorgptplatform.com^$dnsrewrite=0.0.0.0
 |fyxoltrix-tech.com^$dnsrewrite=0.0.0.0
@@ -10558,7 +10415,6 @@
 |g1xd.mediav.com^$dnsrewrite=0.0.0.0
 |g2.072m.com^$dnsrewrite=0.0.0.0
 |g2.112.2o7.net^$dnsrewrite=0.0.0.0
-|g2eld.doctorhey.com^$dnsrewrite=0.0.0.0
 |g2.gumgum.com^$dnsrewrite=0.0.0.0
 |g2vo.top^$dnsrewrite=0.0.0.0
 |g.3gl.net^$dnsrewrite=0.0.0.0
@@ -10602,7 +10458,6 @@
 |galvonix-trader-solution.com^$dnsrewrite=0.0.0.0
 |gam.adnxs.com^$dnsrewrite=0.0.0.0
 |gamblerush.com^$dnsrewrite=0.0.0.0
-|gameanalysis.appcpi.net^$dnsrewrite=0.0.0.0
 |gameanalytics.com^$dnsrewrite=0.0.0.0
 |gameangel.com^$dnsrewrite=0.0.0.0
 |game.apps.co.pl^$dnsrewrite=0.0.0.0
@@ -10619,7 +10474,6 @@
 |gamersad.com^$dnsrewrite=0.0.0.0
 |games4u.ws^$dnsrewrite=0.0.0.0
 |gamesfly.com^$dnsrewrite=0.0.0.0
-|gamesrotator.com^$dnsrewrite=0.0.0.0
 |gamevance.com^$dnsrewrite=0.0.0.0
 |gaming001.site^$dnsrewrite=0.0.0.0
 |gamma-emberengine.com^$dnsrewrite=0.0.0.0
@@ -10640,7 +10494,6 @@
 |garss.tv^$dnsrewrite=0.0.0.0
 |gar-tech.com^$dnsrewrite=0.0.0.0
 |garudaairlines.com^$dnsrewrite=0.0.0.0
-|gas2000evex.com^$dnsrewrite=0.0.0.0
 |gas2xevexsoftware.com^$dnsrewrite=0.0.0.0
 |gasaialrex.com^$dnsrewrite=0.0.0.0
 |gasfolex.com^$dnsrewrite=0.0.0.0
@@ -10666,9 +10519,7 @@
 |gawelda.pl^$dnsrewrite=0.0.0.0
 |ga.xdrig.com^$dnsrewrite=0.0.0.0
 |gayxperience.com^$dnsrewrite=0.0.0.0
-|gazeta.alsudes.com^$dnsrewrite=0.0.0.0
 |gazeta.hit.gemius.pl^$dnsrewrite=0.0.0.0
-|gazeta-polska.24.eu^$dnsrewrite=0.0.0.0
 |gbc0.da.us.criteo.com^$dnsrewrite=0.0.0.0
 |gbc1.da.us.criteo.com^$dnsrewrite=0.0.0.0
 |gbc2.da.us.criteo.com^$dnsrewrite=0.0.0.0
@@ -10748,7 +10599,6 @@
 |geconsumerfinance.112.2o7.net^$dnsrewrite=0.0.0.0
 |gedachteningang.nl^$dnsrewrite=0.0.0.0
 |geldhainpro-app.com^$dnsrewrite=0.0.0.0
-|geldrix-surge-app.net^$dnsrewrite=0.0.0.0
 |geldrixsurgeappreviews.org^$dnsrewrite=0.0.0.0
 |geldron-ai.com^$dnsrewrite=0.0.0.0
 |geldronai.com^$dnsrewrite=0.0.0.0
@@ -10812,7 +10662,6 @@
 |geonovalis.rest^$dnsrewrite=0.0.0.0
 |geoplugin.net^$dnsrewrite=0.0.0.0
 |geopolice.com^$dnsrewrite=0.0.0.0
-|geo.qualaroo.com^$dnsrewrite=0.0.0.0
 |geo.query.yahoo.com^$dnsrewrite=0.0.0.0
 |georgewbush.112.2o7.net^$dnsrewrite=0.0.0.0
 |georgewbushcom.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -10827,7 +10676,6 @@
 |gestioneserendipita.com^$dnsrewrite=0.0.0.0
 |getadobeflashdownloader.proxydns.com^$dnsrewrite=0.0.0.0
 |getairondrone.com^$dnsrewrite=0.0.0.0
-|get-answers-fast.com^$dnsrewrite=0.0.0.0
 |get.civicscience.com^$dnsrewrite=0.0.0.0
 |getclicky.com^$dnsrewrite=0.0.0.0
 |getdataback.pl^$dnsrewrite=0.0.0.0
@@ -11014,7 +10862,6 @@
 |go.accmgr.com^$dnsrewrite=0.0.0.0
 |go.admost.com^$dnsrewrite=0.0.0.0
 |goads.pro^$dnsrewrite=0.0.0.0
-|go.adversal.com^$dnsrewrite=0.0.0.0
 |go.affec.tv^$dnsrewrite=0.0.0.0
 |go.alxbgo.com^$dnsrewrite=0.0.0.0
 |goat.cx^$dnsrewrite=0.0.0.0
@@ -11053,7 +10900,6 @@
 |goldiraleverage.com^$dnsrewrite=0.0.0.0
 |goldledgerix-software.com^$dnsrewrite=0.0.0.0
 |goldledgerixsolution.com^$dnsrewrite=0.0.0.0
-|goldledgerix-system.com^$dnsrewrite=0.0.0.0
 |goldmere-paynex-tech.com^$dnsrewrite=0.0.0.0
 |goldpeakbitrowsoft.com^$dnsrewrite=0.0.0.0
 |goldridgeflowbit-app.com^$dnsrewrite=0.0.0.0
@@ -11112,7 +10958,6 @@
 |gotwebsite1.com^$dnsrewrite=0.0.0.0
 |gouploads.nocoshop.ru^$dnsrewrite=0.0.0.0
 |gourmetgiftbaskets.112.2o7.net^$dnsrewrite=0.0.0.0
-|go.usa.gov^$dnsrewrite=0.0.0.0
 |gov.aniview.com^$dnsrewrite=0.0.0.0
 |gov.autocredit.support^$dnsrewrite=0.0.0.0
 |govethledin.com^$dnsrewrite=0.0.0.0
@@ -11228,7 +11073,6 @@
 |gptlotemax.com^$dnsrewrite=0.0.0.0
 |gptlotemax.net^$dnsrewrite=0.0.0.0
 |gptmax-platform.com^$dnsrewrite=0.0.0.0
-|gptpermax7pro.com^$dnsrewrite=0.0.0.0
 |gpt-permaxsoftware.com^$dnsrewrite=0.0.0.0
 |gptpermax-xp.com^$dnsrewrite=0.0.0.0
 |gpt-seguroapp.com^$dnsrewrite=0.0.0.0
@@ -11261,7 +11105,6 @@
 |gratis.sms.senden.sms13.de^$dnsrewrite=0.0.0.0
 |gravenlith.wiki^$dnsrewrite=0.0.0.0
 |graviton-profit.app^$dnsrewrite=0.0.0.0
-|gravygirls.com^$dnsrewrite=0.0.0.0
 |greasypalm.com^$dnsrewrite=0.0.0.0
 |greatarcadehits.com^$dnsrewrite=0.0.0.0
 |great-beauty.org^$dnsrewrite=0.0.0.0
@@ -11378,7 +11221,6 @@
 |gxb.mmstat.com^$dnsrewrite=0.0.0.0
 |gyros.es^$dnsrewrite=0.0.0.0
 |g.zedo.com^$dnsrewrite=0.0.0.0
-|gzs2u.doctortrf.com^$dnsrewrite=0.0.0.0
 |h0rnd0g.popunder.ru^$dnsrewrite=0.0.0.0
 |h0.t.hubspotemail.net^$dnsrewrite=0.0.0.0
 |h12-media.com^$dnsrewrite=0.0.0.0
@@ -11515,7 +11357,6 @@
 |heavycom.122.2o7.net^$dnsrewrite=0.0.0.0
 |heavynot.shop^$dnsrewrite=0.0.0.0
 |hebdotop.com^$dnsrewrite=0.0.0.0
-|heimi-lwx.com^$dnsrewrite=0.0.0.0
 |heixbai.com^$dnsrewrite=0.0.0.0
 |hejnaltoday.top^$dnsrewrite=0.0.0.0
 |helder-flowdexsystem.com^$dnsrewrite=0.0.0.0
@@ -11527,8 +11368,6 @@
 |helpcollar.com^$dnsrewrite=0.0.0.0
 |helpfhc.odspecs.com^$dnsrewrite=0.0.0.0
 |helpgmd.odspecs.com^$dnsrewrite=0.0.0.0
-|helpingtrk.com^$dnsrewrite=0.0.0.0
-|help.mysearch.com^$dnsrewrite=0.0.0.0
 |helpngu.odspecs.com^$dnsrewrite=0.0.0.0
 |helpqwc.odspecs.com^$dnsrewrite=0.0.0.0
 |helsroom.com^$dnsrewrite=0.0.0.0
@@ -11648,7 +11487,6 @@
 |hoglpolska.com^$dnsrewrite=0.0.0.0
 |holdstory.com^$dnsrewrite=0.0.0.0
 |holiimages.com^$dnsrewrite=0.0.0.0
-|holika.com^$dnsrewrite=0.0.0.0
 |hollowafterthought.com^$dnsrewrite=0.0.0.0
 |hollywood.122.2o7.net^$dnsrewrite=0.0.0.0
 |home.acridinium.com^$dnsrewrite=0.0.0.0
@@ -11703,7 +11541,6 @@
 |horizonteethereumsoft.com^$dnsrewrite=0.0.0.0
 |hostdomainpeople.112.2o7.net^$dnsrewrite=0.0.0.0
 |hostdomainpeopleca.112.2o7.net^$dnsrewrite=0.0.0.0
-|hosteagle.club^$dnsrewrite=0.0.0.0
 |hostedads.realitykings.com^$dnsrewrite=0.0.0.0
 |hostedbannerads.aebn.net^$dnsrewrite=0.0.0.0
 |hostedfiles.net^$dnsrewrite=0.0.0.0
@@ -11845,7 +11682,6 @@
 |hygar.com^$dnsrewrite=0.0.0.0
 |hygromycin-b-50mg-ml-solution.com^$dnsrewrite=0.0.0.0
 |hyperads.gotrackier.com^$dnsrewrite=0.0.0.0
-|hyperion.adtech.fr^$dnsrewrite=0.0.0.0
 |hyperion.adtech.us^$dnsrewrite=0.0.0.0
 |hyperlinktech.122.2o7.net^$dnsrewrite=0.0.0.0
 |hyperowikly.live^$dnsrewrite=0.0.0.0
@@ -11868,7 +11704,6 @@
 |i2i.jp^$dnsrewrite=0.0.0.0
 |i305175.net^$dnsrewrite=0.0.0.0
 |i79zj-tzyj9.ads.tremorhub.com^$dnsrewrite=0.0.0.0
-|i7s86.doctorhey.com^$dnsrewrite=0.0.0.0
 |i83s.com^$dnsrewrite=0.0.0.0
 |iab-imp-gateway.supersonicads.com^$dnsrewrite=0.0.0.0
 |iabmap.evidon.com^$dnsrewrite=0.0.0.0
@@ -11930,7 +11765,6 @@
 |ice-casino-games.pl^$dnsrewrite=0.0.0.0
 |ice-casino-online.com^$dnsrewrite=0.0.0.0
 |iceccasino.pl^$dnsrewrite=0.0.0.0
-|iceman30.de^$dnsrewrite=0.0.0.0
 |icepromo.info^$dnsrewrite=0.0.0.0
 |ice-redirect.com^$dnsrewrite=0.0.0.0
 |ichannel.isnssdk.com^$dnsrewrite=0.0.0.0
@@ -12043,7 +11877,6 @@
 |i.l-dsp.inmobicdn.net^$dnsrewrite=0.0.0.0
 |ilead.itrack.it^$dnsrewrite=0.0.0.0
 |i.liadm.com^$dnsrewrite=0.0.0.0
-|i.libertystmedia.com^$dnsrewrite=0.0.0.0
 |i.l.inmobicdn.net^$dnsrewrite=0.0.0.0
 |illinfamy.com^$dnsrewrite=0.0.0.0
 |illustriousoatmeal.com^$dnsrewrite=0.0.0.0
@@ -12191,8 +12024,6 @@
 |i.mixadvert.com^$dnsrewrite=0.0.0.0
 |immanalytics.com^$dnsrewrite=0.0.0.0
 |immediate-03-dex-air.com^$dnsrewrite=0.0.0.0
-|immediate13x-iquix-solution.com^$dnsrewrite=0.0.0.0
-|immediate13x-iquix-tech.com^$dnsrewrite=0.0.0.0
 |immediate13xsanorex.com^$dnsrewrite=0.0.0.0
 |immediate14xcormaxengine.com^$dnsrewrite=0.0.0.0
 |immediate-19x-iquix.com^$dnsrewrite=0.0.0.0
@@ -12260,7 +12091,6 @@
 |immediateavonex.app^$dnsrewrite=0.0.0.0
 |immediate-avonex-soft.com^$dnsrewrite=0.0.0.0
 |immediateavonexx7-engine.com^$dnsrewrite=0.0.0.0
-|immediate-axert-platform.com^$dnsrewrite=0.0.0.0
 |immediateaxiom.app^$dnsrewrite=0.0.0.0
 |immediatebitaxe.com^$dnsrewrite=0.0.0.0
 |immediatebitcoin.co^$dnsrewrite=0.0.0.0
@@ -12269,7 +12099,6 @@
 |immediatebits.com^$dnsrewrite=0.0.0.0
 |immediatebitux-soft.com^$dnsrewrite=0.0.0.0
 |immediatebitwave.co^$dnsrewrite=0.0.0.0
-|immediate-bitwave.net^$dnsrewrite=0.0.0.0
 |immediatebitwave.net^$dnsrewrite=0.0.0.0
 |immediate-bitwave.org^$dnsrewrite=0.0.0.0
 |immediatebyte.app^$dnsrewrite=0.0.0.0
@@ -12331,7 +12160,6 @@
 |immediateedge.biz^$dnsrewrite=0.0.0.0
 |immediateedgecanada.com^$dnsrewrite=0.0.0.0
 |immediateedgepro.com^$dnsrewrite=0.0.0.0
-|immediate-edge.software^$dnsrewrite=0.0.0.0
 |immediateelegance.app^$dnsrewrite=0.0.0.0
 |immediateelevatesoftware-com-gent.financecryptoworld.com^$dnsrewrite=0.0.0.0
 |immediate-elevationapp.com^$dnsrewrite=0.0.0.0
@@ -12340,13 +12168,11 @@
 |immediateenigma.app^$dnsrewrite=0.0.0.0
 |immediateenigma.com^$dnsrewrite=0.0.0.0
 |immediateeprexai.org^$dnsrewrite=0.0.0.0
-|immediateera-software.com^$dnsrewrite=0.0.0.0
 |immediate-etherfusionapp.com^$dnsrewrite=0.0.0.0
 |immediateeuraxai.app^$dnsrewrite=0.0.0.0
 |immediate-eurax-ai-app.com^$dnsrewrite=0.0.0.0
 |immediate-euraxai-app.com^$dnsrewrite=0.0.0.0
 |immediateeuraxai.org^$dnsrewrite=0.0.0.0
-|immediate-evex.ai^$dnsrewrite=0.0.0.0
 |immediate-evex-ai.com^$dnsrewrite=0.0.0.0
 |immediate-evex.com^$dnsrewrite=0.0.0.0
 |immediateevex.org^$dnsrewrite=0.0.0.0
@@ -12372,7 +12198,6 @@
 |immediate-folex.com^$dnsrewrite=0.0.0.0
 |immediate-force.com^$dnsrewrite=0.0.0.0
 |immediateforceplatform.com^$dnsrewrite=0.0.0.0
-|immediateforteo-7v700.com^$dnsrewrite=0.0.0.0
 |immediate-fortune.io^$dnsrewrite=0.0.0.0
 |immediatefortune.io^$dnsrewrite=0.0.0.0
 |immediatefortune-software.com^$dnsrewrite=0.0.0.0
@@ -12473,7 +12298,6 @@
 |immediate-noxel-5c.com^$dnsrewrite=0.0.0.0
 |immediatenystextech.com^$dnsrewrite=0.0.0.0
 |immediateolux.app^$dnsrewrite=0.0.0.0
-|immediateolux-app.com^$dnsrewrite=0.0.0.0
 |immediate-olux-engine.com^$dnsrewrite=0.0.0.0
 |immediate-path-soft.com^$dnsrewrite=0.0.0.0
 |immediatepeak-engine.com^$dnsrewrite=0.0.0.0
@@ -12506,7 +12330,6 @@
 |immediatereopro300.com^$dnsrewrite=0.0.0.0
 |immediate-reopro.com^$dnsrewrite=0.0.0.0
 |immediaterevolution360.app^$dnsrewrite=0.0.0.0
-|immediaterevolution360.io^$dnsrewrite=0.0.0.0
 |immediaterevolution.site^$dnsrewrite=0.0.0.0
 |immediaterex.app^$dnsrewrite=0.0.0.0
 |immediaterex.com^$dnsrewrite=0.0.0.0
@@ -12577,7 +12400,6 @@
 |immediatezenarsolution.com^$dnsrewrite=0.0.0.0
 |immediatezenith.app^$dnsrewrite=0.0.0.0
 |immediatezunc4-tech.com^$dnsrewrite=0.0.0.0
-|immedintax-software.com^$dnsrewrite=0.0.0.0
 |immeditatepower-pro.com^$dnsrewrite=0.0.0.0
 |immeditatepower-pro-tech.com^$dnsrewrite=0.0.0.0
 |immensehoney.com^$dnsrewrite=0.0.0.0
@@ -12633,7 +12455,6 @@
 |impression.appsflyer.com^$dnsrewrite=0.0.0.0
 |impression.link^$dnsrewrite=0.0.0.0
 |impressionmedia.cz^$dnsrewrite=0.0.0.0
-|impressionmonster.com^$dnsrewrite=0.0.0.0
 |impression.taptica.com^$dnsrewrite=0.0.0.0
 |imp.rfp.fout.jp^$dnsrewrite=0.0.0.0
 |imprhkmp.taboola.com^$dnsrewrite=0.0.0.0
@@ -12692,7 +12513,6 @@
 |increderefundixsoft.com^$dnsrewrite=0.0.0.0
 |incruises.com^$dnsrewrite=0.0.0.0
 |in.cuebiq.com^$dnsrewrite=0.0.0.0
-|indeedbharat.com^$dnsrewrite=0.0.0.0
 |indetiske.ya.ru^$dnsrewrite=0.0.0.0
 |indexchenixpip-engine.com^$dnsrewrite=0.0.0.0
 |indexcipro-opt.com^$dnsrewrite=0.0.0.0
@@ -12787,13 +12607,11 @@
 |innerpulse.life^$dnsrewrite=0.0.0.0
 |innerpulse.live^$dnsrewrite=0.0.0.0
 |innity.com^$dnsrewrite=0.0.0.0
-|innity.net^$dnsrewrite=0.0.0.0
 |inno.bisrv.com^$dnsrewrite=0.0.0.0
 |innovativemasonry.net^$dnsrewrite=0.0.0.0
 |innovault.online^$dnsrewrite=0.0.0.0
 |innovid.com^$dnsrewrite=0.0.0.0
 |ino-instvate-tech.com^$dnsrewrite=0.0.0.0
-|inovariseprosoftware.com^$dnsrewrite=0.0.0.0
 |inpagepush.com^$dnsrewrite=0.0.0.0
 |in.paycounter.com^$dnsrewrite=0.0.0.0
 |inquisitiveinvention.com^$dnsrewrite=0.0.0.0
@@ -12817,10 +12635,8 @@
 |inspirodesign.pl^$dnsrewrite=0.0.0.0
 |ins-services.meltwater.com^$dnsrewrite=0.0.0.0
 |instabook.fr^$dnsrewrite=0.0.0.0
-|instacorvexai-soft.com^$dnsrewrite=0.0.0.0
 |instadia.112.2o7.net^$dnsrewrite=0.0.0.0
 |instadinamicaplatform.com^$dnsrewrite=0.0.0.0
-|instadinamica-soft.com^$dnsrewrite=0.0.0.0
 |installer.betterinstaller.com^$dnsrewrite=0.0.0.0
 |instant-11x-iquix-lispro.com^$dnsrewrite=0.0.0.0
 |instant11x-iquix-lispro.com^$dnsrewrite=0.0.0.0
@@ -12837,16 +12653,13 @@
 |instant4xintaltech.com^$dnsrewrite=0.0.0.0
 |instant-6000mentax-soft.com^$dnsrewrite=0.0.0.0
 |instant-600olux.com^$dnsrewrite=0.0.0.0
-|instant-60renova.com^$dnsrewrite=0.0.0.0
 |instant-6olux-software.com^$dnsrewrite=0.0.0.0
-|instant7000-prolia.com^$dnsrewrite=0.0.0.0
 |instant-900-akpro-soft.com^$dnsrewrite=0.0.0.0
 |instant-900-akpro-tech.com^$dnsrewrite=0.0.0.0
 |instant-900-akprotech.com^$dnsrewrite=0.0.0.0
 |instant-900exalgo-app.com^$dnsrewrite=0.0.0.0
 |instant900exalgo-app.com^$dnsrewrite=0.0.0.0
 |instant900exalgoapp.com^$dnsrewrite=0.0.0.0
-|instant90cormax.com^$dnsrewrite=0.0.0.0
 |instant-9-akpro.com^$dnsrewrite=0.0.0.0
 |instant-9-day-pro.com^$dnsrewrite=0.0.0.0
 |instant-9xakpro.com^$dnsrewrite=0.0.0.0
@@ -12875,7 +12688,6 @@
 |instantflip.app^$dnsrewrite=0.0.0.0
 |instant-flipsystem.com^$dnsrewrite=0.0.0.0
 |instantforteo-600-software.com^$dnsrewrite=0.0.0.0
-|instant-forteo-avis-system.com^$dnsrewrite=0.0.0.0
 |instant-intal-soft.com^$dnsrewrite=0.0.0.0
 |instant-lasix.com^$dnsrewrite=0.0.0.0
 |instantlasix.com^$dnsrewrite=0.0.0.0
@@ -12949,7 +12761,6 @@
 |interunicon.com^$dnsrewrite=0.0.0.0
 |interyield.td553.com^$dnsrewrite=0.0.0.0
 |interyield.td563.com^$dnsrewrite=0.0.0.0
-|intext.ero-advertising.com^$dnsrewrite=0.0.0.0
 |intljs.rmtag.com^$dnsrewrite=0.0.0.0
 |intouch.arcsoft.com^$dnsrewrite=0.0.0.0
 |intouchsolutions.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -13020,7 +12831,6 @@
 |ios.bugly.qq.com^$dnsrewrite=0.0.0.0
 |ioslog.ssl2.duapps.com^$dnsrewrite=0.0.0.0
 |ios.unid.go.com^$dnsrewrite=0.0.0.0
-|iotapi.adups.com^$dnsrewrite=0.0.0.0
 |iot-eu-logser.realme.com^$dnsrewrite=0.0.0.0
 |iot-logser.realme.com^$dnsrewrite=0.0.0.0
 |iovation.com^$dnsrewrite=0.0.0.0
@@ -13144,7 +12954,6 @@
 |j5sf.com^$dnsrewrite=0.0.0.0
 |j93557g.com^$dnsrewrite=0.0.0.0
 |ja2n2u30a6rgyd.com^$dnsrewrite=0.0.0.0
-|jabu.popunder.ru^$dnsrewrite=0.0.0.0
 |jacbridge.com^$dnsrewrite=0.0.0.0
 |jaccs.122.2o7.net^$dnsrewrite=0.0.0.0
 |jackiemdesigns.com^$dnsrewrite=0.0.0.0
@@ -13181,7 +12990,6 @@
 |jasny-evogainex.com^$dnsrewrite=0.0.0.0
 |jasperella-h7hstarline.zetoogi.sa.com^$dnsrewrite=0.0.0.0
 |jaster.pl^$dnsrewrite=0.0.0.0
-|jaucryptosystem.com^$dnsrewrite=0.0.0.0
 |javascriptobfuscator.com^$dnsrewrite=0.0.0.0
 |jav.jave.xyz^$dnsrewrite=0.0.0.0
 |jawaratekno.com^$dnsrewrite=0.0.0.0
@@ -13223,7 +13031,6 @@
 |jgen12.cjt1.net^$dnsrewrite=0.0.0.0
 |jgen13.cjt1.net^$dnsrewrite=0.0.0.0
 |jgen15.cjt1.net^$dnsrewrite=0.0.0.0
-|jgen16.cjt1.net^$dnsrewrite=0.0.0.0
 |jgen18.cjt1.net^$dnsrewrite=0.0.0.0
 |jgen19.cjt1.net^$dnsrewrite=0.0.0.0
 |jgen1.cjt1.net^$dnsrewrite=0.0.0.0
@@ -13257,7 +13064,6 @@
 |jgen49.cjt1.net^$dnsrewrite=0.0.0.0
 |jgen4.cjt1.net^$dnsrewrite=0.0.0.0
 |jgen5.cjt1.net^$dnsrewrite=0.0.0.0
-|jgen6.cjt1.net^$dnsrewrite=0.0.0.0
 |jgen9.cjt1.net^$dnsrewrite=0.0.0.0
 |jgl.microad.net^$dnsrewrite=0.0.0.0
 |jgoyk.cjt1.net^$dnsrewrite=0.0.0.0
@@ -13304,7 +13110,6 @@
 |joocasino31.com^$dnsrewrite=0.0.0.0
 |jordanbuty.pl^$dnsrewrite=0.0.0.0
 |josip-stadler.org^$dnsrewrite=0.0.0.0
-|jotremako.info^$dnsrewrite=0.0.0.0
 |journalregistercompany.122.2o7.net^$dnsrewrite=0.0.0.0
 |journeyhex.shop^$dnsrewrite=0.0.0.0
 |joy-box.pl^$dnsrewrite=0.0.0.0
@@ -13357,7 +13162,6 @@
 |js-cdn.dynatrace.com^$dnsrewrite=0.0.0.0
 |jsc.dt07.net^$dnsrewrite=0.0.0.0
 |js.center.io^$dnsrewrite=0.0.0.0
-|js.clickequations.net^$dnsrewrite=0.0.0.0
 |js-cloud.com^$dnsrewrite=0.0.0.0
 |jsc.marketgid.com^$dnsrewrite=0.0.0.0
 |js.cocoad.jp^$dnsrewrite=0.0.0.0
@@ -13435,7 +13239,6 @@
 |jusgeek.com^$dnsrewrite=0.0.0.0
 |justanothergermancarblog.com^$dnsrewrite=0.0.0.0
 |justdeckshamilton.ca^$dnsrewrite=0.0.0.0
-|juste.ru^$dnsrewrite=0.0.0.0
 |justgetbarter.com^$dnsrewrite=0.0.0.0
 |justicejudo.com^$dnsrewrite=0.0.0.0
 |justinbiegler.com^$dnsrewrite=0.0.0.0
@@ -13612,7 +13415,6 @@
 |komostyle.com^$dnsrewrite=0.0.0.0
 |konax.kontera.com^$dnsrewrite=0.0.0.0
 |kondmatex-app.com^$dnsrewrite=0.0.0.0
-|kondmatex-software.com^$dnsrewrite=0.0.0.0
 |kondratexapp-solution.com^$dnsrewrite=0.0.0.0
 |kondratexappsolution.com^$dnsrewrite=0.0.0.0
 |konflow.com^$dnsrewrite=0.0.0.0
@@ -13648,7 +13450,6 @@
 |krater.iprom.net^$dnsrewrite=0.0.0.0
 |krdn.pl^$dnsrewrite=0.0.0.0
 |kredytybezbik.eu^$dnsrewrite=0.0.0.0
-|kredytynasms.pl^$dnsrewrite=0.0.0.0
 |krevacto.info^$dnsrewrite=0.0.0.0
 |k-ring.msedge.net^$dnsrewrite=0.0.0.0
 |krk.kargo.com^$dnsrewrite=0.0.0.0
@@ -13657,7 +13458,6 @@
 |kromtech.net^$dnsrewrite=0.0.0.0
 |kropka.onet.pl^$dnsrewrite=0.0.0.0
 |kryptoportal.pl^$dnsrewrite=0.0.0.0
-|kryvongearapp.org^$dnsrewrite=0.0.0.0
 |ksect.shop^$dnsrewrite=0.0.0.0
 |k.streamrail.com^$dnsrewrite=0.0.0.0
 |ktopodgladamnienafacebooku.wordpress.com^$dnsrewrite=0.0.0.0
@@ -13690,7 +13490,6 @@
 |l3.evidon.com^$dnsrewrite=0.0.0.0
 |l3.zedo.com^$dnsrewrite=0.0.0.0
 |l5.zedo.com^$dnsrewrite=0.0.0.0
-|l6.zedo.com^$dnsrewrite=0.0.0.0
 |l7.zedo.com^$dnsrewrite=0.0.0.0
 |l8.zedo.com^$dnsrewrite=0.0.0.0
 |l8ztt35.top^$dnsrewrite=0.0.0.0
@@ -13712,7 +13511,6 @@
 |l.adxcore.com^$dnsrewrite=0.0.0.0
 |laexotic.com^$dnsrewrite=0.0.0.0
 |lajkpanel.pl^$dnsrewrite=0.0.0.0
-|lakbitprosoft.com^$dnsrewrite=0.0.0.0
 |lakeshore.d1.sc.omtrdc.net^$dnsrewrite=0.0.0.0
 |lakespoly.shop^$dnsrewrite=0.0.0.0
 |lalande.iad-03.braze.com^$dnsrewrite=0.0.0.0
@@ -13845,7 +13643,6 @@
 |leadinfo.net^$dnsrewrite=0.0.0.0
 |lead.network^$dnsrewrite=0.0.0.0
 |leadn.pl^$dnsrewrite=0.0.0.0
-|leadplace.fr^$dnsrewrite=0.0.0.0
 |leadpub.com^$dnsrewrite=0.0.0.0
 |lead.soperson.com^$dnsrewrite=0.0.0.0
 |leadspace.com^$dnsrewrite=0.0.0.0
@@ -13984,7 +13781,6 @@
 |lindnerelektroanlagen.de^$dnsrewrite=0.0.0.0
 |linenmia.com^$dnsrewrite=0.0.0.0
 |linenstylish.com^$dnsrewrite=0.0.0.0
-|lingintirejohny.club^$dnsrewrite=0.0.0.0
 |link4ads.com^$dnsrewrite=0.0.0.0
 |link4link.com^$dnsrewrite=0.0.0.0
 |link4win.net^$dnsrewrite=0.0.0.0
@@ -14035,12 +13831,10 @@
 |liquidad.narrowcastmedia.com^$dnsrewrite=0.0.0.0
 |liquidfile.nocoshop.ru^$dnsrewrite=0.0.0.0
 |liquidwate.shop^$dnsrewrite=0.0.0.0
-|li.realtor.com^$dnsrewrite=0.0.0.0
 |lissereixiosoft.com^$dnsrewrite=0.0.0.0
 |listen.audiohook.com^$dnsrewrite=0.0.0.0
 |litoren.com^$dnsrewrite=0.0.0.0
 |liucuaiv.tigarshark.com^$dnsrewrite=0.0.0.0
-|liujopolska.com^$dnsrewrite=0.0.0.0
 |liveadexchanger.com^$dnsrewrite=0.0.0.0
 |liveads.jp^$dnsrewrite=0.0.0.0
 |live-api.immomo.com^$dnsrewrite=0.0.0.0
@@ -14096,7 +13890,6 @@
 |live-tag.bannersnack.com^$dnsrewrite=0.0.0.0
 |live.trmzum.com^$dnsrewrite=0.0.0.0
 |livetus.com^$dnsrewrite=0.0.0.0
-|live.vnpgroup.net^$dnsrewrite=0.0.0.0
 |livingsleet.com^$dnsrewrite=0.0.0.0
 |lizardslaugh.com^$dnsrewrite=0.0.0.0
 |li.ziffimages.com^$dnsrewrite=0.0.0.0
@@ -14373,7 +14166,6 @@
 |loind.mobio.vn^$dnsrewrite=0.0.0.0
 |lokalneinformacje.pl^$dnsrewrite=0.0.0.0
 |lokatapipelinepro-app.com^$dnsrewrite=0.0.0.0
-|lokata-pipelinepro.com^$dnsrewrite=0.0.0.0
 |lokatapipeline-pro.com^$dnsrewrite=0.0.0.0
 |loktrk.com^$dnsrewrite=0.0.0.0
 |lolak-warszawa.com^$dnsrewrite=0.0.0.0
@@ -14387,14 +14179,12 @@
 |lomejordesalamanca.es^$dnsrewrite=0.0.0.0
 |lonavixio-solution.com^$dnsrewrite=0.0.0.0
 |londegrvi.top^$dnsrewrite=0.0.0.0
-|londmatexappsolution.com^$dnsrewrite=0.0.0.0
 |lonelywifehookup.com^$dnsrewrite=0.0.0.0
 |l.onfluencer.net^$dnsrewrite=0.0.0.0
 |lonfreya.info^$dnsrewrite=0.0.0.0
 |lonrtp1-cdn.marketo.com^$dnsrewrite=0.0.0.0
 |lonrtp1.marketo.com^$dnsrewrite=0.0.0.0
 |lookbwell.click^$dnsrewrite=0.0.0.0
-|look.ichlnk.com^$dnsrewrite=0.0.0.0
 |looking4fuck.com^$dnsrewrite=0.0.0.0
 |look.opskln.com^$dnsrewrite=0.0.0.0
 |loopearplugspolska.pl^$dnsrewrite=0.0.0.0
@@ -14515,7 +14305,6 @@
 |luvoradex-app-software.com^$dnsrewrite=0.0.0.0
 |luvox-bit-platform.com^$dnsrewrite=0.0.0.0
 |luv-ver.com^$dnsrewrite=0.0.0.0
-|luvver.pl^$dnsrewrite=0.0.0.0
 |luxareditto-solution.com^$dnsrewrite=0.0.0.0
 |lux-clubx.sa.com^$dnsrewrite=0.0.0.0
 |luxemlocatorprod.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -14534,7 +14323,6 @@
 |lynaphniqeb.digital^$dnsrewrite=0.0.0.0
 |lynexistrader-flex.com^$dnsrewrite=0.0.0.0
 |lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com^$dnsrewrite=0.0.0.0
-|lynx-trader-9flex.com^$dnsrewrite=0.0.0.0
 |lyricshook.com^$dnsrewrite=0.0.0.0
 |lytics.io^$dnsrewrite=0.0.0.0
 |m01.webwise.org^$dnsrewrite=0.0.0.0
@@ -14649,7 +14437,6 @@
 |mandanu-j4xw.vercel.app^$dnsrewrite=0.0.0.0
 |mandarv.com^$dnsrewrite=0.0.0.0
 |manefundexis-engine.com^$dnsrewrite=0.0.0.0
-|mania-perfum.pl^$dnsrewrite=0.0.0.0
 |manifest.53.localytics.com^$dnsrewrite=0.0.0.0
 |manifest.localytics.com^$dnsrewrite=0.0.0.0
 |manifest-server.naiadsystems.com^$dnsrewrite=0.0.0.0
@@ -14729,7 +14516,6 @@
 |masdk.3g.qq.com^$dnsrewrite=0.0.0.0
 |masdpanalytics.azureedge.net^$dnsrewrite=0.0.0.0
 |mashable.d2.sc.omtrdc.net^$dnsrewrite=0.0.0.0
-|masikini.com^$dnsrewrite=0.0.0.0
 |mas.sector.sk^$dnsrewrite=0.0.0.0
 |massextreme.pl^$dnsrewrite=0.0.0.0
 |massimo-bitpuls-soft.com^$dnsrewrite=0.0.0.0
@@ -14905,7 +14691,6 @@
 |media.admob.com^$dnsrewrite=0.0.0.0
 |media.adnetwork.vn^$dnsrewrite=0.0.0.0
 |media.adop.asia^$dnsrewrite=0.0.0.0
-|media-adrunner.mycomputer.com^$dnsrewrite=0.0.0.0
 |media.ads.gfsrv.net^$dnsrewrite=0.0.0.0
 |media-ads.zaloapp.com^$dnsrewrite=0.0.0.0
 |media.adtimaserver.vn^$dnsrewrite=0.0.0.0
@@ -14919,7 +14704,6 @@
 |mediabistrocom.112.2o7.net^$dnsrewrite=0.0.0.0
 |media.boomads.com^$dnsrewrite=0.0.0.0
 |mediabridge.cc^$dnsrewrite=0.0.0.0
-|media-b.vpptechnologies.com^$dnsrewrite=0.0.0.0
 |media.carambo.la^$dnsrewrite=0.0.0.0
 |media-cdn.ipredictive.com^$dnsrewrite=0.0.0.0
 |mediacharger.com^$dnsrewrite=0.0.0.0
@@ -14973,7 +14757,6 @@
 |mediaserver.bwinpartypartners.it^$dnsrewrite=0.0.0.0
 |mediasmart.io^$dnsrewrite=0.0.0.0
 |mediasquare.fr^$dnsrewrite=0.0.0.0
-|media.superstats.com^$dnsrewrite=0.0.0.0
 |mediatext.com^$dnsrewrite=0.0.0.0
 |media.the-adult-company.com^$dnsrewrite=0.0.0.0
 |mediation.adnxs.com^$dnsrewrite=0.0.0.0
@@ -15088,7 +14871,6 @@
 |metrics.adacreisen.de^$dnsrewrite=0.0.0.0
 |metrics.adage.com^$dnsrewrite=0.0.0.0
 |metrics.adelaidenow.com.au^$dnsrewrite=0.0.0.0
-|metrics.aetn.com^$dnsrewrite=0.0.0.0
 |metrics.al.com^$dnsrewrite=0.0.0.0
 |metrics.ambientdsp.com^$dnsrewrite=0.0.0.0
 |metrics.amd.com^$dnsrewrite=0.0.0.0
@@ -15144,7 +14926,6 @@
 |metrics.el-mundo.net^$dnsrewrite=0.0.0.0
 |metrics.eurobet.it^$dnsrewrite=0.0.0.0
 |metrics.express.com^$dnsrewrite=0.0.0.0
-|metrics.fedex.com^$dnsrewrite=0.0.0.0
 |metrics.finishline.com^$dnsrewrite=0.0.0.0
 |metrics.flyingmag.com^$dnsrewrite=0.0.0.0
 |metrics.ford.com^$dnsrewrite=0.0.0.0
@@ -15158,7 +14939,6 @@
 |metrics.getrockerbox.com^$dnsrewrite=0.0.0.0
 |metrics.gnc.com^$dnsrewrite=0.0.0.0
 |metrics.gocloudmaps.com^$dnsrewrite=0.0.0.0
-|metrics.govexec.com^$dnsrewrite=0.0.0.0
 |metrics.hackerrank.com.edgekey.net^$dnsrewrite=0.0.0.0
 |metrics.harley-davidson.com^$dnsrewrite=0.0.0.0
 |metrics.hbogo.com^$dnsrewrite=0.0.0.0
@@ -15176,7 +14956,6 @@
 |metrics.ionos.fr^$dnsrewrite=0.0.0.0
 |metrics.ireport.com^$dnsrewrite=0.0.0.0
 |metrics.kbb.com^$dnsrewrite=0.0.0.0
-|metrics.kgw.com^$dnsrewrite=0.0.0.0
 |metrics.ktvb.com^$dnsrewrite=0.0.0.0
 |metrics.landolakes.com^$dnsrewrite=0.0.0.0
 |metrics.lawyers.com^$dnsrewrite=0.0.0.0
@@ -15373,10 +15152,8 @@
 |mint-star.pl^$dnsrewrite=0.0.0.0
 |mioveni.pl^$dnsrewrite=0.0.0.0
 |mipay.fr^$dnsrewrite=0.0.0.0
-|miradextraderengine.com^$dnsrewrite=0.0.0.0
 |miroxaember-soft.com^$dnsrewrite=0.0.0.0
 |miroxa-ember-tech.com^$dnsrewrite=0.0.0.0
-|miroxaspectre-app.com^$dnsrewrite=0.0.0.0
 |miroxa-spectre-engine.com^$dnsrewrite=0.0.0.0
 |miroxaviax-soft.com^$dnsrewrite=0.0.0.0
 |mirrorcoukcelebs.skimlinks.com^$dnsrewrite=0.0.0.0
@@ -15438,7 +15215,6 @@
 |mmdmakemydealcom.112.2o7.net^$dnsrewrite=0.0.0.0
 |mme.zedcdn.me^$dnsrewrite=0.0.0.0
 |m.mixadvert.com^$dnsrewrite=0.0.0.0
-|mmptrack.com^$dnsrewrite=0.0.0.0
 |mms.cnn.com^$dnsrewrite=0.0.0.0
 |mmsshopcom.112.2o7.net^$dnsrewrite=0.0.0.0
 |mmtro.com^$dnsrewrite=0.0.0.0
@@ -15479,7 +15255,6 @@
 |mobile.eum-appdynamics.com^$dnsrewrite=0.0.0.0
 |mobilefuse.com^$dnsrewrite=0.0.0.0
 |mobilegamerstats.com^$dnsrewrite=0.0.0.0
-|mobile.ib.sin1.geoadnxs.com^$dnsrewrite=0.0.0.0
 |mobile.juicyads.com^$dnsrewrite=0.0.0.0
 |mobileleads.msn.com^$dnsrewrite=0.0.0.0
 |mobile.mng-ads.com^$dnsrewrite=0.0.0.0
@@ -15563,7 +15338,6 @@
 |monitor-tools.cn.miaozhen.com^$dnsrewrite=0.0.0.0
 |monitor.uu.qq.com^$dnsrewrite=0.0.0.0
 |monitrexpro-system.com^$dnsrewrite=0.0.0.0
-|monivexis-platform.com^$dnsrewrite=0.0.0.0
 |monivexis-soft.com^$dnsrewrite=0.0.0.0
 |monkeyball.osa.pl^$dnsrewrite=0.0.0.0
 |mononoteapp.firebaseio.com^$dnsrewrite=0.0.0.0
@@ -15685,7 +15459,6 @@
 |msnportalprivacy.112.2o7.net^$dnsrewrite=0.0.0.0
 |msnportalscp.112.2o7.net^$dnsrewrite=0.0.0.0
 |msnportalvideo.112.2o7.net^$dnsrewrite=0.0.0.0
-|msnsearch.srv.girafa.com^$dnsrewrite=0.0.0.0
 |msnservices.112.2o7.net^$dnsrewrite=0.0.0.0
 |msntrademarketing.112.2o7.net^$dnsrewrite=0.0.0.0
 |msnwinonecare.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -15734,7 +15507,6 @@
 |mtvn.demdex.net^$dnsrewrite=0.0.0.0
 |mtvu.112.2o7.net^$dnsrewrite=0.0.0.0
 |mucu.jp^$dnsrewrite=0.0.0.0
-|mudfall.com^$dnsrewrite=0.0.0.0
 |mudiwahood.group^$dnsrewrite=0.0.0.0
 |mug.criteo.com^$dnsrewrite=0.0.0.0
 |mukunth.com^$dnsrewrite=0.0.0.0
@@ -15774,7 +15546,6 @@
 |mwzeom.zeotap.com^$dnsrewrite=0.0.0.0
 |mxase.clmbtech.com^$dnsrewrite=0.0.0.0
 |mxd.livejasmin.com^$dnsrewrite=0.0.0.0
-|mx.ero-advertising.com^$dnsrewrite=0.0.0.0
 |mxmacromedia.112.2o7.net^$dnsrewrite=0.0.0.0
 |m.xtbmarteas.cc^$dnsrewrite=0.0.0.0
 |mxu.livejasmin.com^$dnsrewrite=0.0.0.0
@@ -15793,7 +15564,6 @@
 |mybroker-critique.top^$dnsrewrite=0.0.0.0
 |mybroker-review.top^$dnsrewrite=0.0.0.0
 |mycaal.fr^$dnsrewrite=0.0.0.0
-|mycashback.co.uk^$dnsrewrite=0.0.0.0
 |mycdn.media.net^$dnsrewrite=0.0.0.0
 |mycleanpc.com^$dnsrewrite=0.0.0.0
 |mycnal.fr^$dnsrewrite=0.0.0.0
@@ -15805,7 +15575,6 @@
 |myerbasbuenas.cl^$dnsrewrite=0.0.0.0
 |myexclusiverewards.com^$dnsrewrite=0.0.0.0
 |myfamilyancestry.112.2o7.net^$dnsrewrite=0.0.0.0
-|myfuncards.com^$dnsrewrite=0.0.0.0
 |my-gmtdmp.mookie1.com^$dnsrewrite=0.0.0.0
 |mygreatrewards.com^$dnsrewrite=0.0.0.0
 |mygummyjelly.com^$dnsrewrite=0.0.0.0
@@ -15833,7 +15602,6 @@
 |myronexcipher-app.com^$dnsrewrite=0.0.0.0
 |my.rtmark.net^$dnsrewrite=0.0.0.0
 |mysagagame.com^$dnsrewrite=0.0.0.0
-|myseostats.com^$dnsrewrite=0.0.0.0
 |myshovel.com^$dnsrewrite=0.0.0.0
 |my.statcounter.com^$dnsrewrite=0.0.0.0
 |mystat-in.net^$dnsrewrite=0.0.0.0
@@ -15847,8 +15615,6 @@
 |my-tracknl.com^$dnsrewrite=0.0.0.0
 |mytraffic.pl^$dnsrewrite=0.0.0.0
 |my-vodaccount.com^$dnsrewrite=0.0.0.0
-|myway.com^$dnsrewrite=0.0.0.0
-|mywebsearch.com^$dnsrewrite=0.0.0.0
 |mywot.com^$dnsrewrite=0.0.0.0
 |m.zedcdn.me^$dnsrewrite=0.0.0.0
 |n1internet.com^$dnsrewrite=0.0.0.0
@@ -15856,13 +15622,8 @@
 |n2.nskfyl.com^$dnsrewrite=0.0.0.0
 |n2.smartyads.com^$dnsrewrite=0.0.0.0
 |n339.asp-cc.com^$dnsrewrite=0.0.0.0
-|n3.nskfyl.com^$dnsrewrite=0.0.0.0
-|n4.nskfyl.com^$dnsrewrite=0.0.0.0
 |n4vi.top^$dnsrewrite=0.0.0.0
-|n5.nskfyl.com^$dnsrewrite=0.0.0.0
 |n69.com^$dnsrewrite=0.0.0.0
-|n6.nskfyl.com^$dnsrewrite=0.0.0.0
-|n7.nskfyl.com^$dnsrewrite=0.0.0.0
 |na-ab19.marketo.com^$dnsrewrite=0.0.0.0
 |na-ab20.marketo.com^$dnsrewrite=0.0.0.0
 |na-ab25.marketo.com^$dnsrewrite=0.0.0.0
@@ -15980,7 +15741,6 @@
 |ncc.avast.com^$dnsrewrite=0.0.0.0
 |n-cdn.areyouahuman.com^$dnsrewrite=0.0.0.0
 |ncomp.shop^$dnsrewrite=0.0.0.0
-|ncoremeghivo.net^$dnsrewrite=0.0.0.0
 |nctracking.com^$dnsrewrite=0.0.0.0
 |ndhvbs.us.cc^$dnsrewrite=0.0.0.0
 |ndparking.com^$dnsrewrite=0.0.0.0
@@ -16003,7 +15763,6 @@
 |needadvertising.com^$dnsrewrite=0.0.0.0
 |needyneedle.com^$dnsrewrite=0.0.0.0
 |neighborlywatch.com^$dnsrewrite=0.0.0.0
-|nelavortrader-9solution.com^$dnsrewrite=0.0.0.0
 |nelees.com^$dnsrewrite=0.0.0.0
 |neo-connect-ai.com^$dnsrewrite=0.0.0.0
 |neocounter.neoworx-blog-tools.net^$dnsrewrite=0.0.0.0
@@ -16043,7 +15802,6 @@
 |netflix-updateinfo.com^$dnsrewrite=0.0.0.0
 |netgear.122.2o7.net^$dnsrewrite=0.0.0.0
 |netherex-pro-system.com^$dnsrewrite=0.0.0.0
-|nethit-free.nl^$dnsrewrite=0.0.0.0
 |netleaders.com^$dnsrewrite=0.0.0.0
 |netmag.co.uk^$dnsrewrite=0.0.0.0
 |netmera.com^$dnsrewrite=0.0.0.0
@@ -16077,7 +15835,6 @@
 |neurixprofitsolution.com^$dnsrewrite=0.0.0.0
 |neurixprofit-system.com^$dnsrewrite=0.0.0.0
 |neurocele.info^$dnsrewrite=0.0.0.0
-|neuropathicyst.info^$dnsrewrite=0.0.0.0
 |neuropax-ai.com^$dnsrewrite=0.0.0.0
 |neurorehabtraining.com^$dnsrewrite=0.0.0.0
 |neurotradexplatform.com^$dnsrewrite=0.0.0.0
@@ -16237,7 +15994,6 @@
 |nlink.com.br^$dnsrewrite=0.0.0.0
 |nlocalhost.wordtheminer.com^$dnsrewrite=0.0.0.0
 |nmanchorage.112.2o7.net^$dnsrewrite=0.0.0.0
-|nmapquest.com^$dnsrewrite=0.0.0.0
 |nmbakersfieldca.112.2o7.net^$dnsrewrite=0.0.0.0
 |nmbeaufort.112.2o7.net^$dnsrewrite=0.0.0.0
 |nmbelleville.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -16415,7 +16171,6 @@
 |nutrigolabburner.pl^$dnsrewrite=0.0.0.0
 |nutrigolabstrength.pl^$dnsrewrite=0.0.0.0
 |nutrired.org^$dnsrewrite=0.0.0.0
-|nuvetmintai.org^$dnsrewrite=0.0.0.0
 |nuvialabfemalefertility.pl^$dnsrewrite=0.0.0.0
 |nuvialabflex.pl^$dnsrewrite=0.0.0.0
 |nuvialabimmune.pl^$dnsrewrite=0.0.0.0
@@ -16435,7 +16190,6 @@
 |nx.frosmo.com^$dnsrewrite=0.0.0.0
 |ny1-bid.adsrvr.org^$dnsrewrite=0.0.0.0
 |nychi2.outbrain.org^$dnsrewrite=0.0.0.0
-|nycp-hlb.dvgtm.akadns.net^$dnsrewrite=0.0.0.0
 |nydailynews.d1.sc.omtrdc.net^$dnsrewrite=0.0.0.0
 |nyittc.com^$dnsrewrite=0.0.0.0
 |ny.lshdw.cc^$dnsrewrite=0.0.0.0
@@ -16513,7 +16267,6 @@
 |obscenesidewalk.com^$dnsrewrite=0.0.0.0
 |observe.aniview.com^$dnsrewrite=0.0.0.0
 |obserwacjeinfo7.biz^$dnsrewrite=0.0.0.0
-|obsidianquantrex-tech.com^$dnsrewrite=0.0.0.0
 |obudzgeniusza.pl^$dnsrewrite=0.0.0.0
 |obuse-apple.com^$dnsrewrite=0.0.0.0
 |occi.opencoccoc.com^$dnsrewrite=0.0.0.0
@@ -16639,8 +16392,6 @@
 |om.metacrawler.com^$dnsrewrite=0.0.0.0
 |omn.crackle.com^$dnsrewrite=0.0.0.0
 |om.neimanmarcus.com^$dnsrewrite=0.0.0.0
-|omni.basspro.com^$dnsrewrite=0.0.0.0
-|omni.canadiantire.ca^$dnsrewrite=0.0.0.0
 |omni.cash.ch^$dnsrewrite=0.0.0.0
 |omnicleaningservices.com^$dnsrewrite=0.0.0.0
 |omni.csc.com^$dnsrewrite=0.0.0.0
@@ -16785,7 +16536,6 @@
 |opinionlabcc.122.2o7.net^$dnsrewrite=0.0.0.0
 |opisthoglyphayst.info^$dnsrewrite=0.0.0.0
 |opmnstr.com^$dnsrewrite=0.0.0.0
-|opposedarrangement.net^$dnsrewrite=0.0.0.0
 |opps.taboola.com^$dnsrewrite=0.0.0.0
 |opr.adx.opera.com^$dnsrewrite=0.0.0.0
 |ops-cdn.undertone.com^$dnsrewrite=0.0.0.0
@@ -17090,7 +16840,6 @@
 |partners.webmasterplan.com^$dnsrewrite=0.0.0.0
 |partner.tagscreator.com^$dnsrewrite=0.0.0.0
 |partner-ts.groupon.com^$dnsrewrite=0.0.0.0
-|partner-ts.groupon.net^$dnsrewrite=0.0.0.0
 |partplanes.com^$dnsrewrite=0.0.0.0
 |partygaming.122.2o7.net^$dnsrewrite=0.0.0.0
 |partygamingglobal.122.2o7.net^$dnsrewrite=0.0.0.0
@@ -17102,7 +16851,6 @@
 |pasta.esfile.duapps.com^$dnsrewrite=0.0.0.0
 |pasta.estrongspro.duapps.com^$dnsrewrite=0.0.0.0
 |pasta.sd.duapps.com^$dnsrewrite=0.0.0.0
-|pastesbin.com^$dnsrewrite=0.0.0.0
 |pata.ero-advertising.com^$dnsrewrite=0.0.0.0
 |patagonia.122.2o7.net^$dnsrewrite=0.0.0.0
 |patellectomies.com^$dnsrewrite=0.0.0.0
@@ -17172,7 +16920,6 @@
 |pe1.intentiq.com^$dnsrewrite=0.0.0.0
 |peachunio.shop^$dnsrewrite=0.0.0.0
 |pectoriloquism.com^$dnsrewrite=0.0.0.0
-|peep-auktion.de^$dnsrewrite=0.0.0.0
 |peer39.com^$dnsrewrite=0.0.0.0
 |peerfly.com^$dnsrewrite=0.0.0.0
 |peiceline.com^$dnsrewrite=0.0.0.0
@@ -17223,7 +16970,6 @@
 |perfumeriaife.pl^$dnsrewrite=0.0.0.0
 |perfumio.pl^$dnsrewrite=0.0.0.0
 |perimeterx.widget.insent.ai^$dnsrewrite=0.0.0.0
-|permalinking.com^$dnsrewrite=0.0.0.0
 |permalink-system.com^$dnsrewrite=0.0.0.0
 |perr.h-cdn.com^$dnsrewrite=0.0.0.0
 |perroverde.usesfathom.com^$dnsrewrite=0.0.0.0
@@ -17279,7 +17025,6 @@
 |phillymedia.112.2o7.net^$dnsrewrite=0.0.0.0
 |phi.novaon.asia^$dnsrewrite=0.0.0.0
 |phobia.net^$dnsrewrite=0.0.0.0
-|phoenix-adrunner.mycomputer.com^$dnsrewrite=0.0.0.0
 |phoenixads.co.in^$dnsrewrite=0.0.0.0
 |phonejapan.com^$dnsrewrite=0.0.0.0
 |phones4you.be^$dnsrewrite=0.0.0.0
@@ -17296,7 +17041,6 @@
 |php4you.biz^$dnsrewrite=0.0.0.0
 |phpads.flipcorp.com^$dnsrewrite=0.0.0.0
 |phpadsnew.wn.com^$dnsrewrite=0.0.0.0
-|phpmyadmin.ero-advertising.com^$dnsrewrite=0.0.0.0
 |phpmyadmin.js.ero-advertising.com^$dnsrewrite=0.0.0.0
 |phukienthoitranggiare.com^$dnsrewrite=0.0.0.0
 |phunware.com^$dnsrewrite=0.0.0.0
@@ -17372,7 +17116,6 @@
 |pixel1739.everesttech.net^$dnsrewrite=0.0.0.0
 |pixel-a.basis.net^$dnsrewrite=0.0.0.0
 |pixel.adasiaholdings.com^$dnsrewrite=0.0.0.0
-|pixel.adcrowd.com^$dnsrewrite=0.0.0.0
 |pixel.admedia.com^$dnsrewrite=0.0.0.0
 |pixel.adsafeprotected.com^$dnsrewrite=0.0.0.0
 |pixel.adtelligent.com^$dnsrewrite=0.0.0.0
@@ -17611,7 +17354,6 @@
 |placements.tapjoy.com^$dnsrewrite=0.0.0.0
 |placidactivity.com^$dnsrewrite=0.0.0.0
 |pl.ads.justpremium.com^$dnsrewrite=0.0.0.0
-|pl.alkotoxv.com^$dnsrewrite=0.0.0.0
 |planetariumobil.ro^$dnsrewrite=0.0.0.0
 |planetout.122.2o7.net^$dnsrewrite=0.0.0.0
 |planning-analytics.ibmcloud.com^$dnsrewrite=0.0.0.0
@@ -17714,7 +17456,6 @@
 |pl.wanderheat.net^$dnsrewrite=0.0.0.0
 |pl.whokeys.com^$dnsrewrite=0.0.0.0
 |pl.zehrz.shop^$dnsrewrite=0.0.0.0
-|pm.adsafeprotected.com^$dnsrewrite=0.0.0.0
 |pmc.amp.permutive.com^$dnsrewrite=0.0.0.0
 |pmc-com.videoplayerhub.com^$dnsrewrite=0.0.0.0
 |pmelon.com^$dnsrewrite=0.0.0.0
@@ -17820,11 +17561,8 @@
 |pool-mediafin.adhese.com^$dnsrewrite=0.0.0.0
 |pool-nrc.adhese.com^$dnsrewrite=0.0.0.0
 |pool.nrc.adhese.com^$dnsrewrite=0.0.0.0
-|pool-pebblemedia.adhese.com^$dnsrewrite=0.0.0.0
 |pool.pebblemedia.adhese.com^$dnsrewrite=0.0.0.0
-|pool.persgroep.adhese.com^$dnsrewrite=0.0.0.0
 |pool-roularta.adhese.com^$dnsrewrite=0.0.0.0
-|popacs.ero-advertising.com^$dnsrewrite=0.0.0.0
 |popads.ero-advertising.com^$dnsrewrite=0.0.0.0
 |popads.net^$dnsrewrite=0.0.0.0
 |popcapgames.122.2o7.net^$dnsrewrite=0.0.0.0
@@ -17917,7 +17655,6 @@
 |pqsrqmbm.com^$dnsrewrite=0.0.0.0
 |pr0tectacc0unt-nzan.vercel.app^$dnsrewrite=0.0.0.0
 |pr0tectver1fypa9e-16jc.vercel.app^$dnsrewrite=0.0.0.0
-|p.raasnet.com^$dnsrewrite=0.0.0.0
 |praceline.com^$dnsrewrite=0.0.0.0
 |pracownia-finansowa.pl^$dnsrewrite=0.0.0.0
 |pracowniekomputerowe.pl^$dnsrewrite=0.0.0.0
@@ -18000,7 +17737,6 @@
 |primedk.pl^$dnsrewrite=0.0.0.0
 |primefinance-app.com^$dnsrewrite=0.0.0.0
 |primemensfitness.112.2o7.net^$dnsrewrite=0.0.0.0
-|primequantengine.com^$dnsrewrite=0.0.0.0
 |primestarmagazine.112.2o7.net^$dnsrewrite=0.0.0.0
 |primevod.pl^$dnsrewrite=0.0.0.0
 |primosearch.com^$dnsrewrite=0.0.0.0
@@ -18079,7 +17815,6 @@
 |profiling.veoxa.com^$dnsrewrite=0.0.0.0
 |profitboosterapp.com^$dnsrewrite=0.0.0.0
 |profitbuilder-app.com^$dnsrewrite=0.0.0.0
-|profit-builder.org^$dnsrewrite=0.0.0.0
 |profitcapitalaisystem.com^$dnsrewrite=0.0.0.0
 |profit-edge.org^$dnsrewrite=0.0.0.0
 |profit-fury.app^$dnsrewrite=0.0.0.0
@@ -18252,7 +17987,6 @@
 |pstatic.datafastguru.info^$dnsrewrite=0.0.0.0
 |pstbonlineapp.2ix.ch^$dnsrewrite=0.0.0.0
 |pstmrk.it^$dnsrewrite=0.0.0.0
-|psy.mtree.com^$dnsrewrite=0.0.0.0
 |pszsri.com^$dnsrewrite=0.0.0.0
 |p.teads.tv^$dnsrewrite=0.0.0.0
 |ptengine.com^$dnsrewrite=0.0.0.0
@@ -18373,7 +18107,6 @@
 |purotradelux-software.com^$dnsrewrite=0.0.0.0
 |push.aarth.net^$dnsrewrite=0.0.0.0
 |pushad.adsparc.com^$dnsrewrite=0.0.0.0
-|pushance.com^$dnsrewrite=0.0.0.0
 |push-api.topaz-analytics.com^$dnsrewrite=0.0.0.0
 |push.apusapps.com^$dnsrewrite=0.0.0.0
 |push.connecto.io^$dnsrewrite=0.0.0.0
@@ -18482,7 +18215,6 @@
 |quantamultimedia-software.com^$dnsrewrite=0.0.0.0
 |quantamultimediasoftware.com^$dnsrewrite=0.0.0.0
 |quantavexia-software.com^$dnsrewrite=0.0.0.0
-|quantavexiasoftware.com^$dnsrewrite=0.0.0.0
 |quanta-x5-alrextech.com^$dnsrewrite=0.0.0.0
 |quantcapcan-engine.com^$dnsrewrite=0.0.0.0
 |quant-capcan-tech.com^$dnsrewrite=0.0.0.0
@@ -18509,7 +18241,6 @@
 |quantum7core.top^$dnsrewrite=0.0.0.0
 |quantum86-maxis.com^$dnsrewrite=0.0.0.0
 |quantum-ai.info^$dnsrewrite=0.0.0.0
-|quantumai.info^$dnsrewrite=0.0.0.0
 |quantumaiinitiative.com^$dnsrewrite=0.0.0.0
 |quantumai.org^$dnsrewrite=0.0.0.0
 |quantumai.site^$dnsrewrite=0.0.0.0
@@ -18537,7 +18268,6 @@
 |quantumdexair-i1.com^$dnsrewrite=0.0.0.0
 |quantum-dexairmax-2000.com^$dnsrewrite=0.0.0.0
 |quantum-dexairsoftware.com^$dnsrewrite=0.0.0.0
-|quantum-edex2-soft.com^$dnsrewrite=0.0.0.0
 |quantum-edex.app^$dnsrewrite=0.0.0.0
 |quantum-edexs-com.financecryptoworld.com^$dnsrewrite=0.0.0.0
 |quantumedexsolution.com^$dnsrewrite=0.0.0.0
@@ -18556,7 +18286,6 @@
 |quantumgforce.app^$dnsrewrite=0.0.0.0
 |quantum-gforce.com^$dnsrewrite=0.0.0.0
 |quantum-gpeak-app.com^$dnsrewrite=0.0.0.0
-|quantum-hancock.org^$dnsrewrite=0.0.0.0
 |quantumhancock.org^$dnsrewrite=0.0.0.0
 |quantum-i800bumex.com^$dnsrewrite=0.0.0.0
 |quantumincome.app^$dnsrewrite=0.0.0.0
@@ -18580,7 +18309,6 @@
 |quantumprimeprofit-app.com^$dnsrewrite=0.0.0.0
 |quantum-primeprofit.com^$dnsrewrite=0.0.0.0
 |quantumprimeprofit.io^$dnsrewrite=0.0.0.0
-|quantumprimeprofit.org^$dnsrewrite=0.0.0.0
 |quantum-projectplatform.com^$dnsrewrite=0.0.0.0
 |quantumpyrlis-engine.com^$dnsrewrite=0.0.0.0
 |quantumpyrlisengine.com^$dnsrewrite=0.0.0.0
@@ -18611,7 +18339,6 @@
 |qubiquantvision-app.com^$dnsrewrite=0.0.0.0
 |qubiquant-vision.com^$dnsrewrite=0.0.0.0
 |qubitcoin-software.com^$dnsrewrite=0.0.0.0
-|queltex-ai.com^$dnsrewrite=0.0.0.0
 |queltex-ai-solution.com^$dnsrewrite=0.0.0.0
 |quendorexa-engine.com^$dnsrewrite=0.0.0.0
 |quenthorilavix.icu^$dnsrewrite=0.0.0.0
@@ -18833,10 +18560,8 @@
 |redirectingat.com^$dnsrewrite=0.0.0.0
 |redirection.pl^$dnsrewrite=0.0.0.0
 |redirect-link.com^$dnsrewrite=0.0.0.0
-|redirects.coldhardcash.com^$dnsrewrite=0.0.0.0
 |redir.juicyads.com^$dnsrewrite=0.0.0.0
 |redleafvaro-solution.com^$dnsrewrite=0.0.0.0
-|redleafvarosolution.com^$dnsrewrite=0.0.0.0
 |redlk.com^$dnsrewrite=0.0.0.0
 |redlynpaycore-engine.com^$dnsrewrite=0.0.0.0
 |redmontbitmark-soft.com^$dnsrewrite=0.0.0.0
@@ -18860,7 +18585,6 @@
 |refineddistracted.shop^$dnsrewrite=0.0.0.0
 |regalecusnmaq.info^$dnsrewrite=0.0.0.0
 |regenhandelsflux-app.com^$dnsrewrite=0.0.0.0
-|regenhandelsflux-engine.com^$dnsrewrite=0.0.0.0
 |regenhandelsflux-tech.com^$dnsrewrite=0.0.0.0
 |regflow.com^$dnsrewrite=0.0.0.0
 |regie.espace-plus.net^$dnsrewrite=0.0.0.0
@@ -19010,7 +18734,6 @@
 |retailproductsusa.com^$dnsrewrite=0.0.0.0
 |retale.app^$dnsrewrite=0.0.0.0
 |retargeter.com^$dnsrewrite=0.0.0.0
-|retchlesslyyst.info^$dnsrewrite=0.0.0.0
 |retrak.co.ke^$dnsrewrite=0.0.0.0
 |retrofuture.fr^$dnsrewrite=0.0.0.0
 |retrogarage.info^$dnsrewrite=0.0.0.0
@@ -19126,7 +18849,6 @@
 |rmp.rakuten.com^$dnsrewrite=0.0.0.0
 |rm.recs.richrelevance.com^$dnsrewrite=0.0.0.0
 |rncgopcom.122.2o7.net^$dnsrewrite=0.0.0.0
-|rncig.doctortrf.com^$dnsrewrite=0.0.0.0
 |rnd.novanet.vn^$dnsrewrite=0.0.0.0
 |rnews.focus-news.net^$dnsrewrite=0.0.0.0
 |roadfen.cfd^$dnsrewrite=0.0.0.0
@@ -19146,9 +18868,6 @@
 |robo-ifex-x2-engine.com^$dnsrewrite=0.0.0.0
 |robo-ifexx2-engine.com^$dnsrewrite=0.0.0.0
 |robo-ifex-x2engine.com^$dnsrewrite=0.0.0.0
-|robo-lispro70-soft.com^$dnsrewrite=0.0.0.0
-|robo-mentaxapp.com^$dnsrewrite=0.0.0.0
-|robomentaxapp.com^$dnsrewrite=0.0.0.0
 |robotechcity.com^$dnsrewrite=0.0.0.0
 |robot.royalcactus.com^$dnsrewrite=0.0.0.0
 |robotscan.net^$dnsrewrite=0.0.0.0
@@ -19188,7 +18907,6 @@
 |rootbuzz.com^$dnsrewrite=0.0.0.0
 |rootgale-incomesolution.com^$dnsrewrite=0.0.0.0
 |rootplan.sbs^$dnsrewrite=0.0.0.0
-|root--servers.org^$dnsrewrite=0.0.0.0
 |r.openx.net^$dnsrewrite=0.0.0.0
 |ro.search.etargetnet.com^$dnsrewrite=0.0.0.0
 |rosenthaloutlets.top^$dnsrewrite=0.0.0.0
@@ -19227,7 +18945,6 @@
 |roxio.112.2o7.net^$dnsrewrite=0.0.0.0
 |roxr.net^$dnsrewrite=0.0.0.0
 |roxunledger-software.com^$dnsrewrite=0.0.0.0
-|roxunledgersoftware.com^$dnsrewrite=0.0.0.0
 |rozumix.com^$dnsrewrite=0.0.0.0
 |rp4.liadm.com^$dnsrewrite=0.0.0.0
 |rp.codon.vn^$dnsrewrite=0.0.0.0
@@ -19349,9 +19066,7 @@
 |rushpay.pl^$dnsrewrite=0.0.0.0
 |rustdesk.co.nz^$dnsrewrite=0.0.0.0
 |rustdesk.io^$dnsrewrite=0.0.0.0
-|rustdesk.pl^$dnsrewrite=0.0.0.0
 |rustdesk.secure-box.de^$dnsrewrite=0.0.0.0
-|rust-vzletsolution.com^$dnsrewrite=0.0.0.0
 |rutrk.org^$dnsrewrite=0.0.0.0
 |ruw82qpzxas.appspot.com^$dnsrewrite=0.0.0.0
 |rv-gateway.supersonicads.com^$dnsrewrite=0.0.0.0
@@ -19361,8 +19076,6 @@
 |rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com^$dnsrewrite=0.0.0.0
 |rxquickpay.com^$dnsrewrite=0.0.0.0
 |rx.targeting.unrulymedia.com^$dnsrewrite=0.0.0.0
-|ryberiklinkapp.com^$dnsrewrite=0.0.0.0
-|ryberiklinkapp.org^$dnsrewrite=0.0.0.0
 |rynekbitcoin.pl^$dnsrewrite=0.0.0.0
 |ryojmake.today^$dnsrewrite=0.0.0.0
 |ryphorixappnetherland.com^$dnsrewrite=0.0.0.0
@@ -19397,7 +19110,6 @@
 |s09.flagcounter.com^$dnsrewrite=0.0.0.0
 |s10.flagcounter.com^$dnsrewrite=0.0.0.0
 |s10.hiadspaces.ero-advertising.com^$dnsrewrite=0.0.0.0
-|s10.hipaces.ero-advertising.com^$dnsrewrite=0.0.0.0
 |s10.his.ero-advertising.com^$dnsrewrite=0.0.0.0
 |s10.histats.com^$dnsrewrite=0.0.0.0
 |s11.flagcounter.com^$dnsrewrite=0.0.0.0
@@ -19412,7 +19124,6 @@
 |s1.aspservice.jp^$dnsrewrite=0.0.0.0
 |s1.listrakbi.com^$dnsrewrite=0.0.0.0
 |s1.shinystat.com^$dnsrewrite=0.0.0.0
-|s1.shinystat.it^$dnsrewrite=0.0.0.0
 |s1-tracking.adalyser.com^$dnsrewrite=0.0.0.0
 |s1.yicha.jp^$dnsrewrite=0.0.0.0
 |s1.zzz.vn^$dnsrewrite=0.0.0.0
@@ -19534,7 +19245,6 @@
 |sanalytics.cartoonnetwork.no^$dnsrewrite=0.0.0.0
 |sanalytics.cartoonnetwork.pt^$dnsrewrite=0.0.0.0
 |sanalytics.cartoonnetwork.se^$dnsrewrite=0.0.0.0
-|sanalytics.chilevision.cl^$dnsrewrite=0.0.0.0
 |sanalytics.cnnchile.com^$dnsrewrite=0.0.0.0
 |sanalytics.disneyplus.com^$dnsrewrite=0.0.0.0
 |sanalytics.enterprise.spectrum.com^$dnsrewrite=0.0.0.0
@@ -19594,7 +19304,6 @@
 |saxp.zedo.com^$dnsrewrite=0.0.0.0
 |saxtorph.net^$dnsrewrite=0.0.0.0
 |saxvero.top^$dnsrewrite=0.0.0.0
-|sayfabulunamadi.com^$dnsrewrite=0.0.0.0
 |sayherbal.com^$dnsrewrite=0.0.0.0
 |saymedia.com^$dnsrewrite=0.0.0.0
 |saystudio.net^$dnsrewrite=0.0.0.0
@@ -19730,7 +19439,6 @@
 |sdk6.ibm.xtify.com^$dnsrewrite=0.0.0.0
 |sdk8.ibm.xtify.com^$dnsrewrite=0.0.0.0
 |sdk.adflex.vn^$dnsrewrite=0.0.0.0
-|sdk.adincube.com^$dnsrewrite=0.0.0.0
 |sdk.adotmob.com^$dnsrewrite=0.0.0.0
 |sdk.ad.smaato.net^$dnsrewrite=0.0.0.0
 |sdk.adsongo.com^$dnsrewrite=0.0.0.0
@@ -20082,14 +19790,12 @@
 |servethis.com^$dnsrewrite=0.0.0.0
 |serve.uberads.com^$dnsrewrite=0.0.0.0
 |service001.adtech.fr^$dnsrewrite=0.0.0.0
-|service001.adtech.us^$dnsrewrite=0.0.0.0
 |service002.adtech.fr^$dnsrewrite=0.0.0.0
 |service002.adtech.us^$dnsrewrite=0.0.0.0
 |service003.adtech.fr^$dnsrewrite=0.0.0.0
 |service003.adtech.us^$dnsrewrite=0.0.0.0
 |service004.adtech.fr^$dnsrewrite=0.0.0.0
 |service004.adtech.us^$dnsrewrite=0.0.0.0
-|service00x.adtech.fr^$dnsrewrite=0.0.0.0
 |service00x.adtech.us^$dnsrewrite=0.0.0.0
 |service1.predictad.com^$dnsrewrite=0.0.0.0
 |service2.predictad.com^$dnsrewrite=0.0.0.0
@@ -20165,7 +19871,6 @@
 |sg-match.taboola.com^$dnsrewrite=0.0.0.0
 |sgmedia.adspirit.net^$dnsrewrite=0.0.0.0
 |sg.mmstat.com^$dnsrewrite=0.0.0.0
-|s.go-mpulse.net^$dnsrewrite=0.0.0.0
 |sgpixel.adsafeprotected.com^$dnsrewrite=0.0.0.0
 |sgs001.adtech.us^$dnsrewrite=0.0.0.0
 |sg-setting.rayjump.com^$dnsrewrite=0.0.0.0
@@ -20374,7 +20079,6 @@
 |sjc-bid.contextweb.com^$dnsrewrite=0.0.0.0
 |sjc-tr-bgp.contextweb.com^$dnsrewrite=0.0.0.0
 |sjc-tr.contextweb.com^$dnsrewrite=0.0.0.0
-|sj-mknodepub.marketo.com^$dnsrewrite=0.0.0.0
 |sjremetrics.java.com^$dnsrewrite=0.0.0.0
 |sjrtp1.marketo.com^$dnsrewrite=0.0.0.0
 |sjrtp2-cdn.marketo.com^$dnsrewrite=0.0.0.0
@@ -20420,7 +20124,6 @@
 |sklep.mariuszmroz.pl^$dnsrewrite=0.0.0.0
 |skleppremium.com^$dnsrewrite=0.0.0.0
 |sklepygucci.pl^$dnsrewrite=0.0.0.0
-|skolenta.world^$dnsrewrite=0.0.0.0
 |skroutza.skroutz.gr^$dnsrewrite=0.0.0.0
 |sk.search.etargetnet.com^$dnsrewrite=0.0.0.0
 |skutecznyautokomis.pl^$dnsrewrite=0.0.0.0
@@ -20460,7 +20163,6 @@
 |slimxxxtubecgl.ddns.name^$dnsrewrite=0.0.0.0
 |slimxxxtubecty.ddns.name^$dnsrewrite=0.0.0.0
 |slimxxxtubeczp.ddns.name^$dnsrewrite=0.0.0.0
-|slimxxxtubedjm.ddns.name^$dnsrewrite=0.0.0.0
 |slimxxxtubedlb.ddns.name^$dnsrewrite=0.0.0.0
 |slimxxxtubeejs.ddns.name^$dnsrewrite=0.0.0.0
 |slimxxxtubefdr.ddns.name^$dnsrewrite=0.0.0.0
@@ -20862,7 +20564,6 @@
 |smtp4.younetmedia.com^$dnsrewrite=0.0.0.0
 |smtp5.younetmedia.com^$dnsrewrite=0.0.0.0
 |smtp6.younetmedia.com^$dnsrewrite=0.0.0.0
-|smtp.ero-advertising.com^$dnsrewrite=0.0.0.0
 |smtx.lastminute.com.au^$dnsrewrite=0.0.0.0
 |smtx.travel.com.au^$dnsrewrite=0.0.0.0
 |smugmugincflickrprodudction.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -20948,7 +20649,6 @@
 |solendexchaintech.com^$dnsrewrite=0.0.0.0
 |solenne-flowdex-software.com^$dnsrewrite=0.0.0.0
 |solertachainvia-soft.com^$dnsrewrite=0.0.0.0
-|solethiumtoken-system.com^$dnsrewrite=0.0.0.0
 |sol-fuel.com^$dnsrewrite=0.0.0.0
 |solicita.info^$dnsrewrite=0.0.0.0
 |solido-fluxrow-software.com^$dnsrewrite=0.0.0.0
@@ -20966,7 +20666,6 @@
 |solty.biz^$dnsrewrite=0.0.0.0
 |solucionesglamvex-tech.com^$dnsrewrite=0.0.0.0
 |soluclim.fr^$dnsrewrite=0.0.0.0
-|solutelco.com^$dnsrewrite=0.0.0.0
 |solutionscore.com^$dnsrewrite=0.0.0.0
 |solutions.invocacdn.com^$dnsrewrite=0.0.0.0
 |solvarentiasystem.com^$dnsrewrite=0.0.0.0
@@ -21035,7 +20734,6 @@
 |sovonex-trader-solution.com^$dnsrewrite=0.0.0.0
 |sovrasinsi.pro^$dnsrewrite=0.0.0.0
 |sovrex-nova-platform.com^$dnsrewrite=0.0.0.0
-|sovrextraderengine.com^$dnsrewrite=0.0.0.0
 |sovrn.com^$dnsrewrite=0.0.0.0
 |sowapl.top^$dnsrewrite=0.0.0.0
 |sp1cluster.cxense.com^$dnsrewrite=0.0.0.0
@@ -21072,12 +20770,10 @@
 |spectralogiaventrion.icu^$dnsrewrite=0.0.0.0
 |spectralyntraverionis.icu^$dnsrewrite=0.0.0.0
 |spectratokenifyengine.com^$dnsrewrite=0.0.0.0
-|spectratokenify-platform.com^$dnsrewrite=0.0.0.0
 |spectratokenify-solution.com^$dnsrewrite=0.0.0.0
 |spectra-wealth-ai.com^$dnsrewrite=0.0.0.0
 |spectrax-system.com^$dnsrewrite=0.0.0.0
 |spectroscopicalzx.info^$dnsrewrite=0.0.0.0
-|speedbar.myway.com^$dnsrewrite=0.0.0.0
 |speedclicks.ero-advertising.com^$dnsrewrite=0.0.0.0
 |speedclics.ero-advertising.com^$dnsrewrite=0.0.0.0
 |speedcounts.com^$dnsrewrite=0.0.0.0
@@ -21196,12 +20892,8 @@
 |spotlornex-platform.com^$dnsrewrite=0.0.0.0
 |spot-nuvnextech.com^$dnsrewrite=0.0.0.0
 |spotprofit-max.com^$dnsrewrite=0.0.0.0
-|spotproliaxpsystem.com^$dnsrewrite=0.0.0.0
 |spot-relpax-xp-500.com^$dnsrewrite=0.0.0.0
-|spotsanorexsoft.com^$dnsrewrite=0.0.0.0
-|spot-sanorex-tech.com^$dnsrewrite=0.0.0.0
 |spotscenered.info^$dnsrewrite=0.0.0.0
-|spotsniper.ru^$dnsrewrite=0.0.0.0
 |spottyfly.com^$dnsrewrite=0.0.0.0
 |spotwurnix-pro.com^$dnsrewrite=0.0.0.0
 |s.ppjol.net^$dnsrewrite=0.0.0.0
@@ -21244,7 +20936,6 @@
 |s-rtb-pb.send.microad.jp^$dnsrewrite=0.0.0.0
 |s-rtb.send.microad.jp^$dnsrewrite=0.0.0.0
 |srv1.aaacompany.net^$dnsrewrite=0.0.0.0
-|srv.adngin.com^$dnsrewrite=0.0.0.0
 |srv.bebi.com^$dnsrewrite=0.0.0.0
 |srv.buysellads.com^$dnsrewrite=0.0.0.0
 |srv.carbonads.net^$dnsrewrite=0.0.0.0
@@ -21269,7 +20960,6 @@
 |ssbsync-us.smartadserver.com^$dnsrewrite=0.0.0.0
 |ssb-us.smartadserver.com^$dnsrewrite=0.0.0.0
 |ss.c.appier.net^$dnsrewrite=0.0.0.0
-|ssc-cms.33across.com^$dnsrewrite=0.0.0.0
 |ssdkauth.hpplay.cn^$dnsrewrite=0.0.0.0
 |s.seedtag.com^$dnsrewrite=0.0.0.0
 |s.sh^$dnsrewrite=0.0.0.0
@@ -21337,7 +21027,6 @@
 |stable.icecyber.org^$dnsrewrite=0.0.0.0
 |stableindexprofit.app^$dnsrewrite=0.0.0.0
 |stable-tradescore-software.com^$dnsrewrite=0.0.0.0
-|stableyield-boost.com^$dnsrewrite=0.0.0.0
 |st-a.cdp.asia^$dnsrewrite=0.0.0.0
 |staceydodge.com^$dnsrewrite=0.0.0.0
 |stacjavapera.com^$dnsrewrite=0.0.0.0
@@ -21358,7 +21047,6 @@
 |staging.api.adtimaserver.vn^$dnsrewrite=0.0.0.0
 |staging-e.anthill.vn^$dnsrewrite=0.0.0.0
 |staging-e-vcdn.anthill.vn^$dnsrewrite=0.0.0.0
-|staging.novaonx.com^$dnsrewrite=0.0.0.0
 |staging-tlx.3lift.com^$dnsrewrite=0.0.0.0
 |s.tagsrvcs.com^$dnsrewrite=0.0.0.0
 |st-a-id.anthill.vn^$dnsrewrite=0.0.0.0
@@ -21370,7 +21058,6 @@
 |stamplive.com^$dnsrewrite=0.0.0.0
 |stampscom.112.2o7.net^$dnsrewrite=0.0.0.0
 |stampscom.tt.omtrdc.net^$dnsrewrite=0.0.0.0
-|st-analytics.anthill.vn^$dnsrewrite=0.0.0.0
 |stanberrys.info^$dnsrewrite=0.0.0.0
 |standhbackup.sbs^$dnsrewrite=0.0.0.0
 |standsfly.my^$dnsrewrite=0.0.0.0
@@ -21583,7 +21270,6 @@
 |stats2.arstechnica.com^$dnsrewrite=0.0.0.0
 |stats2.glamour.com^$dnsrewrite=0.0.0.0
 |stats2.golfdigest.com^$dnsrewrite=0.0.0.0
-|stats2.gourmet.com^$dnsrewrite=0.0.0.0
 |stats2.gq.com^$dnsrewrite=0.0.0.0
 |stats2.newyorker.com^$dnsrewrite=0.0.0.0
 |stats2.radiocompanion.com^$dnsrewrite=0.0.0.0
@@ -21592,7 +21278,6 @@
 |stats2.vanityfair.com^$dnsrewrite=0.0.0.0
 |stats2.wmagazine.com^$dnsrewrite=0.0.0.0
 |stats5.lightningcast.com^$dnsrewrite=0.0.0.0
-|stats-5-split-vohnu.s.innovid.com.akadns.net^$dnsrewrite=0.0.0.0
 |stats6.lightningcast.net^$dnsrewrite=0.0.0.0
 |stats.abbi.io^$dnsrewrite=0.0.0.0
 |stats.absol.co.za^$dnsrewrite=0.0.0.0
@@ -21610,7 +21295,6 @@
 |stats.backcountry.com^$dnsrewrite=0.0.0.0
 |stats.bannersnack.com^$dnsrewrite=0.0.0.0
 |stats.becu.org^$dnsrewrite=0.0.0.0
-|stats.berkman.harvard.edu^$dnsrewrite=0.0.0.0
 |stats.big-boards.com^$dnsrewrite=0.0.0.0
 |stats.blogoscoop.net^$dnsrewrite=0.0.0.0
 |stats.bluebillywig.com^$dnsrewrite=0.0.0.0
@@ -21679,10 +21363,8 @@
 |stats.sextracker.com^$dnsrewrite=0.0.0.0
 |stats.shopify.com^$dnsrewrite=0.0.0.0
 |stats.smartclip.net^$dnsrewrite=0.0.0.0
-|stats.speedclicks.ero-advertising.com^$dnsrewrite=0.0.0.0
 |stats.stb-ottow.de^$dnsrewrite=0.0.0.0
 |stats.stg.zaloapp.com^$dnsrewrite=0.0.0.0
-|stats.superstats.com^$dnsrewrite=0.0.0.0
 |stats.sxp.smartclip.net^$dnsrewrite=0.0.0.0
 |stats.telegraph.co.uk^$dnsrewrite=0.0.0.0
 |stats.thoughtcatalog.com^$dnsrewrite=0.0.0.0
@@ -21764,8 +21446,6 @@
 |stillrep.cfd^$dnsrewrite=0.0.0.0
 |stillval.com^$dnsrewrite=0.0.0.0
 |stilnovo.fr^$dnsrewrite=0.0.0.0
-|stimgc.iand2ch.net^$dnsrewrite=0.0.0.0
-|stimg.iand2ch.net^$dnsrewrite=0.0.0.0
 |stimulatedturn.icu^$dnsrewrite=0.0.0.0
 |stimulatingsneeze.com^$dnsrewrite=0.0.0.0
 |st.max.ru^$dnsrewrite=0.0.0.0
@@ -21779,7 +21459,6 @@
 |st-n.ads5-adnow.com^$dnsrewrite=0.0.0.0
 |stnetsdk.vivo.com.cn^$dnsrewrite=0.0.0.0
 |stockblastpro.app^$dnsrewrite=0.0.0.0
-|stockblast-pro.com^$dnsrewrite=0.0.0.0
 |stockbook-ads.firebaseapp.com^$dnsrewrite=0.0.0.0
 |stockbook-ads.firebaseio.com^$dnsrewrite=0.0.0.0
 |stockmaximum-pro.com^$dnsrewrite=0.0.0.0
@@ -21793,7 +21472,6 @@
 |stonelithtradencesoftware.com^$dnsrewrite=0.0.0.0
 |stoneskirts.pl^$dnsrewrite=0.0.0.0
 |stopify.co^$dnsrewrite=0.0.0.0
-|stopsoriasis.co.il^$dnsrewrite=0.0.0.0
 |stopstomach.com^$dnsrewrite=0.0.0.0
 |stoq-markets.com^$dnsrewrite=0.0.0.0
 |storage.cloud.kargo.com^$dnsrewrite=0.0.0.0
@@ -21826,7 +21504,6 @@
 |stratosynvault-ai-software.com^$dnsrewrite=0.0.0.0
 |stratosynvault-ai-system.com^$dnsrewrite=0.0.0.0
 |stratus.campaign-image.com.cn^$dnsrewrite=0.0.0.0
-|stream.adtimaserver.vn^$dnsrewrite=0.0.0.0
 |streamamrix400system.com^$dnsrewrite=0.0.0.0
 |streamboo.com^$dnsrewrite=0.0.0.0
 |streamdiag.livejasmin.com^$dnsrewrite=0.0.0.0
@@ -21881,9 +21558,7 @@
 |stx4.sextracker.com^$dnsrewrite=0.0.0.0
 |stx5.sextracker.com^$dnsrewrite=0.0.0.0
 |stx6.sextracker.com^$dnsrewrite=0.0.0.0
-|stx7.sextracker.com^$dnsrewrite=0.0.0.0
 |stx8.sextracker.com^$dnsrewrite=0.0.0.0
-|stx9.sextracker.com^$dnsrewrite=0.0.0.0
 |stx-assets.sharethrough.com^$dnsrewrite=0.0.0.0
 |stx.banners.sextracker.com^$dnsrewrite=0.0.0.0
 |stxbans.sextracker.com^$dnsrewrite=0.0.0.0
@@ -21953,7 +21628,6 @@
 |supergaskleppolska.com^$dnsrewrite=0.0.0.0
 |supergra2020.wixsite.com^$dnsrewrite=0.0.0.0
 |superhistoria.is-best.net^$dnsrewrite=0.0.0.0
-|superlecker.info^$dnsrewrite=0.0.0.0
 |superlinfy.top^$dnsrewrite=0.0.0.0
 |supernovaopulence.app^$dnsrewrite=0.0.0.0
 |superpages.122.2o7.net^$dnsrewrite=0.0.0.0
@@ -21961,7 +21635,6 @@
 |superpharmpl-off.shop^$dnsrewrite=0.0.0.0
 |superpharmpl.shop^$dnsrewrite=0.0.0.0
 |supersonicads-a.akamaihd.net^$dnsrewrite=0.0.0.0
-|superstats.com^$dnsrewrite=0.0.0.0
 |super-store.pl^$dnsrewrite=0.0.0.0
 |supertop100.com^$dnsrewrite=0.0.0.0
 |super-traderappsolution.com^$dnsrewrite=0.0.0.0
@@ -22078,8 +21751,6 @@
 |switch-17xhiprexapp.com^$dnsrewrite=0.0.0.0
 |switch-17x-hiprex.com^$dnsrewrite=0.0.0.0
 |switch-17xhiprex.com^$dnsrewrite=0.0.0.0
-|switch-amrix-engine.com^$dnsrewrite=0.0.0.0
-|switch-amrixsoft.com^$dnsrewrite=0.0.0.0
 |switchapple.shop^$dnsrewrite=0.0.0.0
 |switch-app.net^$dnsrewrite=0.0.0.0
 |switch-avaprohex-soft.com^$dnsrewrite=0.0.0.0
@@ -22206,7 +21877,6 @@
 |szamponrevita.pl^$dnsrewrite=0.0.0.0
 |szczepimysie.org.pl^$dnsrewrite=0.0.0.0
 |szczytfundex-platform.com^$dnsrewrite=0.0.0.0
-|szczyt-xenthorsoftware.com^$dnsrewrite=0.0.0.0
 |s.zkcdn.net^$dnsrewrite=0.0.0.0
 |szkolenie.m.poznan.pm^$dnsrewrite=0.0.0.0
 |szupertanacsok.blog.hu^$dnsrewrite=0.0.0.0
@@ -22228,7 +21898,6 @@
 |t6.trackalyzer.com^$dnsrewrite=0.0.0.0
 |t.82comb.net^$dnsrewrite=0.0.0.0
 |t8t7frium3.s.ad6media.fr^$dnsrewrite=0.0.0.0
-|taajulwaqor.com^$dnsrewrite=0.0.0.0
 |tabelog.com.102.112.2o7.net^$dnsrewrite=0.0.0.0
 |t.abnad.net^$dnsrewrite=0.0.0.0
 |taboola.com^$dnsrewrite=0.0.0.0
@@ -22248,7 +21917,6 @@
 |tag.1rx.io^$dnsrewrite=0.0.0.0
 |tag.adbro.me^$dnsrewrite=0.0.0.0
 |tag.adincube.com^$dnsrewrite=0.0.0.0
-|tag.adkernel.com^$dnsrewrite=0.0.0.0
 |tagalogixai-platform.com^$dnsrewrite=0.0.0.0
 |tagan.adlightning.com^$dnsrewrite=0.0.0.0
 |tag.apxlv.com^$dnsrewrite=0.0.0.0
@@ -22389,7 +22057,6 @@
 |tates.freestats.com^$dnsrewrite=0.0.0.0
 |ta.toprework.vn^$dnsrewrite=0.0.0.0
 |tatraonline.top^$dnsrewrite=0.0.0.0
-|tatsumi-sys.jp^$dnsrewrite=0.0.0.0
 |tavapstophguwac.site^$dnsrewrite=0.0.0.0
 |tavrelonde.wiki^$dnsrewrite=0.0.0.0
 |tawdryson.com^$dnsrewrite=0.0.0.0
@@ -22568,7 +22235,6 @@
 |tescostores.122.2o7.net^$dnsrewrite=0.0.0.0
 |te.sfgate.com^$dnsrewrite=0.0.0.0
 |te.signonsandiego.com^$dnsrewrite=0.0.0.0
-|teslacoin.io^$dnsrewrite=0.0.0.0
 |teslacoin.software^$dnsrewrite=0.0.0.0
 |teslerapp.org^$dnsrewrite=0.0.0.0
 |tesler-blue-tech.com^$dnsrewrite=0.0.0.0
@@ -22600,7 +22266,6 @@
 |textlinks.com^$dnsrewrite=0.0.0.0
 |t.extreme-dm.com^$dnsrewrite=0.0.0.0
 |textsrv.com^$dnsrewrite=0.0.0.0
-|tezaris-veltar-solution.com^$dnsrewrite=0.0.0.0
 |tezosepicorsoft.com^$dnsrewrite=0.0.0.0
 |tezos-venturix-engine.com^$dnsrewrite=0.0.0.0
 |tezosventurix-solution.com^$dnsrewrite=0.0.0.0
@@ -22622,7 +22287,6 @@
 |thamescom.com^$dnsrewrite=0.0.0.0
 |thandrovexora-solution.com^$dnsrewrite=0.0.0.0
 |thapi.flygame.io^$dnsrewrite=0.0.0.0
-|tharbadir.com^$dnsrewrite=0.0.0.0
 |tharenvolustrix.icu^$dnsrewrite=0.0.0.0
 |thatsjustgay.com^$dnsrewrite=0.0.0.0
 |thayhiltonlongisland.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -22671,7 +22335,6 @@
 |the-bitcoin-synergy.com^$dnsrewrite=0.0.0.0
 |the-bitcointraderapp.com^$dnsrewrite=0.0.0.0
 |the-bitcoinxact.com^$dnsrewrite=0.0.0.0
-|the-bitcore-peak.com^$dnsrewrite=0.0.0.0
 |the-bitcore-surge.com^$dnsrewrite=0.0.0.0
 |thebitcrew.com^$dnsrewrite=0.0.0.0
 |thebiticodes.com^$dnsrewrite=0.0.0.0
@@ -22717,7 +22380,6 @@
 |the-fusieolie-ai.com^$dnsrewrite=0.0.0.0
 |thegas-ertrag.ml^$dnsrewrite=0.0.0.0
 |the-gas-profit.ws^$dnsrewrite=0.0.0.0
-|thegeldrixsurgeapp.org^$dnsrewrite=0.0.0.0
 |the-geldronai.org^$dnsrewrite=0.0.0.0
 |thegeldron-aiupdates.org^$dnsrewrite=0.0.0.0
 |thegeldronai-updates.org^$dnsrewrite=0.0.0.0
@@ -22730,7 +22392,6 @@
 |the-immediate-avonex.com^$dnsrewrite=0.0.0.0
 |theimmediateaxiom.com^$dnsrewrite=0.0.0.0
 |theimmediate-bitcoin-app.com^$dnsrewrite=0.0.0.0
-|the-immediate-byte-pro.com^$dnsrewrite=0.0.0.0
 |the-immediate-catalyst.com^$dnsrewrite=0.0.0.0
 |the-immediate-charge.com^$dnsrewrite=0.0.0.0
 |the-immediatecomeback.com^$dnsrewrite=0.0.0.0
@@ -22773,7 +22434,6 @@
 |thelibraryofcongress.122.2o7.net^$dnsrewrite=0.0.0.0
 |thelimmercoin.com^$dnsrewrite=0.0.0.0
 |theluprixapp.org^$dnsrewrite=0.0.0.0
-|themacuser.org^$dnsrewrite=0.0.0.0
 |thematrixator.org^$dnsrewrite=0.0.0.0
 |themercaprogpt.net^$dnsrewrite=0.0.0.0
 |themetaverseprofit-com-td.trackfinanceworld.com^$dnsrewrite=0.0.0.0
@@ -22816,7 +22476,6 @@
 |the-ryphorixapptoday.org^$dnsrewrite=0.0.0.0
 |theryzexorsurgeapp.net^$dnsrewrite=0.0.0.0
 |thesearchster.com^$dnsrewrite=0.0.0.0
-|the-senvix.com^$dnsrewrite=0.0.0.0
 |theshemalesurvey.com^$dnsrewrite=0.0.0.0
 |thesmart-bit-boost-com.trackfinanceworld.com^$dnsrewrite=0.0.0.0
 |the-spark-genesis-ai.com^$dnsrewrite=0.0.0.0
@@ -22826,9 +22485,7 @@
 |thestar.122.2o7.net^$dnsrewrite=0.0.0.0
 |thestardev.122.2o7.net^$dnsrewrite=0.0.0.0
 |thestock-blast-pro.com^$dnsrewrite=0.0.0.0
-|the-swapproair.com^$dnsrewrite=0.0.0.0
 |theswimshop.co.za^$dnsrewrite=0.0.0.0
-|thetanexaflow-soft.com^$dnsrewrite=0.0.0.0
 |thethirtybirds.com^$dnsrewrite=0.0.0.0
 |the-trade-bumex.com^$dnsrewrite=0.0.0.0
 |the-trade-dexair.com^$dnsrewrite=0.0.0.0
@@ -23098,7 +22755,6 @@
 |topsite.lv^$dnsrewrite=0.0.0.0
 |topsites.blogflux.com^$dnsrewrite=0.0.0.0
 |toravextrader4-ai.com^$dnsrewrite=0.0.0.0
-|toravextrader-tech.com^$dnsrewrite=0.0.0.0
 |torontostar.demdex.net^$dnsrewrite=0.0.0.0
 |torrento.pl^$dnsrewrite=0.0.0.0
 |torrentos.pl^$dnsrewrite=0.0.0.0
@@ -23343,7 +22999,6 @@
 |track.mobile-bt.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.ajfy.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.ceio.com^$dnsrewrite=0.0.0.0
-|track.msadcenter.dgt.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.emee.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.hih.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.hnsl.com^$dnsrewrite=0.0.0.0
@@ -23351,7 +23006,6 @@
 |track.msadcenter.iuf.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.kkal.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.kpuo.com^$dnsrewrite=0.0.0.0
-|track.msadcenter.llu.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.lyv.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.pszn.com^$dnsrewrite=0.0.0.0
 |track.msadcenter.qymv.com^$dnsrewrite=0.0.0.0
@@ -23452,7 +23106,6 @@
 |tradecapexapp.org^$dnsrewrite=0.0.0.0
 |tradecenterfxtech.com^$dnsrewrite=0.0.0.0
 |tradechenix.app^$dnsrewrite=0.0.0.0
-|tradechenix.co^$dnsrewrite=0.0.0.0
 |trade-chenix.net^$dnsrewrite=0.0.0.0
 |tradechoicereview.top^$dnsrewrite=0.0.0.0
 |trade-cipro.app^$dnsrewrite=0.0.0.0
@@ -23472,7 +23125,6 @@
 |trade-eprex.net^$dnsrewrite=0.0.0.0
 |tradeeurax.ai^$dnsrewrite=0.0.0.0
 |tradeeurax.app^$dnsrewrite=0.0.0.0
-|tradeevista-app.net^$dnsrewrite=0.0.0.0
 |tradeevista.co^$dnsrewrite=0.0.0.0
 |trade-flarex.app^$dnsrewrite=0.0.0.0
 |tradeflex-gpt3.com^$dnsrewrite=0.0.0.0
@@ -23535,7 +23187,6 @@
 |tradeserax360.com^$dnsrewrite=0.0.0.0
 |tradeserax.com^$dnsrewrite=0.0.0.0
 |tradeseraxx2.com^$dnsrewrite=0.0.0.0
-|trade-smarter-everyday.com^$dnsrewrite=0.0.0.0
 |tradespark72-ai-system.com^$dnsrewrite=0.0.0.0
 |tradespense-5ai.com^$dnsrewrite=0.0.0.0
 |tradespirixsystem.com^$dnsrewrite=0.0.0.0
@@ -23624,7 +23275,6 @@
 |trauv.com^$dnsrewrite=0.0.0.0
 |travekocity.com^$dnsrewrite=0.0.0.0
 |travelcape.com^$dnsrewrite=0.0.0.0
-|travelhub.com.sg^$dnsrewrite=0.0.0.0
 |traveliocity.com^$dnsrewrite=0.0.0.0
 |travellingchimps.com^$dnsrewrite=0.0.0.0
 |travelocidy.com^$dnsrewrite=0.0.0.0
@@ -23772,7 +23422,6 @@
 |truehits.net^$dnsrewrite=0.0.0.0
 |true-north-aisoftware.com^$dnsrewrite=0.0.0.0
 |truenorthcapitalsoft.com^$dnsrewrite=0.0.0.0
-|truenorthcapital-solution.com^$dnsrewrite=0.0.0.0
 |truevalue.d2.sc.omtrdc.net^$dnsrewrite=0.0.0.0
 |truex.com^$dnsrewrite=0.0.0.0
 |truoctran.com^$dnsrewrite=0.0.0.0
@@ -23792,7 +23441,6 @@
 |tr.webantenna.info^$dnsrewrite=0.0.0.0
 |tr.wl.webads.nl^$dnsrewrite=0.0.0.0
 |try.abtasty.com^$dnsrewrite=0.0.0.0
-|tryanimalemale.com^$dnsrewrite=0.0.0.0
 |t.salesmatemail.com^$dnsrewrite=0.0.0.0
 |ts.amazon-adsystem.com^$dnsrewrite=0.0.0.0
 |tsbm.ch^$dnsrewrite=0.0.0.0
@@ -23889,7 +23537,6 @@
 |tvn.hit.gemius.pl^$dnsrewrite=0.0.0.0
 |tvpage.com^$dnsrewrite=0.0.0.0
 |tvpixel.com^$dnsrewrite=0.0.0.0
-|tvrepairkits.com^$dnsrewrite=0.0.0.0
 |tv.rlcdn.com^$dnsrewrite=0.0.0.0
 |tvshowsnow.tvmax.hop.clickbank.net^$dnsrewrite=0.0.0.0
 |tvsquared.com^$dnsrewrite=0.0.0.0
@@ -23903,7 +23550,6 @@
 |tw-img.vpon.com^$dnsrewrite=0.0.0.0
 |twisprofit-soft.com^$dnsrewrite=0.0.0.0
 |twistedaim.shop^$dnsrewrite=0.0.0.0
-|twittad.com^$dnsrewrite=0.0.0.0
 |twngcpbidder.lb.engagecore.com^$dnsrewrite=0.0.0.0
 |twofish.freeuk.com^$dnsrewrite=0.0.0.0
 |twoja-historia.24.eu^$dnsrewrite=0.0.0.0
@@ -24014,7 +23660,6 @@
 |unbecominglamp.com^$dnsrewrite=0.0.0.0
 |unblocksit.es^$dnsrewrite=0.0.0.0
 |unchurchlikevsf.info^$dnsrewrite=0.0.0.0
-|unclebillswv.com^$dnsrewrite=0.0.0.0
 |unclechunk.com^$dnsrewrite=0.0.0.0
 |uncn.jp^$dnsrewrite=0.0.0.0
 |underhoodinfo.info^$dnsrewrite=0.0.0.0
@@ -24234,7 +23879,6 @@
 |v4c0b0.webwave.dev^$dnsrewrite=0.0.0.0
 |v4r9z-3jgr1.ads.tremorhub.com^$dnsrewrite=0.0.0.0
 |v4r9z-fjydq.ads.tremorhub.com^$dnsrewrite=0.0.0.0
-|v6analytics.htmedia.in.edgekey.net^$dnsrewrite=0.0.0.0
 |v7.cdn.onthe.io^$dnsrewrite=0.0.0.0
 |v9banners.com^$dnsrewrite=0.0.0.0
 |v9banners-com.cdn.ampproject.org^$dnsrewrite=0.0.0.0
@@ -24264,7 +23908,6 @@
 |validate.appsflyer.com^$dnsrewrite=0.0.0.0
 |validate.onecount.net^$dnsrewrite=0.0.0.0
 |validclick.com^$dnsrewrite=0.0.0.0
-|valium.hut1.ru^$dnsrewrite=0.0.0.0
 |valoris-cryptrade-app.com^$dnsrewrite=0.0.0.0
 |valorlumizo-engine.com^$dnsrewrite=0.0.0.0
 |valsgaard-kofod.dk^$dnsrewrite=0.0.0.0
@@ -24302,7 +23945,6 @@
 |vantexusapp-platform.com^$dnsrewrite=0.0.0.0
 |vapixel.adsafeprotected.com^$dnsrewrite=0.0.0.0
 |vap.lijit.com^$dnsrewrite=0.0.0.0
-|va-pool.2o7.net^$dnsrewrite=0.0.0.0
 |vardelynzorsoft.com^$dnsrewrite=0.0.0.0
 |varentixor-pro.com^$dnsrewrite=0.0.0.0
 |variaequal.my^$dnsrewrite=0.0.0.0
@@ -24451,7 +24093,6 @@
 |vexalbri-solution.com^$dnsrewrite=0.0.0.0
 |vexalbrisolution.com^$dnsrewrite=0.0.0.0
 |vexarion-apex-ai-tech.com^$dnsrewrite=0.0.0.0
-|vexlo-yield-solution.com^$dnsrewrite=0.0.0.0
 |vexoen-nodeonsolution.com^$dnsrewrite=0.0.0.0
 |vexomloot-app.com^$dnsrewrite=0.0.0.0
 |vexomlootapp.com^$dnsrewrite=0.0.0.0
@@ -24570,7 +24211,6 @@
 |viedechretien.org^$dnsrewrite=0.0.0.0
 |viennixproplatform.com^$dnsrewrite=0.0.0.0
 |vieon-tracking.vieon.vn^$dnsrewrite=0.0.0.0
-|vietdorje.com^$dnsrewrite=0.0.0.0
 |viet-expert.com^$dnsrewrite=0.0.0.0
 |vietnamdaily-log.kienthuc.net.vn^$dnsrewrite=0.0.0.0
 |vietpub.com^$dnsrewrite=0.0.0.0
@@ -24596,7 +24236,6 @@
 |villagarden.pl^$dnsrewrite=0.0.0.0
 |villagemedia.net^$dnsrewrite=0.0.0.0
 |villalecchi.com^$dnsrewrite=0.0.0.0
-|vilon-mynatech.com^$dnsrewrite=0.0.0.0
 |vi.ml314.com^$dnsrewrite=0.0.0.0
 |vincentdemiero.com^$dnsrewrite=0.0.0.0
 |vincenzodellavecchia.xyz^$dnsrewrite=0.0.0.0
@@ -24725,7 +24364,6 @@
 |volkswagen.122.2o7.net^$dnsrewrite=0.0.0.0
 |volmargrowth-beacon.com^$dnsrewrite=0.0.0.0
 |voltixmomentumapp.com^$dnsrewrite=0.0.0.0
-|voltix-momentum.net^$dnsrewrite=0.0.0.0
 |voltryzapex-system.com^$dnsrewrite=0.0.0.0
 |voluntown.info^$dnsrewrite=0.0.0.0
 |voluptassbis.info^$dnsrewrite=0.0.0.0
@@ -24748,7 +24386,6 @@
 |vortexedge.app^$dnsrewrite=0.0.0.0
 |vortex-edge.org^$dnsrewrite=0.0.0.0
 |vortex-invest-soft.com^$dnsrewrite=0.0.0.0
-|vortexprofit-max.com^$dnsrewrite=0.0.0.0
 |vortex-valorappsystem-com.financecryptoworld.com^$dnsrewrite=0.0.0.0
 |vortexvalorengine.com^$dnsrewrite=0.0.0.0
 |vortexvalour-software.com^$dnsrewrite=0.0.0.0
@@ -24821,7 +24458,6 @@
 |vulkanvegas-offers.com^$dnsrewrite=0.0.0.0
 |vulkanvegaspl.com^$dnsrewrite=0.0.0.0
 |vulkanvegas-za-darmo.com^$dnsrewrite=0.0.0.0
-|vulnfactory.org^$dnsrewrite=0.0.0.0
 |vumoncapital-system.com^$dnsrewrite=0.0.0.0
 |vungle.com^$dnsrewrite=0.0.0.0
 |vurigmonerixsoftware.com^$dnsrewrite=0.0.0.0
@@ -24888,7 +24524,6 @@
 |wat.ad.daum.net^$dnsrewrite=0.0.0.0
 |watch9.com^$dnsrewrite=0.0.0.0
 |watchinv.shop^$dnsrewrite=0.0.0.0
-|watch-this.live^$dnsrewrite=0.0.0.0
 |watchvideo.pl^$dnsrewrite=0.0.0.0
 |water-bed.8p.org.uk^$dnsrewrite=0.0.0.0
 |waterfrontmedia.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -25211,7 +24846,6 @@
 |wittypopcorn.com^$dnsrewrite=0.0.0.0
 |wizaly.com^$dnsrewrite=0.0.0.0
 |wkmg.co.kr^$dnsrewrite=0.0.0.0
-|wks.ero-advertising.com^$dnsrewrite=0.0.0.0
 |wl.aniview.com.edgekey.net^$dnsrewrite=0.0.0.0
 |wlaptoplogic.122.2o7.net^$dnsrewrite=0.0.0.0
 |wleng.my^$dnsrewrite=0.0.0.0
@@ -25239,7 +24873,6 @@
 |wolyncalyfilm.wordpress.com^$dnsrewrite=0.0.0.0
 |wonderfulinsights.com^$dnsrewrite=0.0.0.0
 |wonderfullydays.com^$dnsrewrite=0.0.0.0
-|wondmatex.com^$dnsrewrite=0.0.0.0
 |wondoads.de^$dnsrewrite=0.0.0.0
 |woobids.com^$dnsrewrite=0.0.0.0
 |woodpecker.uc.cn^$dnsrewrite=0.0.0.0
@@ -25355,13 +24988,11 @@
 |wws.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.0099xxy78.weebly.com^$dnsrewrite=0.0.0.0
 |www.00author.com^$dnsrewrite=0.0.0.0
-|www.00go.com^$dnsrewrite=0.0.0.0
 |www.00it.com^$dnsrewrite=0.0.0.0
 |www.00webcams.com^$dnsrewrite=0.0.0.0
 |www.03e.info^$dnsrewrite=0.0.0.0
 |www.03p.info^$dnsrewrite=0.0.0.0
 |www.0548dr.pages.dev^$dnsrewrite=0.0.0.0
-|www.05agu.doctortrf.com^$dnsrewrite=0.0.0.0
 |www.07634.com^$dnsrewrite=0.0.0.0
 |www.0909n9090.weebly.com^$dnsrewrite=0.0.0.0
 |www.09zyy.com^$dnsrewrite=0.0.0.0
@@ -25506,7 +25137,6 @@
 |www30.glam.com^$dnsrewrite=0.0.0.0
 |www30l2.glam.com^$dnsrewrite=0.0.0.0
 |www30t1-orig.glam.com^$dnsrewrite=0.0.0.0
-|www.31d.net^$dnsrewrite=0.0.0.0
 |www.321cba.com^$dnsrewrite=0.0.0.0
 |www.34.gs^$dnsrewrite=0.0.0.0
 |www35f.glam.com^$dnsrewrite=0.0.0.0
@@ -25547,9 +25177,7 @@
 |www.4life.com^$dnsrewrite=0.0.0.0
 |www.4love.info^$dnsrewrite=0.0.0.0
 |www.4meme.com^$dnsrewrite=0.0.0.0
-|www.4pp13.com^$dnsrewrite=0.0.0.0
 |www.4pussies.com^$dnsrewrite=0.0.0.0
-|www.4s13t.doctortrf.com^$dnsrewrite=0.0.0.0
 |www.4shoes.com.pl^$dnsrewrite=0.0.0.0
 |www4.smartadserver.com^$dnsrewrite=0.0.0.0
 |www.4ur.click^$dnsrewrite=0.0.0.0
@@ -25593,7 +25221,6 @@
 |www.7fb.ru^$dnsrewrite=0.0.0.0
 |www.7gfs.com^$dnsrewrite=0.0.0.0
 |www.7vulkanvegas37.com^$dnsrewrite=0.0.0.0
-|www.7wind.ru^$dnsrewrite=0.0.0.0
 |www.7zip.fr^$dnsrewrite=0.0.0.0
 |www.888.com^$dnsrewrite=0.0.0.0
 |www8.addfreestats.com^$dnsrewrite=0.0.0.0
@@ -25641,7 +25268,6 @@
 |www.ablefull.com^$dnsrewrite=0.0.0.0
 |www.abogadodejacksonville.com^$dnsrewrite=0.0.0.0
 |www.abolaji.com^$dnsrewrite=0.0.0.0
-|www.abouthomesdecorating.com^$dnsrewrite=0.0.0.0
 |www.aboutproperty.co.uk^$dnsrewrite=0.0.0.0
 |www.above.com^$dnsrewrite=0.0.0.0
 |www.absbwe-do4n.vercel.app^$dnsrewrite=0.0.0.0
@@ -25676,15 +25302,12 @@
 |www.ad0.api.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad0.banners.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad1.banners.ero-advertising.com^$dnsrewrite=0.0.0.0
-|www.ad1.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad2.banners.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad2.thumbs.ero-advertising.com^$dnsrewrite=0.0.0.0
-|www.ad3.fpa.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad4.api.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad4.thumbs.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad5.banners.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad6media.fr^$dnsrewrite=0.0.0.0
-|www.ad7.api.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad7.banners.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ad8.api.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.adadvisor.net^$dnsrewrite=0.0.0.0
@@ -25764,7 +25387,6 @@
 |www.adrotate.net^$dnsrewrite=0.0.0.0
 |www.adrotator.com^$dnsrewrite=0.0.0.0
 |www.ads180.com^$dnsrewrite=0.0.0.0
-|www.ads1.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.ads234.com^$dnsrewrite=0.0.0.0
 |www.adsbtrack.com^$dnsrewrite=0.0.0.0
 |www.adsbtrk.com^$dnsrewrite=0.0.0.0
@@ -25777,11 +25399,9 @@
 |www.adskeeper.co.uk^$dnsrewrite=0.0.0.0
 |www.adsoftware.com^$dnsrewrite=0.0.0.0
 |www.adspaces.ero-ades.ero-advertising.com^$dnsrewrite=0.0.0.0
-|www.adspaes.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.adspages.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.adsparc.com^$dnsrewrite=0.0.0.0
 |www.adsparc.net^$dnsrewrite=0.0.0.0
-|www.adspcces.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.adspeed.com^$dnsrewrite=0.0.0.0
 |www.adspics.com^$dnsrewrite=0.0.0.0
 |www.adsplay.net^$dnsrewrite=0.0.0.0
@@ -25809,7 +25429,6 @@
 |www.advalu2u.com^$dnsrewrite=0.0.0.0
 |www.adv.axiatraders.com^$dnsrewrite=0.0.0.0
 |www.advconversion.com^$dnsrewrite=0.0.0.0
-|www.adversal.com^$dnsrewrite=0.0.0.0
 |www.adversalservers.com^$dnsrewrite=0.0.0.0
 |www.adverterenbijrtl.nl^$dnsrewrite=0.0.0.0
 |www.adverterenzeeland.nl^$dnsrewrite=0.0.0.0
@@ -25861,7 +25480,6 @@
 |www.ai-growthmatrix.com^$dnsrewrite=0.0.0.0
 |www.aihealthcarecert.org^$dnsrewrite=0.0.0.0
 |www.aim4media.com^$dnsrewrite=0.0.0.0
-|www.aipom-ai.com^$dnsrewrite=0.0.0.0
 |www.ai-prime-trader.net^$dnsrewrite=0.0.0.0
 |www.aipro-iplex.com^$dnsrewrite=0.0.0.0
 |www.airfrance.life^$dnsrewrite=0.0.0.0
@@ -25909,7 +25527,6 @@
 |www.alexrc.plus.com^$dnsrewrite=0.0.0.0
 |www.alfa9.com^$dnsrewrite=0.0.0.0
 |www.alfadma.com^$dnsrewrite=0.0.0.0
-|www.alfazv.com^$dnsrewrite=0.0.0.0
 |www.algerianembassy.co.in^$dnsrewrite=0.0.0.0
 |www.algodon.net^$dnsrewrite=0.0.0.0
 |www.ali1761663999154.aliexpressmarketing.cc^$dnsrewrite=0.0.0.0
@@ -25932,7 +25549,6 @@
 |www.alliedmart.com^$dnsrewrite=0.0.0.0
 |www.allocine.live^$dnsrewrite=0.0.0.0
 |www.allonline.pl^$dnsrewrite=0.0.0.0
-|www.allosponsor.com^$dnsrewrite=0.0.0.0
 |www.allplayer.pl^$dnsrewrite=0.0.0.0
 |www.all-tube.pl^$dnsrewrite=0.0.0.0
 |www.alltube-tv.pl^$dnsrewrite=0.0.0.0
@@ -25988,7 +25604,6 @@
 |www.angela.instructure.com^$dnsrewrite=0.0.0.0
 |www.angelbetting.com^$dnsrewrite=0.0.0.0
 |www.angelinajoliepics.com^$dnsrewrite=0.0.0.0
-|www.angienorthmarshallpllc.com^$dnsrewrite=0.0.0.0
 |www.animadulte.com^$dnsrewrite=0.0.0.0
 |www.animal36.com^$dnsrewrite=0.0.0.0
 |www.animal-drawings.com^$dnsrewrite=0.0.0.0
@@ -26009,9 +25624,7 @@
 |www.anrdoezrs.net^$dnsrewrite=0.0.0.0
 |www.ant.com^$dnsrewrite=0.0.0.0
 |www.antfa.link^$dnsrewrite=0.0.0.0
-|www.anthill.vn^$dnsrewrite=0.0.0.0
 |www.anticlown.com^$dnsrewrite=0.0.0.0
-|www.anticodistretto.com^$dnsrewrite=0.0.0.0
 |www.antifa.co.at^$dnsrewrite=0.0.0.0
 |www.antonresidential.com^$dnsrewrite=0.0.0.0
 |www.ants.vn^$dnsrewrite=0.0.0.0
@@ -26052,8 +25665,6 @@
 |www.areyouabot.net^$dnsrewrite=0.0.0.0
 |www.areyouahuman.co^$dnsrewrite=0.0.0.0
 |www.argentaflowfr.com^$dnsrewrite=0.0.0.0
-|www.argentisgridgptnews.com^$dnsrewrite=0.0.0.0
-|www.argentisgridgptonline.com^$dnsrewrite=0.0.0.0
 |www.ariix.com^$dnsrewrite=0.0.0.0
 |www.arklighting.co^$dnsrewrite=0.0.0.0
 |www.arlento.pl^$dnsrewrite=0.0.0.0
@@ -26078,7 +25689,6 @@
 |www.astrocodec.com^$dnsrewrite=0.0.0.0
 |www.astroverionestilario.cyou^$dnsrewrite=0.0.0.0
 |www.athletixegy.com^$dnsrewrite=0.0.0.0
-|www.athyperc.com^$dnsrewrite=0.0.0.0
 |www.atinna.com^$dnsrewrite=0.0.0.0
 |www.atistirma.net^$dnsrewrite=0.0.0.0
 |www.atlantis-asia.com^$dnsrewrite=0.0.0.0
@@ -26163,7 +25773,6 @@
 |www.bannerpromotion.it^$dnsrewrite=0.0.0.0
 |www.banner-rotation.com^$dnsrewrite=0.0.0.0
 |www.banners2.ero-advertising.com^$dnsrewrite=0.0.0.0
-|www.banners.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.bannevs.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.banokimo.shop^$dnsrewrite=0.0.0.0
 |www.barcaacademyistanbul.com^$dnsrewrite=0.0.0.0
@@ -26273,14 +25882,11 @@
 |www.bitcoin360-ai.com^$dnsrewrite=0.0.0.0
 |www.bitcoin360-ai.org^$dnsrewrite=0.0.0.0
 |www.bitcoin360ai-sweden.com^$dnsrewrite=0.0.0.0
-|www.bitcoin360.bot^$dnsrewrite=0.0.0.0
-|www.bitcoin360.net^$dnsrewrite=0.0.0.0
 |www.bitcoin360.online^$dnsrewrite=0.0.0.0
 |www.bitcoinaidiamox.app^$dnsrewrite=0.0.0.0
 |www.bitcoinalrex.app^$dnsrewrite=0.0.0.0
 |www.bitcoinapex.app^$dnsrewrite=0.0.0.0
 |www.bitcoin-apex-canada.com^$dnsrewrite=0.0.0.0
-|www.bitcoin-apex.org^$dnsrewrite=0.0.0.0
 |www.bitcoinavageai.app^$dnsrewrite=0.0.0.0
 |www.bitcoinavage-ai.com^$dnsrewrite=0.0.0.0
 |www.bitcoinavage.org^$dnsrewrite=0.0.0.0
@@ -26356,7 +25962,6 @@
 |www.bitcoinrevolution.tech^$dnsrewrite=0.0.0.0
 |www.bitcoin-rush.org^$dnsrewrite=0.0.0.0
 |www.bitcoinrush.today^$dnsrewrite=0.0.0.0
-|www.bitcoinscircuit.com^$dnsrewrite=0.0.0.0
 |www.bitcoinset.pl^$dnsrewrite=0.0.0.0
 |www.bitcoinsmarter.net^$dnsrewrite=0.0.0.0
 |www.bitcoin-sprint.info^$dnsrewrite=0.0.0.0
@@ -26376,7 +25981,6 @@
 |www.bitcointhunderbolt.app^$dnsrewrite=0.0.0.0
 |www.bitcoin-thunderbolt.com^$dnsrewrite=0.0.0.0
 |www.bitcointhunderbolt.org^$dnsrewrite=0.0.0.0
-|www.bitcointrader2.com^$dnsrewrite=0.0.0.0
 |www.bitcoin-treasure.io^$dnsrewrite=0.0.0.0
 |www.bitcoin-treasure.org^$dnsrewrite=0.0.0.0
 |www.bitcoin-union.org^$dnsrewrite=0.0.0.0
@@ -26389,8 +25993,6 @@
 |www.bitcoinxox.com^$dnsrewrite=0.0.0.0
 |www.bitcoinxpalora.com^$dnsrewrite=0.0.0.0
 |www.bitcoresurge.app^$dnsrewrite=0.0.0.0
-|www.bitgptapp.live^$dnsrewrite=0.0.0.0
-|www.bit-gpt-app.org^$dnsrewrite=0.0.0.0
 |www.bitgpt.org^$dnsrewrite=0.0.0.0
 |www.bitgratitude.org^$dnsrewrite=0.0.0.0
 |www.bit-indexai.io^$dnsrewrite=0.0.0.0
@@ -26404,7 +26006,6 @@
 |www.bitlidex360.org^$dnsrewrite=0.0.0.0
 |www.bitlitesync.com^$dnsrewrite=0.0.0.0
 |www.bitlitesync.org^$dnsrewrite=0.0.0.0
-|www.bitlocker.net^$dnsrewrite=0.0.0.0
 |www.bitmedia.io^$dnsrewrite=0.0.0.0
 |www.bitpremium.org^$dnsrewrite=0.0.0.0
 |www.bitprimegold.com^$dnsrewrite=0.0.0.0
@@ -26422,10 +26023,8 @@
 |www.bitsoft360app.com^$dnsrewrite=0.0.0.0
 |www.bitsoft-360.de^$dnsrewrite=0.0.0.0
 |www.bitsoft-360.nl^$dnsrewrite=0.0.0.0
-|www.bitsoft.ai^$dnsrewrite=0.0.0.0
 |www.bittersweetparis.com^$dnsrewrite=0.0.0.0
 |www.bit-trader.app^$dnsrewrite=0.0.0.0
-|www.bit-trader.io^$dnsrewrite=0.0.0.0
 |www.bittrader.org^$dnsrewrite=0.0.0.0
 |www.bit-trading.org^$dnsrewrite=0.0.0.0
 |www.bitvestment.app^$dnsrewrite=0.0.0.0
@@ -26458,7 +26057,6 @@
 |www.bluza3d.pl^$dnsrewrite=0.0.0.0
 |www.bmmetrix.com^$dnsrewrite=0.0.0.0
 |www.bmodi.shop^$dnsrewrite=0.0.0.0
-|www.bnfc.online^$dnsrewrite=0.0.0.0
 |www.bnhtml.com^$dnsrewrite=0.0.0.0
 |www.bnnr.nl^$dnsrewrite=0.0.0.0
 |www.bnsabikeparts.com^$dnsrewrite=0.0.0.0
@@ -26498,7 +26096,6 @@
 |www.breganopa3.top^$dnsrewrite=0.0.0.0
 |www.brethrenbrewing.com^$dnsrewrite=0.0.0.0
 |www.brevio.pl^$dnsrewrite=0.0.0.0
-|www.brexittraders.com^$dnsrewrite=0.0.0.0
 |www.brianbkim.com^$dnsrewrite=0.0.0.0
 |www.brianenelson.com^$dnsrewrite=0.0.0.0
 |www.brightgrid.life^$dnsrewrite=0.0.0.0
@@ -26631,10 +26228,6 @@
 |www.celestia.es^$dnsrewrite=0.0.0.0
 |www.celestia.fr^$dnsrewrite=0.0.0.0
 |www.celestiavegas.com^$dnsrewrite=0.0.0.0
-|www.celestixorbit-ai.com^$dnsrewrite=0.0.0.0
-|www.celestixorbitai.com^$dnsrewrite=0.0.0.0
-|www.celestixorbitai.net^$dnsrewrite=0.0.0.0
-|www.celestixorbitai.org^$dnsrewrite=0.0.0.0
 |www.cellfun.mobi^$dnsrewrite=0.0.0.0
 |www.cellphoneincentives.com^$dnsrewrite=0.0.0.0
 |www.cellularbeton.it^$dnsrewrite=0.0.0.0
@@ -26831,7 +26424,6 @@
 |www.cosmeticscentre.uk.com^$dnsrewrite=0.0.0.0
 |www.cosmic4spark.top^$dnsrewrite=0.0.0.0
 |www.cosmicwave.info^$dnsrewrite=0.0.0.0
-|www.cotc.net^$dnsrewrite=0.0.0.0
 |www.counter10.sextracker.be^$dnsrewrite=0.0.0.0
 |www.counter11.sextracker.be^$dnsrewrite=0.0.0.0
 |www.counter12.sextracker.be^$dnsrewrite=0.0.0.0
@@ -26854,7 +26446,6 @@
 |www.counter-gratis.com^$dnsrewrite=0.0.0.0
 |www.counterguide.com^$dnsrewrite=0.0.0.0
 |www.counters4u.com^$dnsrewrite=0.0.0.0
-|www.counter.superstats.com^$dnsrewrite=0.0.0.0
 |www.countmypage.com^$dnsrewrite=0.0.0.0
 |www.coursesch.digital^$dnsrewrite=0.0.0.0
 |www.courtneywalker.plus.com^$dnsrewrite=0.0.0.0
@@ -26905,7 +26496,6 @@
 |www.crypto-group.org^$dnsrewrite=0.0.0.0
 |www.crypto-nationapp.com^$dnsrewrite=0.0.0.0
 |www.cryptoprofit.pl^$dnsrewrite=0.0.0.0
-|www.cryptotrader.software^$dnsrewrite=0.0.0.0
 |www.crystalcomp.shop^$dnsrewrite=0.0.0.0
 |www.cs1g.com^$dnsrewrite=0.0.0.0
 |www.cs-gra.pl^$dnsrewrite=0.0.0.0
@@ -26947,7 +26537,6 @@
 |www.dable.io^$dnsrewrite=0.0.0.0
 |www.daceoutxesrv.live^$dnsrewrite=0.0.0.0
 |www.dacobi.pl^$dnsrewrite=0.0.0.0
-|www.daea.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.dagcoin.org^$dnsrewrite=0.0.0.0
 |www.daia.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.dailyhousetips.com^$dnsrewrite=0.0.0.0
@@ -27064,9 +26653,6 @@
 |www.dobrykredyt.co.pl^$dnsrewrite=0.0.0.0
 |www.doc0exp9283743.b-cdn.net^$dnsrewrite=0.0.0.0
 |www.doctor-alex.com^$dnsrewrite=0.0.0.0
-|www.doctorbusy.com^$dnsrewrite=0.0.0.0
-|www.doctorhey.com^$dnsrewrite=0.0.0.0
-|www.doctortrf.com^$dnsrewrite=0.0.0.0
 |www.dodajogloszenia.pl^$dnsrewrite=0.0.0.0
 |www.dodostats.com^$dnsrewrite=0.0.0.0
 |wwwdollar.com^$dnsrewrite=0.0.0.0
@@ -27109,7 +26695,6 @@
 |www.dwin1.com^$dnsrewrite=0.0.0.0
 |www.dwnlad.ws^$dnsrewrite=0.0.0.0
 |www.dwwll.de^$dnsrewrite=0.0.0.0
-|www.dycebei.com^$dnsrewrite=0.0.0.0
 |www.dynamictoolbar.com^$dnsrewrite=0.0.0.0
 |www.dziennik-info.x9.eu^$dnsrewrite=0.0.0.0
 |www.dziennik-polski.x9.eu^$dnsrewrite=0.0.0.0
@@ -27150,7 +26735,6 @@
 |www.edulive.live^$dnsrewrite=0.0.0.0
 |www.edymek.net^$dnsrewrite=0.0.0.0
 |www.eelhoe.us^$dnsrewrite=0.0.0.0
-|www.eelsoup.net^$dnsrewrite=0.0.0.0
 |www.efilmsy.pl^$dnsrewrite=0.0.0.0
 |www.efilmy-online.pl^$dnsrewrite=0.0.0.0
 |www.efinaneed.com^$dnsrewrite=0.0.0.0
@@ -27175,14 +26759,12 @@
 |www.elektronicznyswiat.pl^$dnsrewrite=0.0.0.0
 |www.elevatedcorp.shop^$dnsrewrite=0.0.0.0
 |www.elevatomonvex.net^$dnsrewrite=0.0.0.0
-|www.eliteconcepts.com^$dnsrewrite=0.0.0.0
 |www.elitegadgetinsider.com^$dnsrewrite=0.0.0.0
 |www.elite-spark.ru.com^$dnsrewrite=0.0.0.0
 |www.emadesign.net^$dnsrewrite=0.0.0.0
 |www.emarketmakers.com^$dnsrewrite=0.0.0.0
 |www.embracethepotential.com^$dnsrewrite=0.0.0.0
 |www.emeraldcranberry.shop^$dnsrewrite=0.0.0.0
-|www.emerateamkids.com^$dnsrewrite=0.0.0.0
 |www.emjcd.com^$dnsrewrite=0.0.0.0
 |www.emptystable.click^$dnsrewrite=0.0.0.0
 |www.emrlogistics.com^$dnsrewrite=0.0.0.0
@@ -27312,9 +26894,7 @@
 |www.fakty31a.is-best.net^$dnsrewrite=0.0.0.0
 |www.fakty32a.is-best.net^$dnsrewrite=0.0.0.0
 |www.fakty33a.is-best.net^$dnsrewrite=0.0.0.0
-|www.fakty34a.is-best.net^$dnsrewrite=0.0.0.0
 |www.fakty37a.is-best.net^$dnsrewrite=0.0.0.0
-|www.fakty39a.is-best.net^$dnsrewrite=0.0.0.0
 |www.faktya.is-best.net^$dnsrewrite=0.0.0.0
 |www.faktyas.is-best.net^$dnsrewrite=0.0.0.0
 |www.falonmanb.shop^$dnsrewrite=0.0.0.0
@@ -27354,7 +26934,6 @@
 |www.fexylonpro.digital^$dnsrewrite=0.0.0.0
 |www.fghgjgk.vercel.app^$dnsrewrite=0.0.0.0
 |www.fgoogle.com^$dnsrewrite=0.0.0.0
-|www.fhatfee.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.fibreselect.pl^$dnsrewrite=0.0.0.0
 |www.ficken-ficken-ficken.cxa.de^$dnsrewrite=0.0.0.0
 |www.ficken-xxx.cxa.de^$dnsrewrite=0.0.0.0
@@ -27435,7 +27014,6 @@
 |www.fixpreane.digital^$dnsrewrite=0.0.0.0
 |www.fixtre.shop^$dnsrewrite=0.0.0.0
 |www.fizjoterapia.5v.pl^$dnsrewrite=0.0.0.0
-|www.fk8-r.com^$dnsrewrite=0.0.0.0
 |www.flagcounter.com^$dnsrewrite=0.0.0.0
 |www.flashcasino.com^$dnsrewrite=0.0.0.0
 |www.flatdee.ero-advertising.com^$dnsrewrite=0.0.0.0
@@ -27566,7 +27144,6 @@
 |www.fyronexdriftor-gpt.com^$dnsrewrite=0.0.0.0
 |www.fyronexdriftorgpt.com^$dnsrewrite=0.0.0.0
 |www.fyronexdriftorgpt.net^$dnsrewrite=0.0.0.0
-|www.g2eld.doctorhey.com^$dnsrewrite=0.0.0.0
 |www.gabinetnewline.pl^$dnsrewrite=0.0.0.0
 |www.gadgetreviewer.org^$dnsrewrite=0.0.0.0
 |www.g-af.com^$dnsrewrite=0.0.0.0
@@ -27597,7 +27174,6 @@
 |www.garciniacambogiaactives.pl^$dnsrewrite=0.0.0.0
 |www.garethwalker.plus.com^$dnsrewrite=0.0.0.0
 |www.garudaairlines.com^$dnsrewrite=0.0.0.0
-|www.gas2000evex.com^$dnsrewrite=0.0.0.0
 |www.gasaialrex.com^$dnsrewrite=0.0.0.0
 |www.gasfolex.com^$dnsrewrite=0.0.0.0
 |www.gatesofhell.plus.com^$dnsrewrite=0.0.0.0
@@ -27675,7 +27251,6 @@
 |www.globe7.com^$dnsrewrite=0.0.0.0
 |www.glopages.ru^$dnsrewrite=0.0.0.0
 |www.glosowanie.ujm.pl^$dnsrewrite=0.0.0.0
-|www.gluconv.com^$dnsrewrite=0.0.0.0
 |www.glxgroup.com^$dnsrewrite=0.0.0.0
 |www.gm4pgv.plus.com^$dnsrewrite=0.0.0.0
 |www.gmads.net^$dnsrewrite=0.0.0.0
@@ -27727,11 +27302,9 @@
 |www.grainrscale.my^$dnsrewrite=0.0.0.0
 |www.gravenlith.wiki^$dnsrewrite=0.0.0.0
 |www.graviton-profit.app^$dnsrewrite=0.0.0.0
-|www.gravygirls.com^$dnsrewrite=0.0.0.0
 |www.greasypalm.com^$dnsrewrite=0.0.0.0
 |www.greatdexchange.com^$dnsrewrite=0.0.0.0
 |www.greatpussies.com^$dnsrewrite=0.0.0.0
-|www.greatsexcontent.dk^$dnsrewrite=0.0.0.0
 |www.greatsimplicity.com^$dnsrewrite=0.0.0.0
 |www.greenbarleyplus.pl^$dnsrewrite=0.0.0.0
 |www.greencentral.plus.com^$dnsrewrite=0.0.0.0
@@ -27765,7 +27338,6 @@
 |www.gustomagro.it^$dnsrewrite=0.0.0.0
 |www.gustzon.my^$dnsrewrite=0.0.0.0
 |www.gw.firesub.pl^$dnsrewrite=0.0.0.0
-|www.gzs2u.doctortrf.com^$dnsrewrite=0.0.0.0
 |www.hackerbot.net^$dnsrewrite=0.0.0.0
 |www.hadovertan.shop^$dnsrewrite=0.0.0.0
 |www.hallwprogram.shop^$dnsrewrite=0.0.0.0
@@ -27779,7 +27351,6 @@
 |www.happyplayhub.com^$dnsrewrite=0.0.0.0
 |www.happywithvegas.com^$dnsrewrite=0.0.0.0
 |www.hardearneddollars.com^$dnsrewrite=0.0.0.0
-|www.harmonyhollow.net^$dnsrewrite=0.0.0.0
 |www.hashing.win^$dnsrewrite=0.0.0.0
 |www.hata.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.hawaiihell.com^$dnsrewrite=0.0.0.0
@@ -27815,7 +27386,6 @@
 |www.highdirectory.com^$dnsrewrite=0.0.0.0
 |www.hightrafficads.com^$dnsrewrite=0.0.0.0
 |www.hikottinic.com^$dnsrewrite=0.0.0.0
-|www.hilltownlandtrust.com^$dnsrewrite=0.0.0.0
 |www.himaysigortacilik.com^$dnsrewrite=0.0.0.0
 |www.hiperstat.com^$dnsrewrite=0.0.0.0
 |www.hiragazza.com^$dnsrewrite=0.0.0.0
@@ -27848,7 +27418,6 @@
 |www.hookedmediagroup.com^$dnsrewrite=0.0.0.0
 |www.hooqy.com^$dnsrewrite=0.0.0.0
 |www.hostedfiles.net^$dnsrewrite=0.0.0.0
-|www.hosting2520545.online.pro^$dnsrewrite=0.0.0.0
 |www.hostingcloud.science^$dnsrewrite=0.0.0.0
 |www.host-it.co.uk^$dnsrewrite=0.0.0.0
 |www.hostujmy.pl^$dnsrewrite=0.0.0.0
@@ -27894,7 +27463,6 @@
 |www.hypertracker.com^$dnsrewrite=0.0.0.0
 |www.hypnoseterapi.com^$dnsrewrite=0.0.0.0
 |www.hy-tec.com^$dnsrewrite=0.0.0.0
-|www.i7s86.doctorhey.com^$dnsrewrite=0.0.0.0
 |www.i83s.com^$dnsrewrite=0.0.0.0
 |www.iafh-casefb501563.vercel.app^$dnsrewrite=0.0.0.0
 |www.iagilem.shop^$dnsrewrite=0.0.0.0
@@ -27975,7 +27543,6 @@
 |www.immediatebitnex.app^$dnsrewrite=0.0.0.0
 |www.immediatebits.com^$dnsrewrite=0.0.0.0
 |www.immediatebitwave.co^$dnsrewrite=0.0.0.0
-|www.immediate-bitwave.net^$dnsrewrite=0.0.0.0
 |www.immediatebitwave.net^$dnsrewrite=0.0.0.0
 |www.immediate-bitwave.org^$dnsrewrite=0.0.0.0
 |www.immediatebumex.app^$dnsrewrite=0.0.0.0
@@ -28012,14 +27579,12 @@
 |www.immediateedgecanada.com^$dnsrewrite=0.0.0.0
 |www.immediateedge.io^$dnsrewrite=0.0.0.0
 |www.immediateedgepro.com^$dnsrewrite=0.0.0.0
-|www.immediate-edge.software^$dnsrewrite=0.0.0.0
 |www.immediateelegance.app^$dnsrewrite=0.0.0.0
 |www.immediateenigma.app^$dnsrewrite=0.0.0.0
 |www.immediateenigma.com^$dnsrewrite=0.0.0.0
 |www.immediateeprexai.org^$dnsrewrite=0.0.0.0
 |www.immediateeuraxai.app^$dnsrewrite=0.0.0.0
 |www.immediateeuraxai.org^$dnsrewrite=0.0.0.0
-|www.immediate-evex.ai^$dnsrewrite=0.0.0.0
 |www.immediate-evex-ai.com^$dnsrewrite=0.0.0.0
 |www.immediate-evex.com^$dnsrewrite=0.0.0.0
 |www.immediateevex.org^$dnsrewrite=0.0.0.0
@@ -28107,7 +27672,6 @@
 |www.immediate-urex.org^$dnsrewrite=0.0.0.0
 |www.immediate-vgrip.com^$dnsrewrite=0.0.0.0
 |www.immediatevortex.app^$dnsrewrite=0.0.0.0
-|www.immediate-vortex.com^$dnsrewrite=0.0.0.0
 |www.immediatevortex.de^$dnsrewrite=0.0.0.0
 |www.immediatevortex.net^$dnsrewrite=0.0.0.0
 |www.immediatewealth.de^$dnsrewrite=0.0.0.0
@@ -28266,11 +27830,9 @@
 |www.josip-stadler.org^$dnsrewrite=0.0.0.0
 |www.jotremako.info^$dnsrewrite=0.0.0.0
 |www.journeyhex.shop^$dnsrewrite=0.0.0.0
-|www.jovenesyjusticia.org^$dnsrewrite=0.0.0.0
 |www.joy-box.pl^$dnsrewrite=0.0.0.0
 |www.joyexc.shop^$dnsrewrite=0.0.0.0
 |www.jozefinskiatelje.si^$dnsrewrite=0.0.0.0
-|www.jp-black.vercel.app^$dnsrewrite=0.0.0.0
 |www.jscount.com^$dnsrewrite=0.0.0.0
 |www.jstevin.com^$dnsrewrite=0.0.0.0
 |www.juedische-kammerphilharmonie.de^$dnsrewrite=0.0.0.0
@@ -28282,7 +27844,6 @@
 |www.justgetbarter.com^$dnsrewrite=0.0.0.0
 |www.justhookup.com^$dnsrewrite=0.0.0.0
 |www.justinbiegler.com^$dnsrewrite=0.0.0.0
-|www.justinmross.com^$dnsrewrite=0.0.0.0
 |www.justplowmysnow.com^$dnsrewrite=0.0.0.0
 |www.jutrobedzie.is-best.net^$dnsrewrite=0.0.0.0
 |www.jvzoo.com^$dnsrewrite=0.0.0.0
@@ -28382,10 +27943,8 @@
 |www.krdn.pl^$dnsrewrite=0.0.0.0
 |www.kredytybezbik.eu^$dnsrewrite=0.0.0.0
 |www.kredytynasms.pl^$dnsrewrite=0.0.0.0
-|www.krevacto.info^$dnsrewrite=0.0.0.0
 |www.krolarlekin.com.pl^$dnsrewrite=0.0.0.0
 |www.kryptoportal.pl^$dnsrewrite=0.0.0.0
-|www.kryvongearapp.org^$dnsrewrite=0.0.0.0
 |www.ksect.shop^$dnsrewrite=0.0.0.0
 |www.ktopodgladamnienafacebooku.wordpress.com^$dnsrewrite=0.0.0.0
 |www.ktrai.sbs^$dnsrewrite=0.0.0.0
@@ -28536,7 +28095,6 @@
 |www.lokalniprzewodnicy.com.pl^$dnsrewrite=0.0.0.0
 |www.loktrk.com^$dnsrewrite=0.0.0.0
 |www.lolak-warszawa.com^$dnsrewrite=0.0.0.0
-|www.lolhello.com^$dnsrewrite=0.0.0.0
 |www.lolizeso.com^$dnsrewrite=0.0.0.0
 |www.lolshock.com^$dnsrewrite=0.0.0.0
 |www.lombard-kolobrzeg.pl^$dnsrewrite=0.0.0.0
@@ -28555,7 +28113,6 @@
 |www.lp-wip.pl^$dnsrewrite=0.0.0.0
 |www.lrtljmae.profitobody.com^$dnsrewrite=0.0.0.0
 |www.lskzwapf.hiragazza.com^$dnsrewrite=0.0.0.0
-|www.lstan.click^$dnsrewrite=0.0.0.0
 |www.lubicplacki.is-best.net^$dnsrewrite=0.0.0.0
 |www.lubiego.is-best.net^$dnsrewrite=0.0.0.0
 |www.lubiszto.is-best.net^$dnsrewrite=0.0.0.0
@@ -28586,11 +28143,9 @@
 |www.luuk-lifestyle.eu^$dnsrewrite=0.0.0.0
 |www.luvchaser.com^$dnsrewrite=0.0.0.0
 |www.luv-ver.com^$dnsrewrite=0.0.0.0
-|www.luvver.pl^$dnsrewrite=0.0.0.0
 |www.lux-clubx.sa.com^$dnsrewrite=0.0.0.0
 |www.lwindn.vip^$dnsrewrite=0.0.0.0
 |www.lyconet.com^$dnsrewrite=0.0.0.0
-|www.lykiajewelry.com^$dnsrewrite=0.0.0.0
 |www.lynaphniqeb.digital^$dnsrewrite=0.0.0.0
 |www.lysabarnard.plus.com^$dnsrewrite=0.0.0.0
 |www.lys-tradevion-app.com^$dnsrewrite=0.0.0.0
@@ -28690,7 +28245,6 @@
 |www.milosc.co^$dnsrewrite=0.0.0.0
 |www.milosnaprzystan.pl^$dnsrewrite=0.0.0.0
 |www.milosnerozmowy.pl^$dnsrewrite=0.0.0.0
-|www.milsystem-dquf.vercel.app^$dnsrewrite=0.0.0.0
 |www.minayarical.digital^$dnsrewrite=0.0.0.0
 |www.mint-star.pl^$dnsrewrite=0.0.0.0
 |www.mioveni.pl^$dnsrewrite=0.0.0.0
@@ -28710,7 +28264,6 @@
 |www.mobiklivestmox.pl^$dnsrewrite=0.0.0.0
 |www.mobileproc.my^$dnsrewrite=0.0.0.0
 |www.mobilnarecepta.pl^$dnsrewrite=0.0.0.0
-|www.mobio.vn^$dnsrewrite=0.0.0.0
 |www.mobiwin.pl^$dnsrewrite=0.0.0.0
 |www.mobverify.com^$dnsrewrite=0.0.0.0
 |www.modajasinska.com^$dnsrewrite=0.0.0.0
@@ -28745,7 +28298,6 @@
 |www.ms10be.be^$dnsrewrite=0.0.0.0
 |www.msp-hack.com^$dnsrewrite=0.0.0.0
 |www.mtebdom.live^$dnsrewrite=0.0.0.0
-|www.mudfall.com^$dnsrewrite=0.0.0.0
 |www.mudiwahood.group^$dnsrewrite=0.0.0.0
 |www.munopuzzle.com^$dnsrewrite=0.0.0.0
 |www.mutlum.pl^$dnsrewrite=0.0.0.0
@@ -28771,14 +28323,11 @@
 |www.mypagerank.net^$dnsrewrite=0.0.0.0
 |www.my-promo7.com^$dnsrewrite=0.0.0.0
 |www.my-rewardsvault.com^$dnsrewrite=0.0.0.0
-|www.myseostats.com^$dnsrewrite=0.0.0.0
 |www.myshopmarketim.com^$dnsrewrite=0.0.0.0
 |www.my-stats.com^$dnsrewrite=0.0.0.0
 |www.myuitm.com^$dnsrewrite=0.0.0.0
 |www.myvcart.com^$dnsrewrite=0.0.0.0
 |www.my-vodaccount.com^$dnsrewrite=0.0.0.0
-|www.myway.com^$dnsrewrite=0.0.0.0
-|www.mywebsearch.com^$dnsrewrite=0.0.0.0
 |www.mywot.com^$dnsrewrite=0.0.0.0
 |www.nagroda-sms.pl^$dnsrewrite=0.0.0.0
 |www.nailrr.com^$dnsrewrite=0.0.0.0
@@ -28906,7 +28455,6 @@
 |www.nutrigolabstrength.pl^$dnsrewrite=0.0.0.0
 |www.nutten-verzeichnis.cxa.de^$dnsrewrite=0.0.0.0
 |www.nuvet-mint-ai.net^$dnsrewrite=0.0.0.0
-|www.nuvetmintai.org^$dnsrewrite=0.0.0.0
 |www.nuvialabfemalefertility.pl^$dnsrewrite=0.0.0.0
 |www.nuvialabflex.pl^$dnsrewrite=0.0.0.0
 |www.nuvialabimmune.pl^$dnsrewrite=0.0.0.0
@@ -28917,7 +28465,6 @@
 |www.nuvlessola.info^$dnsrewrite=0.0.0.0
 |www.nuyistartmwhes.com^$dnsrewrite=0.0.0.0
 |wwwnwa.com^$dnsrewrite=0.0.0.0
-|www.nwmas.carrd.co^$dnsrewrite=0.0.0.0
 |www.nyvirua1.com^$dnsrewrite=0.0.0.0
 |www.o89243e.pages.dev^$dnsrewrite=0.0.0.0
 |www.obejrzyj-to.pl^$dnsrewrite=0.0.0.0
@@ -28933,7 +28480,6 @@
 |www.oculv.com^$dnsrewrite=0.0.0.0
 |www.ocuvnd.com^$dnsrewrite=0.0.0.0
 |www.odbieramy-karty.24.eu^$dnsrewrite=0.0.0.0
-|www.odbierzdarmowedoladowanie.wordpress.com^$dnsrewrite=0.0.0.0
 |www.odbierz-paysafecard.ujm.pl^$dnsrewrite=0.0.0.0
 |www.oderkaopole.pl^$dnsrewrite=0.0.0.0
 |www.odevo.pl^$dnsrewrite=0.0.0.0
@@ -29068,7 +28614,6 @@
 |www.pahdy.icu^$dnsrewrite=0.0.0.0
 |www.paiementhome-pl-5b4f060c.rpm-technik.at^$dnsrewrite=0.0.0.0
 |www.paifi.net^$dnsrewrite=0.0.0.0
-|www.painolympics.org^$dnsrewrite=0.0.0.0
 |www.paintnet.es^$dnsrewrite=0.0.0.0
 |www.palmieroutlet.myshopify.com^$dnsrewrite=0.0.0.0
 |www.panalarm.pl^$dnsrewrite=0.0.0.0
@@ -29086,7 +28631,6 @@
 |www.pathmark.my^$dnsrewrite=0.0.0.0
 |www.patronfx.com^$dnsrewrite=0.0.0.0
 |www.patrzonline.pl^$dnsrewrite=0.0.0.0
-|www.pattern-trader.app^$dnsrewrite=0.0.0.0
 |www.paulinawarszawa.com^$dnsrewrite=0.0.0.0
 |www.paycounter.com^$dnsrewrite=0.0.0.0
 |www.payn.me^$dnsrewrite=0.0.0.0
@@ -29197,9 +28741,7 @@
 |www.pl24.landovn.com^$dnsrewrite=0.0.0.0
 |www.pl25.landofm.com^$dnsrewrite=0.0.0.0
 |www.pl25.landovn.com^$dnsrewrite=0.0.0.0
-|www.pl26.landofm.com^$dnsrewrite=0.0.0.0
 |www.pl27.landofm.com^$dnsrewrite=0.0.0.0
-|www.pl27.landovn.com^$dnsrewrite=0.0.0.0
 |www.pl28.landofm.com^$dnsrewrite=0.0.0.0
 |www.pl28.landovn.com^$dnsrewrite=0.0.0.0
 |www.pl29.landofm.com^$dnsrewrite=0.0.0.0
@@ -29248,7 +28790,6 @@
 |www.playingmstop.my^$dnsrewrite=0.0.0.0
 |www.playrboxed.shop^$dnsrewrite=0.0.0.0
 |www.playsataion.com^$dnsrewrite=0.0.0.0
-|www.playtown.co.za^$dnsrewrite=0.0.0.0
 |www.playvod.pl^$dnsrewrite=0.0.0.0
 |www.playweez.pl^$dnsrewrite=0.0.0.0
 |www.pldaily.pro^$dnsrewrite=0.0.0.0
@@ -29268,7 +28809,6 @@
 |www.pobierzpc.pl^$dnsrewrite=0.0.0.0
 |www.pobierzteraz.mobi^$dnsrewrite=0.0.0.0
 |www.poctzawpx.weebly.com^$dnsrewrite=0.0.0.0
-|www.pocztapolish.weebly.com^$dnsrewrite=0.0.0.0
 |www.podologik.ca^$dnsrewrite=0.0.0.0
 |www.poeblossom.weebly.com^$dnsrewrite=0.0.0.0
 |www.poflirtujemy.pl^$dnsrewrite=0.0.0.0
@@ -29324,7 +28864,6 @@
 |www.pornsponsors.com^$dnsrewrite=0.0.0.0
 |www.portaldimensional.com^$dnsrewrite=0.0.0.0
 |www.portaldruku.pl^$dnsrewrite=0.0.0.0
-|www.portalrandkowy.c.pl^$dnsrewrite=0.0.0.0
 |www.port.bg^$dnsrewrite=0.0.0.0
 |www.postergaleria.chh.pl^$dnsrewrite=0.0.0.0
 |www.postergaleria.pl^$dnsrewrite=0.0.0.0
@@ -29390,7 +28929,6 @@
 |www.proecajami.digital^$dnsrewrite=0.0.0.0
 |www.professionalcash.com^$dnsrewrite=0.0.0.0
 |www.proficator.app^$dnsrewrite=0.0.0.0
-|www.profit-builder.org^$dnsrewrite=0.0.0.0
 |www.profit-edge.org^$dnsrewrite=0.0.0.0
 |www.profit-fury.app^$dnsrewrite=0.0.0.0
 |www.profit-method.org^$dnsrewrite=0.0.0.0
@@ -29411,7 +28949,6 @@
 |www.promo.buzzclicks.com^$dnsrewrite=0.0.0.0
 |www.promocjezkauflandu.24.eu^$dnsrewrite=0.0.0.0
 |www.promo.com.au^$dnsrewrite=0.0.0.0
-|wwwpromoter.com^$dnsrewrite=0.0.0.0
 |www.promotioncenter-24.com^$dnsrewrite=0.0.0.0
 |www.pronexovira.info^$dnsrewrite=0.0.0.0
 |www.pro-partners.nl^$dnsrewrite=0.0.0.0
@@ -29487,7 +29024,6 @@
 |www.quantserve.com^$dnsrewrite=0.0.0.0
 |www.quantum7core.top^$dnsrewrite=0.0.0.0
 |www.quantum-ai.info^$dnsrewrite=0.0.0.0
-|www.quantumai.info^$dnsrewrite=0.0.0.0
 |www.quantumai.org^$dnsrewrite=0.0.0.0
 |www.quantumai.site^$dnsrewrite=0.0.0.0
 |www.quantumalrex.org^$dnsrewrite=0.0.0.0
@@ -29510,7 +29046,6 @@
 |www.quantum-genius-gpt.com^$dnsrewrite=0.0.0.0
 |www.quantumgforce.app^$dnsrewrite=0.0.0.0
 |www.quantum-gforce.com^$dnsrewrite=0.0.0.0
-|www.quantum-hancock.org^$dnsrewrite=0.0.0.0
 |www.quantumhancock.org^$dnsrewrite=0.0.0.0
 |www.quantumincome.app^$dnsrewrite=0.0.0.0
 |www.quantum-iwave.com^$dnsrewrite=0.0.0.0
@@ -29520,7 +29055,6 @@
 |www.quantumprimeprofit.app^$dnsrewrite=0.0.0.0
 |www.quantum-primeprofit.com^$dnsrewrite=0.0.0.0
 |www.quantumprimeprofit.io^$dnsrewrite=0.0.0.0
-|www.quantumprimeprofit.org^$dnsrewrite=0.0.0.0
 |www.quantum-system.io^$dnsrewrite=0.0.0.0
 |www.quantum-tportal.com^$dnsrewrite=0.0.0.0
 |www.quantumtradewave.de^$dnsrewrite=0.0.0.0
@@ -29529,7 +29063,6 @@
 |www.quardoiltrade.org^$dnsrewrite=0.0.0.0
 |www.quastilon.wiki^$dnsrewrite=0.0.0.0
 |www.qubble.com^$dnsrewrite=0.0.0.0
-|www.queltex-ai.com^$dnsrewrite=0.0.0.0
 |www.questcurious.click^$dnsrewrite=0.0.0.0
 |www.quindarock.wiki^$dnsrewrite=0.0.0.0
 |www.quixbit.app^$dnsrewrite=0.0.0.0
@@ -29567,7 +29100,6 @@
 |www.rata.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.rbcfort.com^$dnsrewrite=0.0.0.0
 |www.rbxfree.com^$dnsrewrite=0.0.0.0
-|www.rbxtools.kg^$dnsrewrite=0.0.0.0
 |www.rdicom.net^$dnsrewrite=0.0.0.0
 |www.readnotify.com^$dnsrewrite=0.0.0.0
 |wwwrealator.com^$dnsrewrite=0.0.0.0
@@ -29655,7 +29187,6 @@
 |www.rixofewepro.digital^$dnsrewrite=0.0.0.0
 |www.rj153sian.shop^$dnsrewrite=0.0.0.0
 |www.rkenergiasolar.com^$dnsrewrite=0.0.0.0
-|www.rncig.doctortrf.com^$dnsrewrite=0.0.0.0
 |www.robbo-ai.app^$dnsrewrite=0.0.0.0
 |www.robotechcity.com^$dnsrewrite=0.0.0.0
 |www.rodzicenasali.pl^$dnsrewrite=0.0.0.0
@@ -29696,8 +29227,6 @@
 |www.runaddict.pl^$dnsrewrite=0.0.0.0
 |www.run-germany.com^$dnsrewrite=0.0.0.0
 |www.rushpay.pl^$dnsrewrite=0.0.0.0
-|www.ryberiklinkapp.com^$dnsrewrite=0.0.0.0
-|www.ryberiklinkapp.org^$dnsrewrite=0.0.0.0
 |www.rynekbitcoin.pl^$dnsrewrite=0.0.0.0
 |www.ryojmake.today^$dnsrewrite=0.0.0.0
 |www.ryosuke.plus.com^$dnsrewrite=0.0.0.0
@@ -29779,7 +29308,6 @@
 |www.secure-verify-update.ddns.info^$dnsrewrite=0.0.0.0
 |www.securoomaifr.com^$dnsrewrite=0.0.0.0
 |www.securoomaipt.com^$dnsrewrite=0.0.0.0
-|www.sedoparking.com^$dnsrewrite=0.0.0.0
 |www.sedyes.com^$dnsrewrite=0.0.0.0
 |www.seekways.com^$dnsrewrite=0.0.0.0
 |www.segernokalokas.com^$dnsrewrite=0.0.0.0
@@ -30066,9 +29594,7 @@
 |www.stillrep.cfd^$dnsrewrite=0.0.0.0
 |www.stimulatedturn.icu^$dnsrewrite=0.0.0.0
 |www.stockblastpro.app^$dnsrewrite=0.0.0.0
-|www.stockblast-pro.com^$dnsrewrite=0.0.0.0
 |www.stoneskirts.pl^$dnsrewrite=0.0.0.0
-|www.stopsoriasis.co.il^$dnsrewrite=0.0.0.0
 |www.stoq-markets.com^$dnsrewrite=0.0.0.0
 |www.storamore.pl^$dnsrewrite=0.0.0.0
 |www.store41001.12hp.ch^$dnsrewrite=0.0.0.0
@@ -30125,7 +29651,6 @@
 |www.supp0rtpr0tect-dxvz.vercel.app^$dnsrewrite=0.0.0.0
 |www.supp0rtpr0tect.vercel.app^$dnsrewrite=0.0.0.0
 |www.support1-2n78.vercel.app^$dnsrewrite=0.0.0.0
-|www.support1-ffb8.vercel.app^$dnsrewrite=0.0.0.0
 |www.support1-iaeg.vercel.app^$dnsrewrite=0.0.0.0
 |www.support1-qz2y.vercel.app^$dnsrewrite=0.0.0.0
 |www.support1-wxcz.vercel.app^$dnsrewrite=0.0.0.0
@@ -30151,7 +29676,6 @@
 |www.swisswatch.pl^$dnsrewrite=0.0.0.0
 |www.switchapple.shop^$dnsrewrite=0.0.0.0
 |www.switluxent-app.com^$dnsrewrite=0.0.0.0
-|www.sybilsanchez.com^$dnsrewrite=0.0.0.0
 |www.sylicomservicios.com^$dnsrewrite=0.0.0.0
 |www.symantex.com^$dnsrewrite=0.0.0.0
 |www.sympatia.info.pl^$dnsrewrite=0.0.0.0
@@ -30216,7 +29740,6 @@
 |www.terrapops.com^$dnsrewrite=0.0.0.0
 |www.terrawave.info^$dnsrewrite=0.0.0.0
 |www.terrificatomic.shop^$dnsrewrite=0.0.0.0
-|www.teslacoin.io^$dnsrewrite=0.0.0.0
 |www.teslacoin.software^$dnsrewrite=0.0.0.0
 |www.teslerapp.org^$dnsrewrite=0.0.0.0
 |www.testo.5v.pl^$dnsrewrite=0.0.0.0
@@ -30250,7 +29773,6 @@
 |www.the-bitcoinrevolution.com^$dnsrewrite=0.0.0.0
 |www.the-bitcoin-smarter.com^$dnsrewrite=0.0.0.0
 |www.thebitcoinsmarter.com^$dnsrewrite=0.0.0.0
-|www.the-bitcore-peak.com^$dnsrewrite=0.0.0.0
 |www.thebiticodes.com^$dnsrewrite=0.0.0.0
 |www.the-bitlq.com^$dnsrewrite=0.0.0.0
 |www.thebitqtapp.com^$dnsrewrite=0.0.0.0
@@ -30272,7 +29794,6 @@
 |www.theflixplay.us^$dnsrewrite=0.0.0.0
 |www.thefluxorbeam-ai.org^$dnsrewrite=0.0.0.0
 |www.thefluxorbeamai-today.org^$dnsrewrite=0.0.0.0
-|www.thegeldrixsurgeapp.org^$dnsrewrite=0.0.0.0
 |www.the-geldronai.org^$dnsrewrite=0.0.0.0
 |www.thegeldron-aiupdates.org^$dnsrewrite=0.0.0.0
 |www.thegeldronai-updates.org^$dnsrewrite=0.0.0.0
@@ -30304,13 +29825,11 @@
 |www.the-ryphormercadoapp-news.com^$dnsrewrite=0.0.0.0
 |www.theryzexorsurgeapp.net^$dnsrewrite=0.0.0.0
 |www.thesearchagency.net^$dnsrewrite=0.0.0.0
-|www.the-senvix.com^$dnsrewrite=0.0.0.0
 |www.thesexcinema.com^$dnsrewrite=0.0.0.0
 |www.thesocialsexnetwork.com^$dnsrewrite=0.0.0.0
 |www.thespotexelonxp.com^$dnsrewrite=0.0.0.0
 |www.thespotexelonxp.net^$dnsrewrite=0.0.0.0
 |www.thespotexelonxp.org^$dnsrewrite=0.0.0.0
-|www.the-swapproair.com^$dnsrewrite=0.0.0.0
 |www.thethirtybirds.com^$dnsrewrite=0.0.0.0
 |www.thetrezikforgegpt2025.com^$dnsrewrite=0.0.0.0
 |www.thetrezikforgegpt.com^$dnsrewrite=0.0.0.0
@@ -30419,7 +29938,6 @@
 |www.trade-capex-app.com^$dnsrewrite=0.0.0.0
 |www.tradecapexapp.org^$dnsrewrite=0.0.0.0
 |www.tradechenix.app^$dnsrewrite=0.0.0.0
-|www.tradechenix.co^$dnsrewrite=0.0.0.0
 |www.trade-cipro.app^$dnsrewrite=0.0.0.0
 |www.tradecompany.pl^$dnsrewrite=0.0.0.0
 |www.tradedoubler.com^$dnsrewrite=0.0.0.0
@@ -30429,7 +29947,6 @@
 |www.trade-eprex.net^$dnsrewrite=0.0.0.0
 |www.tradeeurax.ai^$dnsrewrite=0.0.0.0
 |www.tradeeurax.app^$dnsrewrite=0.0.0.0
-|www.tradeevista-app.net^$dnsrewrite=0.0.0.0
 |www.trade-flarex.app^$dnsrewrite=0.0.0.0
 |www.tradegpt350.com^$dnsrewrite=0.0.0.0
 |www.tradelax.com^$dnsrewrite=0.0.0.0
@@ -30618,7 +30135,6 @@
 |www.v9banners.com^$dnsrewrite=0.0.0.0
 |www.vabotikl.shop^$dnsrewrite=0.0.0.0
 |www.vads.net.vn^$dnsrewrite=0.0.0.0
-|www.vads.vn^$dnsrewrite=0.0.0.0
 |www.vahousebuyers.net^$dnsrewrite=0.0.0.0
 |www.vakiline.com^$dnsrewrite=0.0.0.0
 |www.vakorius.com^$dnsrewrite=0.0.0.0
@@ -30664,7 +30180,6 @@
 |www.venturexchange.hr^$dnsrewrite=0.0.0.0
 |www.ver1fyc0mmun1typ4ge-acwp.vercel.app^$dnsrewrite=0.0.0.0
 |www.veranadafer.top^$dnsrewrite=0.0.0.0
-|www.veridian-matrix-ai.org^$dnsrewrite=0.0.0.0
 |www.verifycaptcha.com^$dnsrewrite=0.0.0.0
 |www.veriqua.live^$dnsrewrite=0.0.0.0
 |www.versalka.pl^$dnsrewrite=0.0.0.0
@@ -30690,7 +30205,6 @@
 |www.vidoomy.com^$dnsrewrite=0.0.0.0
 |www.vietdorje.com^$dnsrewrite=0.0.0.0
 |www.viet-expert.com^$dnsrewrite=0.0.0.0
-|www.view4cash.de^$dnsrewrite=0.0.0.0
 |www.viewdes.site^$dnsrewrite=0.0.0.0
 |www.viewxteacher.shop^$dnsrewrite=0.0.0.0
 |www.vif-valtrix.net^$dnsrewrite=0.0.0.0
@@ -30741,13 +30255,11 @@
 |www.vod-tv.pl^$dnsrewrite=0.0.0.0
 |www.vodwizja.pl^$dnsrewrite=0.0.0.0
 |www.voicefive.com^$dnsrewrite=0.0.0.0
-|www.voltix-momentum.net^$dnsrewrite=0.0.0.0
 |www.vontauro.com^$dnsrewrite=0.0.0.0
 |www.vornacite.wiki^$dnsrewrite=0.0.0.0
 |www.vortexechoai.app^$dnsrewrite=0.0.0.0
 |www.vortexedge.app^$dnsrewrite=0.0.0.0
 |www.vortex-edge.org^$dnsrewrite=0.0.0.0
-|www.vortexprofit-max.com^$dnsrewrite=0.0.0.0
 |www.vpnaffiliates.com^$dnsrewrite=0.0.0.0
 |www.vratislavialex.pl^$dnsrewrite=0.0.0.0
 |www.vrtnepustolovine.com^$dnsrewrite=0.0.0.0
@@ -30864,7 +30376,6 @@
 |www.werlesmism.com^$dnsrewrite=0.0.0.0
 |www.wernet.pl^$dnsrewrite=0.0.0.0
 |www.werpomant.shop^$dnsrewrite=0.0.0.0
-|www.werxwer.pl^$dnsrewrite=0.0.0.0
 |www.weryfikacjadanych.com^$dnsrewrite=0.0.0.0
 |www.westendpiercing.com^$dnsrewrite=0.0.0.0
 |www.westernconcert.com^$dnsrewrite=0.0.0.0
@@ -30922,7 +30433,6 @@
 |www.woctr.shop^$dnsrewrite=0.0.0.0
 |www.wojxqc.webwave.dev^$dnsrewrite=0.0.0.0
 |www.wolaklosza.is-best.net^$dnsrewrite=0.0.0.0
-|www.wolyncalyfilm.wordpress.com^$dnsrewrite=0.0.0.0
 |www.wonderfullydays.com^$dnsrewrite=0.0.0.0
 |www.wordseach.com^$dnsrewrite=0.0.0.0
 |www.workstations.pl^$dnsrewrite=0.0.0.0
@@ -30984,7 +30494,6 @@
 |www.xetnghiemnipt.com^$dnsrewrite=0.0.0.0
 |www.xformq.cfd^$dnsrewrite=0.0.0.0
 |www.xg4ken.com^$dnsrewrite=0.0.0.0
-|www.xgen.bot^$dnsrewrite=0.0.0.0
 |www.x-hosepl2.com^$dnsrewrite=0.0.0.0
 |www.xinoda.digital^$dnsrewrite=0.0.0.0
 |www.xisalihopy.digital^$dnsrewrite=0.0.0.0
@@ -31060,7 +30569,6 @@
 |www.yvmads.com^$dnsrewrite=0.0.0.0
 |www.ywmc.com.tw^$dnsrewrite=0.0.0.0
 |www.yy9i-casefb270423.vercel.app^$dnsrewrite=0.0.0.0
-|www.yzxvm.doctorbusy.com^$dnsrewrite=0.0.0.0
 |www.za10groszy.pl^$dnsrewrite=0.0.0.0
 |www.zabavazaodrasle.com^$dnsrewrite=0.0.0.0
 |www.zabawkowo.fun^$dnsrewrite=0.0.0.0
@@ -31164,7 +30672,6 @@
 |www.zuivertradelux.net^$dnsrewrite=0.0.0.0
 |www.zumodi.com^$dnsrewrite=0.0.0.0
 |www.zuverink.net^$dnsrewrite=0.0.0.0
-|www.zww.ero-advertising.com^$dnsrewrite=0.0.0.0
 |www.zyberlichbeam-ai.org^$dnsrewrite=0.0.0.0
 |www.zyberlichbeamaiswiss.com^$dnsrewrite=0.0.0.0
 |www.zyberlichbeamaiswiss.org^$dnsrewrite=0.0.0.0
@@ -31255,7 +30762,6 @@
 |xetnghiemnipt.com^$dnsrewrite=0.0.0.0
 |xformq.cfd^$dnsrewrite=0.0.0.0
 |xg4ken.com^$dnsrewrite=0.0.0.0
-|xgen.bot^$dnsrewrite=0.0.0.0
 |xghny.com^$dnsrewrite=0.0.0.0
 |xhealth.112.2o7.net^$dnsrewrite=0.0.0.0
 |xhealthmobiltools.112.2o7.net^$dnsrewrite=0.0.0.0
@@ -31454,7 +30960,6 @@
 |yun-static.soperson.com^$dnsrewrite=0.0.0.0
 |yuppipuppy.com^$dnsrewrite=0.0.0.0
 |yy9i-casefb270423.vercel.app^$dnsrewrite=0.0.0.0
-|yzxvm.doctorbusy.com^$dnsrewrite=0.0.0.0
 |z1.adserver.com^$dnsrewrite=0.0.0.0
 |z1.extreme-dm.com^$dnsrewrite=0.0.0.0
 |z1.zedo.com^$dnsrewrite=0.0.0.0

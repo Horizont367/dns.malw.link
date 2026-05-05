@@ -51,7 +51,7 @@ for action in "$@"; do
                     echo -e "\e[31m[DELETE]\e[0m $1" >&2
                 fi
             }
-            export -f check_and_filter1
+            export -f check_and_filter
             grep -vE '^\s*#|^\s*$' lists/garbage.txt | tr -d '\r' | xargs -P 20 -I {} bash -c 'check_and_filter "{}"' | sort -u > "$temp_file"
             mv "$temp_file" lists/garbage.txt
             echo "Нерабочие домены и дубликаты удалены из garbage.txt"
