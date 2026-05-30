@@ -1,6 +1,6 @@
 services:
   dns:
-    image: powerdns/dnsdist-20:2.0.2
+    image: powerdns/dnsdist-20:2.0.5
     container_name: dnsdist
     ports:
       - "53:53/udp"
