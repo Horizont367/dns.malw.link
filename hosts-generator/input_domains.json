@@ -15,11 +15,14 @@
             "api.openai.com",
             "operator.chatgpt.com",
             "sora.chatgpt.com",
-            "sora.com",
             "videos.openai.com",
             "ios.chat.openai.com",
             "cdn.platform.openai.com",
-            "developers.openai.com"
+            "developers.openai.com",
+            "sdmntprukwest.oaiusercontent.com",
+            "sdmntpritalynorth.oaiusercontent.com",
+            "sdmntprpolandcentral.oaiusercontent.com",
+            "sdmntprnortheu.oaiusercontent.com"
         ]
     },
     {
@@ -99,7 +102,6 @@
             "dd.tidal.com",
             "resources.tidal.com",
             "images.tidal.com",
-            "fsu.fa.tidal.com",
             "geolocation.onetrust.com",
             "api.squareup.com",
             "api-global.squareup.com"
@@ -249,7 +251,8 @@
         "section": "Notion",
         "domains": [
             "www.notion.so",
-            "calendar.notion.so"
+            "calendar.notion.so",
+            "app.notion.com"
         ]
     },
     {

@@ -47,7 +47,6 @@ pump.fun
 qwant.com
 scdn.co
 snapeda.com
-sora.com
 spotify.com
 spotifycdn.com
 strava.com
@@ -62,3 +61,6 @@ wikidot.com
 windsurf.com
 ws.audioscrobbler.com
 x.ai
+xdaforums.com
+metadefender.com
+anixsekai.com

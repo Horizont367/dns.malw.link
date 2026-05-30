@@ -77,3 +77,6 @@ www.tiktok.com
 xgpuweb.gssv-play-prod.xboxlive.com
 xgpuwebf2p.gssv-play-prod.xboxlive.com
 xsts.auth.xboxlive.com
+app.notion.com
+api.loveable.dev
+ai-gateway.vercel.sh
